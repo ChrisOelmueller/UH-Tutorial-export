@@ -1,7 +1,7 @@
 
 Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-09-04 17:01+0200\nLast-Translator: Christopher <eoc.eoc.eoc@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: pt_BR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n > 1);\nX-Generator: Pootle 2.1.5\n
 Roteiro
-A equipe UH
+
 Roteiro:\nFirma seu primeiro acordo e aprende como jogar!\n
 
 Bem-vindo a Unknown Horizons!

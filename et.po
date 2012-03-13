@@ -7,9 +7,9 @@ Ehita rannikule harukontor nii et see oleks lihtsalt ligipääsetav teistele lae
 Tere tulemast mängima Unknown Horizons!
 
 See siin on sinu Kapteni logiraamat kuhu kõik vajalik info salvestatakse.Vasakule ekraani serva kuvatakse lühiteade iga tegevuse kohta.\n\nKui sind huvitab pikem kirjeldus tegevusest siis loodetavasti su logiraamat seda ka kuvab.\n\nLogiraamatu sulgemise puhul on võimalik seda taasavada vajutades Kapteni logiraamat nuppu üleval paremal nurgas (mini kaardist allpool,suletud dokument ja sulg)\n\nEttepanekud,parem õigekirj ja teemad mis vajavad täpsemat seletust või isegi vead mis ilmnevad: Palun anna nendest meile teada ja me proovime täiendada õpetust.\n\nKülasta lehekülge www.unknown-horizons.org abi saamiseks kuidas mängu loojatega ühendust saada!\n\nJa nüüd alustame mängimisega.
-ÜLESANNE: KOLONISEERI SAAR
+
 Laeva liigutamiseks vali laev vasakpoolse nupuga ja seejärel vali parempoolse nupuga uus asukoht.\n\nRannikule piisaval lähedale jõudes aktiveerub ankru kujutisega nupp.\n\nNupule vajutades saad rannikule ehitada harukontori (nupu nimi Ehita Koloonia)\n\nVajutus järgselt saad ehitist liigutada kasutades hiire kursorit.\n\nEhitada saab igale kohale mis ei ole märgitud punasega.\nEhitamiseks vajuta hiire nuppu.\n\nÜLESANNE: ehita harukontor rannikule.
-ÜLESANNE: EHITA PUURAIDUR
+
 Sinu laeval olevad materjalid laaditakse maha automaatselt. Nüüd saad ehitada mõned algelised ehitised.\n\nAlustame puuraidurist.\n\nSee on vajalik kuna puidust lauad on ainsad vahendid momendil mida saab kasutada telkide püstitamiseks.\n\nLisaks vajab ka kalamees oma laeva ehitamiseks laudu.\n\nEt ehitada puuraidur ava ehitiste menüü vajutades suurele ikoonile mini kaardi all või vajutades nuppu B.\n\nEhitiste menüü on jagatud gruppideks.\nSinu kasutada on momendil ainult esimene grupp (Meremehe tase) seega saad ehitada ainult  algelisi ehitisi.
 
 
@@ -17,7 +17,6 @@ Sinu laeval olevad materjalid laaditakse maha automaatselt. Nüüd saad ehitada 
 
 
 
-ÜLESANNE: PEAVÄLJAK
 
 
 
@@ -26,7 +25,8 @@ Sinu laeval olevad materjalid laaditakse maha automaatselt. Nüüd saad ehitada 
 
 
 
-ÜLESANNE: EHITA SIGNAALTULI
+
+
 
 
 
@@ -35,7 +35,6 @@ Sinu laeval olevad materjalid laaditakse maha automaatselt. Nüüd saad ehitada 
 
 
 
-ÜLESANNE: EHITA PAVILJON
 
 
 
@@ -43,7 +42,8 @@ Sinu laeval olevad materjalid laaditakse maha automaatselt. Nüüd saad ehitada 
 
 
 
-ÜLESANNE: EHITA FARM
+
+
 
 
 

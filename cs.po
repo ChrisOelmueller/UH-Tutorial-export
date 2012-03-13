@@ -1,7 +1,7 @@
 
 Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-12-22 13:22+0200\nLast-Translator: naked.in.rain <martin.mezl@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Pootle 2.1.5\n
 Tutorial
-Tým UH
+
 Tutorial:\nPostavte svojí první osadu a naučte se hrát!\n
 Postavte na pobřeží Obchodní přístav, aby byl snadno dostupný ostatním lodím, jako je třeba volný obchodník.
 Vítej v Unknown Horizons!
@@ -17,7 +17,7 @@ Po zavření deníku, může být tento znovu otevřen ikonou 'Lodní deník' v 
 Pro jakékoliv návrhy na lepší formulace, témata, které byste chtěil mít vysvětlené nebo je někde chyba napište nám a my se pokusíme o nápravu.
 Na www.unknown-horizons.org nás můžete kontaktovat.
 A nyní pojďme hrát."
-NOVÝ ÚKOL: OSÍDLIT OSTROV
+
 Once you are near the coast, the anchor-like button you see in the overview tab will become active.
 This indicates that you are able to build a warehouse there by pressing that button (called 'Build Settlement').
 Now a preview of your building is dragged around when you move the cursor.
@@ -29,7 +29,7 @@ To naznačuje, že zde můžete postavit Obchodní přístav stiskem tohoto tla�
 Nyní se zobrazí náhled budovy při pohybu kurzorem.
 Můžete postavit budovu na jakémkoliv místě, kde náhled není zbarven červeně.\nKlikněte kdekoliv pro umístění vaší první budovy.
 ÚKOL: Postavte Obchodní přístav na pobřeží."
-NOVÝ ÚKOL: POSTAVTE DŘEVORUBCE
+
 We will start with building a lumberjack.
 This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.
 The fisherman needs some boards to build his vessel as well.
@@ -56,7 +56,7 @@ To znamená, že musíte vybudovat stezku spojující váš Obchodní přístav 
 ÚKOL: Postavte dřevorubce v lesnaté oblasti a propojte ho cestou.
 Sledujte jak výběrčí vybere vaše první vyprodukované prkna."
 Postavte dřevorubce a spojte ho s Obchodním přístavem pomocí stezky.
-NOVÝ ÚKOL: PRODUKCE JÍDLA
+
 Available companies in the first increment are the Hunter and Fisher.
 The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.
 Note that you can place your Hunter close to the lumberjack's forest.
@@ -105,7 +105,7 @@ Položky \"Nákup\" a \"Prodej\" ukazují Vaši obchodní bilanci a budou vysvě
 Pokud je Vaše bilance kladná, vykazujete zisk.
 Dále jsou zde záložky odpovídající jednotlivým úrovním. Zde můžete sledovat statistiky o Vašich obyvatelích. Zde můžete nastavit celkovou daň a povolit nebo zakázat obyvatelům na dané úrovni postoupit do vyšší úrovně."
 Postavte tržiště. Vyberte oblast, kde se nenachází mnoho produkčních budov.
-NOVÝ ÚKOL: OBYTNÉ BUDOVY
+
 
 Tents are the basic residential buildings. Your inhabitants will want to upgrade it when they reach higher increments.
 Settlers may not look very useful since they will try to consume all goods you produce - but they at least pay taxes, and that's the only way you can make money for now!
@@ -172,7 +172,7 @@ Vaši obchodní bilanci můžete vidět v záložce \"Účet\", kde jsou srovná
 ÚKOL: Nakupte nástroje tak, aby zásoby ve vašem skladu byly 30 jednotek!"
 Dosáhněte zásoby 30 nástrojů ve skladu.
 Všimněte si, že to může chvíli trvat.
-NOVÝ ÚKOL: POSTAVTE PAVILÓN
+
 You now provide housing, a main square and food to your inhabitants.
 Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.
 The solution is a pavilion which the village parson quickly puts up as shelter from the sun.
@@ -214,7 +214,7 @@ Vylepšené domy pojmou více obyvatel a průkopníci také platí vyšší dan�
 Jak už jste si možná všimli, nevýhodou je, že průkopníci požadují dodatečné zboží, které námořníci nepotřebovali - takže budete muset utratit peníze, abyste je učinili šťastnými.
 ÚKOL: Nastavte výši daní na nízkou hodnotu (levý okraj posuvníku) a počkejte na vylepšení."
 Nastavte výši daní na nízkou hodnotu (levý okraj) a počkejte na vylepšení.
-NOVÝ ÚKOL: POSTAVTE FARMU
+
 Now you have access to new buildings, take a look at the Build menu again.
 A shiny new tab appeared there.
 Pioneers will demand cloth, so you need to set up a production line for cloth starting with lambs wool (which is one of the goods produced at the farm).
@@ -279,7 +279,7 @@ tato budova má dva učely a to:\n* Nabízí více prostoru pro vaše zboží, a
 Pamatujte že všechny společnosti potřebují být spojeny s Obchodním přístavem pro svoz zboží. Pokud má Obchodní přístav moc úkolů postavte skladovací stan ktery Obchodnímu přístavu pomůže při svážení výrobků..
 ÚKOL: Vybudujte skladovací stan, přednostně tam kde potřebujete sběrače."
 Vybudujte skladovací stan (v záložce úrovně I) tam, kde to má smysl.
-NOVÝ ÚKOL: POSTAVTE TKALCOVNU
+
 There are two spots where you can build it - either close to the farm or close to a Storage Tent (or the warehouse).
 In both cases you should ensure the connection to a trail as well.
 You can place the weaver close to the farm and tear down any trail to the farm to see that it will still fetch the wool and produce.
@@ -291,7 +291,7 @@ Pokud bude tkadlec v dosahu farmy nemusíte je propojit stezkou a přece to bude
 ÚKOL: Postavte tkalcovnu tak, aby byla v dosahu vlny."
 Postavte tkalcovnu, která bude v dosahu vlny z Vaší farmy.
 Dosáhnětě 50 a více obyvatel ve vašem městě k dokončení tutorialu. Musíte mít pozitivní bilanci.
-NOVÝ ÚKOL: DOKONČETE TUTORIAL
+
 Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!
 TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial."
 msgstr "Dosáhnětě 50 a více obyvatel tím, že jim postavíte více domů.

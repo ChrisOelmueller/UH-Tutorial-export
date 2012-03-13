@@ -7,30 +7,6 @@ Turorial:\nIzgradi svoje prvo naseljenje i nauči kako igrati!\n
 
 Dobrodošli u Unknown Horizons!
 
-NOVI ZADATAK: NASELI SE NA OTOK
-
-
-
-
-
-
-
-
-
-NOVI ZADATAK: GLAVNI TRG
-
-
-
-
-
-
-
-
-ZADATAK: IZGRADI SIGNALNU VATRU
-
-
-
-ZADATAK: NAUČI TRGOVATI
 
 
 
@@ -43,15 +19,34 @@ ZADATAK: NAUČI TRGOVATI
 
 
 
-ZADATAK: IZGRADI FARMU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Izgradi farmu i ostavi nešto slobodnog mjesta oko nje.
-ZADATAK: IZGRADI POLJA
-
-
-
-ZADATAK: IZGRADI SKLADIŠTE
 
 
 
@@ -61,7 +56,12 @@ ZADATAK: IZGRADI SKLADIŠTE
 
 
 
-NEMA VIŠE ZADATAKA
+
+
+
+
+
+
 
 Hvala!
 
