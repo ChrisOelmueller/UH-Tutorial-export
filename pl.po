@@ -1,7 +1,5 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR The Unknown Horizons Team
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+
+
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -18,18 +16,12 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.1.5\n"
 
-#. scenario difficulty
-#: po/tutorial.py:2
 msgid "Tutorial"
 msgstr "Samouczek"
 
-#. scenario author
-#: po/tutorial.py:4
 msgid "The UH team"
 msgstr "Zespół UH"
 
-#. scenario description
-#: po/tutorial.py:6
 msgid ""
 "The tutorial:\n"
 "Build your first settlement and learn how to play!\n"
@@ -37,9 +29,7 @@ msgstr ""
 "Samouczek:\n"
 "Zbuduj swoją pierwszą osadę i naucz się jak grać!\n"
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:8
-#, fuzzy
+
 msgid ""
 "Build a warehouse at the coast, so it is easy accessible for other ships "
 "like the Free Trader."
@@ -47,14 +37,10 @@ msgstr ""
 "Wybuduj port na wybrzeżu, tak aby inne statki miały do niego dostęp, np. "
 "Kupcy."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:10
 msgid "Welcome to Unknown Horizons!"
 msgstr "Witaj w Unknown Horizons!"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:12
-#, fuzzy
+
 msgid ""
 "This is your Captain's log where all important information is stored. A "
 "short notification of each task will be provided on the left of the screen.\n"
@@ -94,14 +80,10 @@ msgstr ""
 "\n"
 "Teraz przejdźmy do właściwej gry."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:14
 msgid "NEW TASK: SETTLE ON AN ISLAND"
 msgstr "Nowe zadanie: Osiedl się na wyspie"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:16
-#, fuzzy
+
 msgid ""
 "To move your ship, select it with a left click and right click on the "
 "location you want it to go to.\n"
@@ -135,13 +117,9 @@ msgstr ""
 "\n"
 "Zadanie: Wybuduj port na wybrzeżu."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:18
 msgid "NEW TASK: BUILD A LUMBERJACK"
 msgstr "Nowe zadanie: Wybuduj chatę drwala"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:20
 msgid ""
 "The construction material on your ship got unloaded automatically. You can "
 "now construct some basic buildings.\n"
@@ -179,9 +157,7 @@ msgstr ""
 "W tym momencie jesteś na pierwszy z etapów (poziom Żeglarzy) dlatego masz "
 "dostęp tylko do podstawowych budynków."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:22
-#, fuzzy
+
 msgid ""
 "\n"
 "As your civilization advances, you also gain more and more complex "
@@ -224,19 +200,13 @@ msgstr ""
 "\n"
 "Obserwuj jak pomocnik odbiera od drwala Twoje pierwsze wyprodukowane deski."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:24
-#, fuzzy
+
 msgid "Build a lumberjack and connect it to the warehouse using a trail."
 msgstr "Wybuduj chatę drwala i połącz ją drogą z portem."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:26
 msgid "NEW TASK: FOOD SUPPLY"
 msgstr "Nowe Zadanie: Zaopatrzenie w żywność"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:28
 msgid ""
 "You will need to have some food-producing companies, too, because people in "
 "general (and especially sailors) are very hungry.\n"
@@ -271,9 +241,7 @@ msgstr ""
 "Wniosek: Aby zapewnić stały dostęp do żywności nie możesz oprzeć się tylko "
 "na myśliwym."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:30
-#, fuzzy
+
 msgid ""
 "\n"
 "The Fisher needs a coastal building site like the warehouse and a fish "
@@ -303,20 +271,14 @@ msgstr ""
 "\n"
 "Nie zapomnij połączyć ich drogą ze swoim portem!"
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:32
-#, fuzzy
+
 msgid "Build a hunter and a fisher. Connect them to the warehouse."
 msgstr "Wybuduj chatę myśliwego i rybaka. Połącz je drogą z portem."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:34
 msgid "NEW TASK: MAIN SQUARE"
 msgstr "Now Zadanie: Rynek główny"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:36
-#, fuzzy
+
 msgid ""
 "Your residents need a main square where they can fetch their goods from.\n"
 "\n"
@@ -355,9 +317,7 @@ msgstr ""
 "\n"
 "Zadanie: Wybuduj rynek główny."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:38
-#, fuzzy
+
 msgid ""
 "\n"
 "Now let's have a closer look at the main square.\n"
@@ -386,20 +346,14 @@ msgstr ""
 "\n"
 "Jeżeli Twoje saldo jest dodatnie, odnosisz zyski.\n"
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:40
 msgid "Build a main square. Choose an area without many economy buildings."
 msgstr ""
 "Wybuduj rynek glówny. Wybierz obszar bez dużej ilości budynków produkcyjnych."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:42
 msgid "NEW TASK: RESIDENTIAL BUILDINGS"
 msgstr "Nowe Zadanie: Budynki mieszkalne"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:44
-#, fuzzy
+
 msgid ""
 "Settlers want to have a roof over their heads, else they won't even think of "
 "living in your city! You need to provide tents.\n"
@@ -427,14 +381,10 @@ msgstr ""
 "\n"
 "Zadanie: Postaw namioty i połącz je drogami z rynkiem."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:46
 msgid "Build a tent and connect it to the main square."
 msgstr "Postaw namioty i połącz je drogą z rynkiem głównym."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:48
-#, fuzzy
+
 msgid ""
 "\n"
 "Let's have a look at the tent overview tab.\n"
@@ -477,21 +427,15 @@ msgstr ""
 "Wskazówka: Przytrzymując klawisz SHIFT łatwiej postawić kilka kontrukcji "
 "tego samego typu."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:50
 msgid ""
 "Build at least three additional tents and connect them to the main square."
 msgstr ""
 "Postaw conajmniej trzy dodatkowe namioty i połącz je drogą z rynkiem głównyn."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:52
 msgid "NEW TASK: BUILD SIGNAL FIRE"
 msgstr "Nowe Zadanie: Wybuduj sygnał świetlny"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:54
-#, fuzzy
+
 msgid ""
 "Can you see the ship passing your island from time to time? That ship "
 "belongs to the Free Trader, one of the first settlers in this archipelago.\n"
@@ -529,9 +473,7 @@ msgstr ""
 "Sygnał świetlny musi pokryć obszar którym przepływają statki aby nakierować "
 "ich na Twoją osadę."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:56
-#, fuzzy
+
 msgid ""
 "\n"
 "After this little advertisment, the trader will also stop by and look into "
@@ -566,19 +508,13 @@ msgstr ""
 "\n"
 "Zadanie: Wybuduj sygnał świetlny na wybrzeżu nieopodal twojego portu."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:58
-#, fuzzy
+
 msgid "Build a signal fire at the coast close to your warehouse."
 msgstr "Wybuduj latarnie na wybrzeżu w pobliżu swojego portu."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:60
 msgid "NEW TASK: LEARN TO TRADE"
 msgstr "Nowe Zadanie: Naucz się handlować"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:62
 msgid ""
 "Excellent! The Free Trader will now stop by at your warehouse from time to "
 "time.\n"
@@ -595,8 +531,6 @@ msgid ""
 "not sell"
 msgstr ""
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:64
 msgid ""
 "\n"
 "For example:\n"
@@ -617,23 +551,15 @@ msgid ""
 "TASK: Buy as many tools as you need to have 30 tools in stock!"
 msgstr ""
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:66
 msgid "Reach an island stock of at least 30 tools."
 msgstr "Zdobądź co najmniej 30 sztuk narzędzi."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:68
 msgid "Note that this might take a while."
 msgstr ""
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:70
 msgid "NEW TASK: BUILD A PAVILION"
 msgstr "Nowe Zadanie: Wybuduj kaplicę"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:72
 msgid ""
 "Those tools will be enough for the moment. Well done!\n"
 "\n"
@@ -670,9 +596,7 @@ msgstr ""
 "Na następnych poziomach rozwoju będziesz miał możliwość postawienia "
 "większych i lepszych bydnków spełniających te same funkcję."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:74
-#, fuzzy
+
 msgid ""
 "\n"
 "Note that faith is treated like a physical resource!\n"
@@ -707,18 +631,12 @@ msgstr ""
 "Zadanie: Wybuduj kaplice z drogą do wszystkich namiotów aby zapewnić dostęp "
 "wiernym do kaplicy."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:76
 msgid "Build a pavilion with connection to the tents."
 msgstr "Wybuduj kaplicę i połącz ją drogą z namiotami."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:78
 msgid "NEW TASK: NEXT INCREMENT"
 msgstr "Nowe Zadanie: Następny poziom"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:80
 msgid ""
 "All demands are fulfilled now if your inhabitants can regularly visit the "
 "main square & pavilion and your food supply is adequate.\n"
@@ -741,8 +659,6 @@ msgstr ""
 "możliwość odwiedzania rynku głównego, kaplicy a także zapas żywności jest "
 "wystarczający."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:82
 msgid ""
 "\n"
 "Such residential upgrades are the only ones which cost resources and can not "
@@ -763,19 +679,13 @@ msgid ""
 "TASK: Set the tax level to Low (left end) and wait for sailors to upgrade."
 msgstr ""
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:84
 msgid ""
 "Set the tax level to Low (left end) and wait for your sailors to upgrade."
 msgstr ""
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:86
 msgid "NEW TASK: BUILD A FARM"
 msgstr ""
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:88
 msgid ""
 "Congratulations! Some of your inhabitants have reached increment II!\n"
 "\n"
@@ -793,8 +703,6 @@ msgid ""
 "The output of farms depends on what kind of fields you build around it."
 msgstr ""
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:90
 msgid ""
 "\n"
 "We will have a closer look at this later.\n"
@@ -816,18 +724,12 @@ msgid ""
 "TASK: Build a farm."
 msgstr ""
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:92
 msgid "Build a farm and keep some empty space around it."
 msgstr ""
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:94
 msgid "NEW TASK: BUILD FIELDS"
 msgstr ""
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:96
 msgid ""
 "The farm itself is not going to produce anything without some fields.\n"
 "\n"
@@ -846,8 +748,6 @@ msgid ""
 "the field!) as it will be the only company to work on the goods."
 msgstr ""
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:98
 msgid ""
 "\n"
 "Make sure that all fields you build are in the area covered by the farm.\n"
@@ -867,18 +767,12 @@ msgid ""
 "if you like."
 msgstr ""
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:100
 msgid "Build at least one pasture and add potato fields if you like."
 msgstr ""
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:102
 msgid "NEW TASK: BUILD STORAGE"
 msgstr ""
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:104
 msgid ""
 "Did you watch your lumberjack recently?\n"
 "\n"
@@ -898,8 +792,6 @@ msgid ""
 "lower than if you keep the company producing."
 msgstr ""
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:106
 msgid ""
 "\n"
 "This means that you can save money when you temporarily do not need a "
@@ -919,18 +811,12 @@ msgid ""
 "TASK: Build a storage tent, preferably where you need collectors."
 msgstr ""
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:108
 msgid "Build a storage tent (increment I tab) where it makes sense."
 msgstr ""
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:110
 msgid "NEW TASK: BUILD A WEAVER"
 msgstr ""
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:112
 msgid ""
 "Now the wool production is set up, you still need a weaver to produce cloth "
 "out of this wool.\n"
@@ -946,26 +832,18 @@ msgid ""
 "TASK: Build a weaver positioned so it can get wool."
 msgstr ""
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:114
 msgid "Build a weaver that can somehow reach the wool of your farm."
 msgstr ""
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:116
 msgid ""
 "House a total of 50 or more inhabitants in your city to complete the "
 "tutorial. You need a positive balance."
 msgstr ""
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:118
-#, fuzzy
+
 msgid "NEW TASK: COMPLETE TUTORIAL"
 msgstr "NOWE ZADANIE: UKOŃCZ TUTORIAL"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:120
 msgid ""
 "Try to house a total of 50 or more inhabitants in your city by providing "
 "more residential buildings.\n"
@@ -977,14 +855,10 @@ msgid ""
 "complete this tutorial."
 msgstr ""
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:122
-#, fuzzy
+
 msgid "NO TASKS LEFT"
 msgstr "Wszystkie zadania wykonano"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:124
 msgid ""
 "There is nothing left to do now.\n"
 "\n"
@@ -1003,13 +877,9 @@ msgid ""
 "could try that out first (-;"
 msgstr ""
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:126
 msgid "Thanks!"
 msgstr "Dziękuję!"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:128
 msgid ""
 "\n"
 "\n"
@@ -1023,12 +893,8 @@ msgid ""
 "Your UH-Team"
 msgstr ""
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:130
 msgid ""
 "Congratulations! You have reached the end of this tutorial and are ready to "
 "meet new challenges!"
 msgstr ""
 
-#~ msgid "Build a branch office at the coast."
-#~ msgstr "Zbuduj port na wybrzeżu."

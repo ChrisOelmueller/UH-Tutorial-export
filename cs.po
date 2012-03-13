@@ -1,38 +1,24 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR The Unknown Horizons Team
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+
+
 msgid ""
 msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-12-22 13:22+0200\nLast-Translator: naked.in.rain <martin.mezl@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Pootle 2.1.5\n"
 
-#. scenario difficulty
-#: po/tutorial.py:2
 msgid "Tutorial"
 msgstr "Tutorial"
 
-#. scenario author
-#: po/tutorial.py:4
 msgid "The UH team"
 msgstr "Tým UH"
 
-#. scenario description
-#: po/tutorial.py:6
 msgid "The tutorial:\nBuild your first settlement and learn how to play!\n"
 msgstr "Tutorial:\nPostavte svojí první osadu a naučte se hrát!\n"
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:8
 msgid "Build a warehouse at the coast, so it is easy accessible for other ships like the Free Trader."
 msgstr "Postavte na pobřeží Obchodní přístav, aby byl snadno dostupný ostatním lodím, jako je třeba volný obchodník."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:10
 msgid "Welcome to Unknown Horizons!"
 msgstr "Vítej v Unknown Horizons!"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:12
-#, fuzzy
+
 msgid "This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
 If you are interested in longer descriptions, your log will hopefully provide all the help you need.
 After you close this log, it can be re-opened with the \"Captain's Log\" icon in the top-right corner (below the mini-map, with a sealed document and a feather).
@@ -46,13 +32,9 @@ Pro jakékoliv návrhy na lepší formulace, témata, které byste chtěil mít 
 Na www.unknown-horizons.org nás můžete kontaktovat.
 A nyní pojďme hrát."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:14
 msgid "NEW TASK: SETTLE ON AN ISLAND"
 msgstr "NOVÝ ÚKOL: OSÍDLIT OSTROV"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:16
 msgid "To move your ship, select it with a left click and right click on the location you want it to go to.
 Once you are near the coast, the anchor-like button you see in the overview tab will become active.
 This indicates that you are able to build a warehouse there by pressing that button (called 'Build Settlement').
@@ -66,13 +48,9 @@ Nyní se zobrazí náhled budovy při pohybu kurzorem.
 Můžete postavit budovu na jakémkoliv místě, kde náhled není zbarven červeně.\nKlikněte kdekoliv pro umístění vaší první budovy.
 ÚKOL: Postavte Obchodní přístav na pobřeží."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:18
 msgid "NEW TASK: BUILD A LUMBERJACK"
 msgstr "NOVÝ ÚKOL: POSTAVTE DŘEVORUBCE"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:20
 msgid "The construction material on your ship got unloaded automatically. You can now construct some basic buildings.
 We will start with building a lumberjack.
 This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.
@@ -86,9 +64,7 @@ Také rybář potřebuje nějaká prkna, aby si mohl vyrobit svou loďku.
 Aby jste postavili dřevorubce, otevřete stavební menu kliknutím na velkou ikonu pod mini mapou nebo stisknutím klávesy B.
 Stavební menu je rozděleno podle jednotlivých úrovní.\nNyní se nacházíte na první úrovni (námořnická úroveň), proto máte k dispozici pouze základní budovy."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:22
-#, fuzzy
+
 msgid "\nAs your civilization advances, you also gain more and more complex buildings.
 For now, select the lumberjack under 'Companies' and build it in an area with some trees around.
 You can also plant trees later - but that costs money. Use what nature provided you with!
@@ -104,18 +80,12 @@ To znamená, že musíte vybudovat stezku spojující váš Obchodní přístav 
 ÚKOL: Postavte dřevorubce v lesnaté oblasti a propojte ho cestou.
 Sledujte jak výběrčí vybere vaše první vyprodukované prkna."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:24
 msgid "Build a lumberjack and connect it to the warehouse using a trail."
 msgstr "Postavte dřevorubce a spojte ho s Obchodním přístavem pomocí stezky."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:26
 msgid "NEW TASK: FOOD SUPPLY"
 msgstr "NOVÝ ÚKOL: PRODUKCE JÍDLA"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:28
 msgid "You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
 Available companies in the first increment are the Hunter and Fisher.
 The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.
@@ -129,9 +99,7 @@ Všimněte si, že lovce můžete umístit blízko dřevorubcova lesa.
 Stává se, že zvířata se nemnoží dostatečně rychle nebo se umí dobře schovat.
 Závěrem: Lovec není příliš spolehlivý zdroj potravy, pokud potřebujete nepřerušované zásobování."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:30
-#, fuzzy
+
 msgid "\nThe Fisher needs a coastal building site like the warehouse and a fish school in range.
 He will build a small rowing vessel and catch some fish.
 This is a very constant supply at the cost of a slightly longer production time per unit of food.
@@ -145,19 +113,13 @@ Malá osada, jakou je ta Vaše, může využít obě společnosti. Pokud je uvid
 ÚKOL: Postavte lovce a rybáře.
 Nezapomeňte je připojit k Vašemu Obchodnímu přístavu pomocí stezek!"
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:32
 msgid "Build a hunter and a fisher. Connect them to the warehouse."
 msgstr "Postavte lovce a rybáře. Spojte je s budovou Obchodního přístavu."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:34
 msgid "NEW TASK: MAIN SQUARE"
 msgstr "NOVÝ ÚKOL: TRŽIŠTĚ"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:36
-#, fuzzy
+
 msgid "Your residents need a main square where they can fetch their goods from.
 This means that they need a trail connection from their home to the main square.
 All goods in your warehouse are available at this 'market place', so your residents do not need to walk to the fisher or even to the warehouse.
@@ -171,9 +133,7 @@ Měli byste zvážit založení Vaší obytné osady v oblasti, kterou můžete 
 Měli byste se vyvarovat výstavby stanů příliš blízko Vašemu dřevorubci,protože postavením stanů budou zničeny stromy, které dřevorubec potřebuje k produkci prken.
 ÚKOL: Postavte tržiště."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:38
-#, fuzzy
+
 msgid "\nNow let's have a closer look at the main square.
 In the 'Account' tab you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.
 The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.
@@ -185,19 +145,13 @@ Položky \"Nákup\" a \"Prodej\" ukazují Vaši obchodní bilanci a budou vysvě
 Pokud je Vaše bilance kladná, vykazujete zisk.
 Dále jsou zde záložky odpovídající jednotlivým úrovním. Zde můžete sledovat statistiky o Vašich obyvatelích. Zde můžete nastavit celkovou daň a povolit nebo zakázat obyvatelům na dané úrovni postoupit do vyšší úrovně."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:40
 msgid "Build a main square. Choose an area without many economy buildings."
 msgstr "Postavte tržiště. Vyberte oblast, kde se nenachází mnoho produkčních budov."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:42
 msgid "NEW TASK: RESIDENTIAL BUILDINGS"
 msgstr "NOVÝ ÚKOL: OBYTNÉ BUDOVY"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:44
-#, fuzzy
+
 msgid "Settlers want to have a roof over their heads, else they won't even think of living in your city! You need to provide tents.
 Tents are the basic residential buildings. Your inhabitants will want to upgrade it when they reach higher increments.
 Settlers may not look very useful since they will try to consume all goods you produce - but they at least pay taxes, and that's the only way you can make money for now!
@@ -207,14 +161,10 @@ Stany jsou základními obytnými budovami. Vaši obyvatelé je budou vylepšova
 Osadníci se nezdají být příliš užiteční, snaží se spotřebovat všechno zboží, které produkujete, ale na druhou stranu platí daně, které jsou prozatím Vaším jediným zdrojem peněz!
 ÚKOL: Postavte stan a propojte jej s tržištěm."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:46
 msgid "Build a tent and connect it to the main square."
 msgstr "Postavte stan a propojte jej s tržištěm."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:48
-#, fuzzy
+
 msgid "\nLet's have a look at the tent overview tab.\nYou can see\n* the happiness of these residents,\n* the taxes they pay and\n* the resources they demand.
 If their demands are fulfilled, happiness and thus your tax income increase.
 If not, happiness and income decrease. At some time your residents may get really sour and simply turn their back on your village, leaving behind a decaying ruin.
@@ -228,19 +178,13 @@ Všimněte si, že i zde můžete změnit nastavení celkové daně.
 ÚKOL: Postavte alespoň tři další stany.
 TIP: Přidržení klávesy SHIFT Vám zjednoduší hromadnou výstavbu budov stejného druhu."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:50
 msgid "Build at least three additional tents and connect them to the main square."
 msgstr "Postavte alespoň tři další stany a propojte je s tržištěm."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:52
 msgid "NEW TASK: BUILD SIGNAL FIRE"
 msgstr "NOVÝ ÚKOL: POSTAVTE SIGNÁLNÍ OHEŇ"
 
-# Free Trader překlad jako Svobodný obchodník
-#. This is the text body of a logbook page.
-#: po/tutorial.py:54
+
 msgid "Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.
 The trader will supply your settlement with necessary goods which you can't produce yet.\nYou can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.
 Normally the trader ships just sail around and look for deals, but you can speed things up a bit.
@@ -252,9 +196,7 @@ Normálně obchodní lodě pouze proplouvají okolo a hledají obchodní příle
 Pro tento účel postavte signální oheň na pobřeží poblíž Obchodního přístavu. Tak ukážete lodím cestu do Vaší osady.
 Aby mohl signální oheň přilákat lodě, musí pokrývat oblast, kterou lodě projíždějí."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:56
-#, fuzzy
+
 msgid "\nAfter this little advertisment, the trader will also stop by and look into your warehouse if it planned to sail past it.
 You can propose deals via the warehouse tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)
 At the 'sailors' increment, you are equipped with three trading slots.
@@ -268,18 +210,12 @@ Klikněte na malou ikonu, abyste změnili režim slotu z \"Nákupu\" na \"Prodej
 Klikněte do slotu a vyberte zboží, se kterým chcete obchodovat. Více tuto část vysvětlíme později, až budete připraveni obchodovat.
 ÚKOL: Postavte signální oheň na pobřeží v blízkosti Obchodního přístavu."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:58
 msgid "Build a signal fire at the coast close to your warehouse."
 msgstr "Postavte signální oheň na pobřeží v blízkosti Obchodního přístavu."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:60
 msgid "NEW TASK: LEARN TO TRADE"
 msgstr "NOVÝ ÚKOL: VÝUKA OBCHODOVANÍ"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:62
 msgid "Excellent! The Free Trader will now stop by at your warehouse from time to time.
 Let's continue our tutorial on how to trade.
 After selecting a particular type of good, the green bar across the bottom of the slot (if visible) shows you how much you have in stock of this good.
@@ -289,9 +225,7 @@ Pokračujme v našem návodu, jak obchodovat.
 Po vybrání konkrétního typu zboží, zelený ukazatel napravo od slotu (pokud je viditelný) ukazuje, kolik jednotek zboží máte aktuálně ve skladu.
 Tažením posuvníku na pravé straně každého slotu určíte \"cílovou hodnotu\", která má různé významy pro \"Prodej\" a \"Nákup\".\nPokud nakupujete zboží, bude nakoupeno tolik zboží, aby byla udržena \"cílová hodnota\" ve skladu.\nPokud zboží prodáváte, \"cílová hodnota\" určuje množství zboží, které uchováváte jako rezervu a nebude prodáno."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:64
-#, fuzzy
+
 msgid "\nFor example:\nHaving a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.\nSelling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.
 If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.
 Unknown Horizons features smart pricing, so the value of one unit can vary.\nIt is NOT possible to change prices manually!
@@ -303,23 +237,15 @@ Unknown Horizons obsahuje chytré nastavení cen, to znamená, že cena za jedno
 Vaši obchodní bilanci můžete vidět v záložce \"Účet\", kde jsou srovnány \"Nákup\" a \"Prodej\".
 ÚKOL: Nakupte nástroje tak, aby zásoby ve vašem skladu byly 30 jednotek!"
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:66
 msgid "Reach an island stock of at least 30 tools."
 msgstr "Dosáhněte zásoby 30 nástrojů ve skladu."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:68
 msgid "Note that this might take a while."
 msgstr "Všimněte si, že to může chvíli trvat."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:70
 msgid "NEW TASK: BUILD A PAVILION"
 msgstr "NOVÝ ÚKOL: POSTAVTE PAVILÓN"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:72
 msgid "Those tools will be enough for the moment. Well done!
 You now provide housing, a main square and food to your inhabitants.
 Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.
@@ -333,9 +259,7 @@ Stále je zde ještě jeden požadavek, který nebyl doposud uspokojen, jak si m
 Budovy služeb, jako je tato, potřebují být propojeny se stany pomocí cest, jinak je vaši obyvatelé nebudou moci využívat.
 V pozdějších úrovních, budou možná k dispozici vylepšené verze budov."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:74
-#, fuzzy
+
 msgid "\nNote that faith is treated like a physical resource!
 This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.\nAfter some time, they will have consumed it and then again look for a producer to collect more faith.
 Important:\nIt is NOT enough that the building is merely within a certain range of the tents.\nThe road connection is required as well.
@@ -345,18 +269,12 @@ To znamená, že vaši obyvatelé potřebují stezky k producentovi (pavilónu),
 Důležité:\nNENÍ dostačující, že se budova nachází v dostatečné vzdálenosti od stanů.\nSpojení pomocí stezky je rovněž vyžadováno.
 ÚKOL: Postavte pavilón spojený stezkou se stany, aby se uspokojila potřeba víry vašich námořníků."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:76
 msgid "Build a pavilion with connection to the tents."
 msgstr "Postav pavilón propojený se stany."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:78
 msgid "NEW TASK: NEXT INCREMENT"
 msgstr "NOVÝ ÚKOL: DALŠÍ ÚROVEŇ"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:80
 msgid "All demands are fulfilled now if your inhabitants can regularly visit the main square & pavilion and your food supply is adequate.
 If the sailors are happy enough, they want to advance to the next increment called Pioneers.
 To make them happy, there is nothing else for you to do but setting taxes to a lower level since you have fulfilled all the demands of your inhabitants.
@@ -368,9 +286,7 @@ Abyste je učinili šťastnými, není nic jednoduššího než nastavit daně n
 Nízké daně je potřeba využívat obezřetně. Pokud je necháte na nízké úrovni, přivedete svůj ostrov, dříve nebo později, k bankrotu. Pokud ale víte, co děláte, fungují skvěle.
 Po určité době se první obyvatelé vypraví na náměstí, aby získali nový stavební materiál, který potřebují ke stavbě srubu. Tímto domem nahradí své dosavadní stany."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:82
-#, fuzzy
+
 msgid "\nSuch residential upgrades are the only ones which cost resources and can not be restricted by you.
 There are manual upgrades to some buildings where you use resources to construct a better version on the same spot, and there are upgrades without costs for example as you will see with the lumberjack (In this case, only the graphics change).
 Upgraded housing accomodates more inhabitants, and pioneers pay more taxes than sailors, too.
@@ -382,18 +298,12 @@ Vylepšené domy pojmou více obyvatel a průkopníci také platí vyšší dan�
 Jak už jste si možná všimli, nevýhodou je, že průkopníci požadují dodatečné zboží, které námořníci nepotřebovali - takže budete muset utratit peníze, abyste je učinili šťastnými.
 ÚKOL: Nastavte výši daní na nízkou hodnotu (levý okraj posuvníku) a počkejte na vylepšení."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:84
 msgid "Set the tax level to Low (left end) and wait for your sailors to upgrade."
 msgstr "Nastavte výši daní na nízkou hodnotu (levý okraj) a počkejte na vylepšení."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:86
 msgid "NEW TASK: BUILD A FARM"
 msgstr "NOVÝ ÚKOL: POSTAVTE FARMU"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:88
 msgid "Congratulations! Some of your inhabitants have reached increment II!
 Now you have access to new buildings, take a look at the Build menu again.
 A shiny new tab appeared there.
@@ -407,9 +317,7 @@ Průkopníci budou požadovat látku, to znamená, že budete muset vytvořit v�
 Farma je vyjímečná produkční budova, která neprodukuje pouze jednu, ale velmi mnoho (a rozličných) druhů zboží, které si zvolíte.
 Výstupní produkt závisí na typu polí, které jsou vystavěny okolo ní."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:90
-#, fuzzy
+
 msgid "\nWe will have a closer look at this later.
 Farms, like all companies producing raw materials, do not necessarily need to be connected to storage or a warehouse.
 As long as units of the final production company can reach the farm, and collectors from the warehouse or storage tent can reach the final company everything's fine.
@@ -423,18 +331,12 @@ Nicméně, pokud plánujete provádět některou část z výrobního řetězce 
 Zkuste postavit farmu tak, aby nebyla blízko pobřeží a stávajících budov, protože bude pro správnou činnost potřebovat místo okolo sebe.
 ÚKOL: Postavte farmu."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:92
 msgid "Build a farm and keep some empty space around it."
 msgstr "Postavte farmu a nechte kolem ni volné místo."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:94
 msgid "NEW TASK: BUILD FIELDS"
 msgstr "NOVÝ ÚKOL: STAVBA POLÍ"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:96
 msgid "The farm itself is not going to produce anything without some fields.
 You currently have the choice between pastures, potato and sugar fields.
 Let's have a short overview:\n* Pasture: Sheep live here, producing lamb wool.\n* Potato field: Grows potatoes which are currently treated as food.\n* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.
@@ -446,9 +348,7 @@ Proveďme krátké shrnutí:\n* Pastviny - žijí zde ovce, produkují ovčí vl
 Nyní potřebujeme pouze pastviny, ale v případě, že Vaše zásobení jídlem je příliš malé (díky mnoha obytným budovám), můžete také postavit bramborové pole.
 Všimněte si, že brambory potřebujete propojit s farmou (nikoli s poli!), což je jediná budova, která pracuje se zbožím."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:98
-#, fuzzy
+
 msgid "\nMake sure that all fields you build are in the area covered by the farm.
 You can have combined production - one pasture will not lead to 100 percent efficiency of the farm - but you need to check how many fields one farm can serve.
 Different classes of fields require the farm units to spend more or less time there (to seed, harvest, herd, etc…) and because of that, the farm may be unable to serve all of the fields you built for it in time.
@@ -460,18 +360,12 @@ Různé druhy polí mají různé časové požadavky (k vysetí, sklizni, pastv
 Nyní se tím nemusíte příliš zabývat, protože jste nevybudovali žádné pole. Pojďme to změnit!
 ÚKOL: Vybudujte alespoň jednu pastvinu v okolí farmy a přidejte bramborové pole, pokud chcete."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:100
 msgid "Build at least one pasture and add potato fields if you like."
 msgstr "Vybudujte alespoň jednu pastvinu a přidejte bramborové pole, pokud chcete."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:102
 msgid "NEW TASK: BUILD STORAGE"
 msgstr "NOVÝ ÚKOL: POSTAVTE SKLADIŠTĚ"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:104
 msgid "Did you watch your lumberjack recently?
 Since your warehouse does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.\nSo if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.\nWe can improve this situation with two different approaches, and below we will have a look at both of them.
 All companies offer the possibility of doing no work at all.\nThis may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.
@@ -481,9 +375,7 @@ Vzhledem k tomu že Obchodní přístav nemá neomezený prostor pro uložení z
 Všichni dodavatelé nabízejí možnost nepracovat.\nMůže to znít divně, ale zkuste kliknout na ozubené kolo, které vidíte například v přehledu dřevorubce.
 Pokud je povolen režim \"rozbít\" (říkáme tomu \"Vyřazení z provozu\"), budou provozní náklady, které zaplatíte za budovu nižší. Nebudou nula, ale stále nižší, než pokud budete dodavatel pracovat."
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:106
-#, fuzzy
+
 msgid "\nThis means that you can save money when you temporarily do not need a company and do not want to tear it down, either.
 Another solution is to build the last increment-I building which has not been mentioned so far: the storage tent.
 This building has two purposes. It:\n* Offers more storage for your goods, and \n* sends its own collectors to fetch goods, just like the warehouse does.
@@ -495,18 +387,12 @@ tato budova má dva učely a to:\n* Nabízí více prostoru pro vaše zboží, a
 Pamatujte že všechny společnosti potřebují být spojeny s Obchodním přístavem pro svoz zboží. Pokud má Obchodní přístav moc úkolů postavte skladovací stan ktery Obchodnímu přístavu pomůže při svážení výrobků..
 ÚKOL: Vybudujte skladovací stan, přednostně tam kde potřebujete sběrače."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:108
 msgid "Build a storage tent (increment I tab) where it makes sense."
 msgstr "Vybudujte skladovací stan (v záložce úrovně I) tam, kde to má smysl."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:110
 msgid "NEW TASK: BUILD A WEAVER"
 msgstr "NOVÝ ÚKOL: POSTAVTE TKALCOVNU"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:112
 msgid "Now the wool production is set up, you still need a weaver to produce cloth out of this wool.
 There are two spots where you can build it - either close to the farm or close to a Storage Tent (or the warehouse).
 In both cases you should ensure the connection to a trail as well.
@@ -518,23 +404,15 @@ V obou případech se ujistěte jestli je propojená stezkou.
 Pokud bude tkadlec v dosahu farmy nemusíte je propojit stezkou a přece to bude fungovat.
 ÚKOL: Postavte tkalcovnu tak, aby byla v dosahu vlny."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:114
 msgid "Build a weaver that can somehow reach the wool of your farm."
 msgstr "Postavte tkalcovnu, která bude v dosahu vlny z Vaší farmy."
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:116
 msgid "House a total of 50 or more inhabitants in your city to complete the tutorial. You need a positive balance."
 msgstr "Dosáhnětě 50 a více obyvatel ve vašem městě k dokončení tutorialu. Musíte mít pozitivní bilanci."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:118
 msgid "NEW TASK: COMPLETE TUTORIAL"
 msgstr "NOVÝ ÚKOL: DOKONČETE TUTORIAL"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:120
 msgid "Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.
 Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!
 TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial."
@@ -542,159 +420,71 @@ msgstr "Dosáhnětě 50 a více obyvatel tím, že jim postavíte více domů.
 Jakmile uspokojíte obyvatele, jste připraveni objevovat nové neznámé obzory!
 ÚKOL: Dosáhněte počtu 50 obyvatel a udrže kladnou bilanci pro dokončení tutorialu."
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:122
 msgid "NO TASKS LEFT"
 msgstr "ŽÁDNÉ DALŠÍ ÚKOLY"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:124
 msgid "There is nothing left to do now.
 If you have any suggestions on what we could or should improve, add or leave out:
 www.unknown-horizons.org
-#unknown-horizons @ irc.freenode.net
+
 team@unknown-horizons.org
 Our forums are open to you as well!
 The best results until now were achieved by joining our IRC channel, so you could try that out first (-;"
 msgstr "Nic dalšího se zatím nedá dělat.
 Pokud máte nějaké nápady co by se mohlo nebo mělo vylepšit, přidat nebo vynechat::
 www.unknown-horizons.org
-#unknown-horizons @ irc.freenode.net
+
 team@unknown-horizons.org
 Naše fórum je pro vás otevřené!
 Nejlepších výsledků bylo dosaženo pomocí našeho IRC kanálu, takže to byste mohli zkusit jako první (-;"
 
-#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
-#: po/tutorial.py:126
 msgid "Thanks!"
 msgstr "Díky!"
 
-#. This is the text body of a logbook page.
-#: po/tutorial.py:128
 msgid "
-
-
 \nThanks for playing the tutorial!
 Your UH-Team"
 msgstr "
-
-
 \nDěkujeme za hraní tutorialu!
 Tvůj UH-Team"
 
-#. This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!
-#: po/tutorial.py:130
 msgid "Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!"
 msgstr "Gratulujeme! Dostali jste se na konec tutorialu a jste připraveni na další výzvy!"
 
-#~ msgid "Build a warehouse at the coast."
-#~ msgstr "Vybuduj pobočku na pobřeží."
 
-#~ msgid "NEW TASK: UNLOAD YOUR GOODS"
-#~ msgstr "NOVÝ ÚKOL: VYLOŽ TVÉ ZBOŽÍ"
 
-#~ msgid ""
-#~ "Now that you have built the warehouse, you need to move some of your "
-#~ "resources to its stock.\n"
-#~ "\n"
-#~ "To do so, select your ship and go into the tab with the wooden box icon "
-#~ "called 'Ship Inventory'.\n"
-#~ "\n"
-#~ "Here you get an overview of what this ship's cargo looks like and have "
-#~ "the button 'Load/Unload'.\n"
-#~ "\n"
-#~ "This button becomes active if your ship is in range of a possible trade "
-#~ "partner like a warehouse.\n"
-#~ "\n"
-#~ "Click on the button. If it is not active, move your ship towards the "
-#~ "warehouse and then try again.\n"
-#~ "\n"
-#~ "TASK: Open the trade dialogue."
-#~ msgstr ""
-#~ "Nyní když jsi postavil pobočku, musíš přesunout nějaké tvé prostředky do "
-#~ "zásob.\n"
-#~ "\n"
-#~ "Chceš-li tak učinit, vyber tvojí loď a klikni na záložku s ikonou "
-#~ "dřevěných beden nazvané 'Lodní inventář'.\n"
-#~ "\n"
-#~ "Zde máš přehled co za nálkad je v lodi a je zde tlačítko 'Naložit/"
-#~ "Vyložit'.\n"
-#~ "\n"
-#~ "Toto tlačítko bude aktivní pokud je tvoje loď v dosahu obchodních "
-#~ "partnerů např. Pobočky.\n"
-#~ "\n"
-#~ "Klikni na tlačítko. Pokud není aktivní přibliž se s loďí k Pobočce a zkus "
-#~ "to znovu.\n"
-#~ "\n"
-#~ "ÚKOL:Otevři obchodní dialog."
 
-#~ msgid ""
-#~ "The tab you will see is split into 'Ship' and 'Settlement' as trade "
-#~ "partners.\n"
-#~ "\n"
-#~ "To move goods from one stock to the other, simply click on them.\n"
-#~ "\n"
-#~ "Try clicking on the boards currently on your ship first and then try "
-#~ "moving them back.\n"
-#~ "\n"
-#~ "You can customize the quantity moved by using the self-explanatory radio "
-#~ "buttons in the middle.\n"
-#~ "\n"
-#~ "Did you get used to the trade tab?\n"
-#~ "You need some construction material in your settlement now!\n"
-#~ "\n"
-#~ "TASK: Unload at least 10 tons of each resource your ship sailed around "
-#~ "with."
-#~ msgstr ""
-#~ "Záložka je rozdělena na 'loď' a na 'osada' jako obchodního partnera.\n"
-#~ "\n"
-#~ "Chceš-li přesunout zboží z jednoho místa do druhého jednoduše na něj "
-#~ "klikni.\n"
-#~ "\n"
-#~ "Zkus kliknouz na zboží ve tvé loďi a pak ho zkus přesunout zpět.\n"
-#~ "\n"
-#~ "Můžeš upravit množství určené k přesunutí kliknutím na přednastavené "
-#~ "hodnoty uprostřed.\n"
-#~ "\n"
-#~ "Už jsi použil obchodní záložku?\n"
-#~ "Potřebuješ nějaký konstrukční materiál právě teď!\n"
-#~ "\n"
-#~ "ÚKOL:Vylož nejméně 10 tun od každého materiálu z loďi."
 
-#~ msgid "Unload at least 10 tons of each resource on your ship."
-#~ msgstr "Vylož nejméně 10 tun od každého materiálu z loďi."
 
-#~ msgid ""
-#~ "With your new construction material in the warehouse, you can start to "
-#~ "construct some basic buildings.\n"
-#~ "\n"
-#~ "We will start with building a lumberjack.\n"
-#~ "\n"
-#~ "This is essential because, at this stage, boards are the only poles your "
-#~ "sailors can afford to hang their tents over.\n"
-#~ "\n"
-#~ "The fisherman needs some boards to build his vessel as well.\n"
-#~ "\n"
-#~ "In order to construct lumberjacks; open the build menu by either clicking "
-#~ "the big icon below the mini map or pressing B key.\n"
-#~ "\n"
-#~ "The build menu is sorted by increments.\n"
-#~ "You are currently in the first increment (the Sailors level) so are "
-#~ "offered only the basic buildings."
-#~ msgstr ""
-#~ "S tvým novým konstrukčním materiálem v pobočce můžeš začít stavět některé "
-#~ "základní budovy.\n"
-#~ "\n"
-#~ "Zažneme se stavbou dřevorubce.\n"
-#~ "\n"
-#~ "This is essential because, at this stage, boards are the only poles your "
-#~ "sailors can afford to hang their tents over.\n"
-#~ "\n"
-#~ "The fisherman needs some boards to build his vessel as well.\n"
-#~ "\n"
-#~ "In order to construct lumberjacks; open the build menu by either clicking "
-#~ "the big icon below the mini map or pressing B key.\n"
-#~ "\n"
-#~ "The build menu is sorted by increments.\n"
-#~ "You are currently in the first increment (the Sailors level) so are "
-#~ "offered only the basic buildings."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
