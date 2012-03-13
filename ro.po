@@ -1,15 +1,40 @@
 
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-12-15 01:42+0200\nLast-Translator: trendy <trendynickname@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: ro\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);;\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org
+POT-Creation-Date: 2012-03-06 18:02+0100
+PO-Revision-Date: 2011-12-15 01:42+0200
+Last-Translator: trendy <trendynickname@gmail.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: ro
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);;
+X-Generator: Pootle 2.1.5
+
 Practică
 Echipa UH
-Practica:\nStabilește o colonie și învață cum să joci!\n
+Practica:
+Stabilește o colonie și învață cum să joci!
+
 Construiește o sucursală pe coastă. Așa va fi accesibilă către alte nave ca negustorul independent.
 Bine ați venit la Unknown Horizons!
 
-Acesta este jurnalul de bord unde toate informațiile importante sunt înregistrate. O notificare redusă a fiecărei activități va apărea în stânga ecranului.\n\nDacă sunteți interesat în descrieri detaliate, jurnalul ar trebui să ofere ajutorul necesar.\n\nDupă ce închideți acest jurnal, poate fi redeschis prin icoana „jurnal de bord” din colțul din dreapta-sus (sub mini-hartă, cu un document închis și o pană).\n\nPentru orice sugestie de redactare, probleme de înțelegere sau erori nu ezitați să ne contactați.\n\nVizitați www.unknown-horizons.org pentru detalii.\n\nȘi acum, să începem să ne jucăm.
+Acesta este jurnalul de bord unde toate informațiile importante sunt înregistrate. O notificare redusă a fiecărei activități va apărea în stânga ecranului.
+Dacă sunteți interesat în descrieri detaliate, jurnalul ar trebui să ofere ajutorul necesar.
+După ce închideți acest jurnal, poate fi redeschis prin icoana „jurnal de bord” din colțul din dreapta-sus (sub mini-hartă, cu un document închis și o pană).
+Pentru orice sugestie de redactare, probleme de înțelegere sau erori nu ezitați să ne contactați.
+Vizitați www.unknown-horizons.org pentru detalii.
+Și acum, să începem să ne jucăm.
 SARCINĂ: COLONIZEAZĂ O INSULĂ
-Pentru a muta nava, selecționați-o cu clic stânga și clic dreapta la destinația unde o doriți.\n\nCând sunteți în apropierea coastei, butonul în formă de ancoră din panou va deveni activ.\n\nAcesta indică posibilitate construirii unei sucursale prin apăsarea butonului „creare colonie”.\n\nAcum o vizionare a clădirii este mobilă cu cursorul.\n\nPuteți construi unde această vizionare nu are nuanță roșiatică.\nClic unde doriți să plasați clădirea.\n\nSARCINĂ: construiți o sucursală pe coastă.
+Pentru a muta nava, selecționați-o cu clic stânga și clic dreapta la destinația unde o doriți.
+Când sunteți în apropierea coastei, butonul în formă de ancoră din panou va deveni activ.
+Acesta indică posibilitate construirii unei sucursale prin apăsarea butonului „creare colonie”.
+Acum o vizionare a clădirii este mobilă cu cursorul.
+Puteți construi unde această vizionare nu are nuanță roșiatică.
+Clic unde doriți să plasați clădirea.
+SARCINĂ: construiți o sucursală pe coastă.
 
 
 

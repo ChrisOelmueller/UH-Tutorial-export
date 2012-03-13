@@ -1,83 +1,238 @@
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2012-01-04 21:34+0200\nLast-Translator: Aleksi <aleksi.kinnunen@ovi.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: fi\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org
+POT-Creation-Date: 2012-03-06 18:02+0100
+PO-Revision-Date: 2012-01-04 21:34+0200
+Last-Translator: Aleksi <aleksi.kinnunen@ovi.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: fi
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+X-Generator: Pootle 2.1.5
+
 Harjoituspeli
 Unknown Horizonsin kehittäjät
-Harjoituspeli:\nRakenna ensimmäinen siirtokuntasi ja opi, miten tätä peliä pelataan!\n
+Harjoituspeli:
+Rakenna ensimmäinen siirtokuntasi ja opi, miten tätä peliä pelataan!
+
 Rakenna rannikolle sivutoimistosi, jossa se on hyvien kulkuyhteyksien päässä.
 Tervetuloa Unknown Horizonsiin!
 
-Tämä on Kapteenin päiväkirja, johon kirjataan kaikki pelin kannalta olennaiset tiedot. Jokaisesta tehtävästä ilmoitetaan vasemmassa reunassa.\n\nJos olet kiinnostunut tarkemmista kuvauksista, niin tästä päiväkirjasta pitäisi löytyä kaikki tarvitsemasi.\n\nKun olet sulkenut tämän päiväkirjan, voit avata sen uudelleen \"Kapteenin päiväkirja\" -kuvakkeesta oikeasta yläkulmasta (pikkukartan alapuolelta, kuvakkeessa on sinetöity kirje ja sulka).\n\nJos keksit ehdotuksia paremmalle kieliopille, haluaisit kuulla jostain lisää tai törmäät vikatilanteeseen, kerrothan siitä meille, niin me yritämme parantaa tätä harjoituspeliä!\n\nSivustoltamme osoitteessa www.unknown-horizons.org löydät kehitysryhmän yhteystiedot.\n\nJa nyt viimeinkin, aloitetaanpas itse peli!
+Tämä on Kapteenin päiväkirja, johon kirjataan kaikki pelin kannalta olennaiset tiedot. Jokaisesta tehtävästä ilmoitetaan vasemmassa reunassa.
+Jos olet kiinnostunut tarkemmista kuvauksista, niin tästä päiväkirjasta pitäisi löytyä kaikki tarvitsemasi.
+Kun olet sulkenut tämän päiväkirjan, voit avata sen uudelleen \"Kapteenin päiväkirja\" -kuvakkeesta oikeasta yläkulmasta (pikkukartan alapuolelta, kuvakkeessa on sinetöity kirje ja sulka).
+Jos keksit ehdotuksia paremmalle kieliopille, haluaisit kuulla jostain lisää tai törmäät vikatilanteeseen, kerrothan siitä meille, niin me yritämme parantaa tätä harjoituspeliä!
+Sivustoltamme osoitteessa www.unknown-horizons.org löydät kehitysryhmän yhteystiedot.
+Ja nyt viimeinkin, aloitetaanpas itse peli!
 
-Liikuta laivaasi valitsemalla se hiiren vasemmalla painikkeella ja oikealla sijainti, johon haluat sen menevän.\n\nKun olet rannikon lähellä, ankkurimainen näppäin laivan Yleiskatsaus-välilehdellä muuttuu aktiiviseksi.\n\nTämä kertoo, että voit rakentaa sivutoimiston siihen painamalla näppäintä (nimeltään \"Rakenna asutuskeskus\").\n\nTämän jälkeen voit valita sivutoimistolle liikuttelemalla hiiresi osoitinta.\n\nVoit rakentaa sivutoimiston mihin tahansa, kunhan rakennuksen kuvalla ei ole punertavaa värisävyä. Sivutoimiston on oltava rannikolla.\nKun olet löytänyt sopivan paikan, napsauta hiiren vasenta painiketta.\n\nTEHTÄVÄ: Rakenna sivutoimisto rannikolle.
+Liikuta laivaasi valitsemalla se hiiren vasemmalla painikkeella ja oikealla sijainti, johon haluat sen menevän.
+Kun olet rannikon lähellä, ankkurimainen näppäin laivan Yleiskatsaus-välilehdellä muuttuu aktiiviseksi.
+Tämä kertoo, että voit rakentaa sivutoimiston siihen painamalla näppäintä (nimeltään \"Rakenna asutuskeskus\").
+Tämän jälkeen voit valita sivutoimistolle liikuttelemalla hiiresi osoitinta.
+Voit rakentaa sivutoimiston mihin tahansa, kunhan rakennuksen kuvalla ei ole punertavaa värisävyä. Sivutoimiston on oltava rannikolla.
+Kun olet löytänyt sopivan paikan, napsauta hiiren vasenta painiketta.
+TEHTÄVÄ: Rakenna sivutoimisto rannikolle.
 
-Laivasi lastina olleet tavarat puretaan siirtokuntaasi automaattisesti. Voit nyt rakentaa joitain perusrakennuksia.\n\nAloittakaamme puunhakkaajalla.\n\nPuunhakkaaja on tärkeä, koska lautoja tarvitaan useimpiin rakennuksiin, mukaan lukien asukkaidesi telttoihin. Esimerkiksi kalastaja tarvitsee lautoja alustensa rakentamiseen.\n\nRakenna puunhakkaajan näin: avaa ensin rakennusvalikko joko napsauttamalla pikkukartan alapuolella olevista napeista keskimmäistä tai painamalla pikanäppäintä B.\n\nRakennusvalikko on jaettu siirtokunnan tason mukaan välilehtiin (vasen reuna). Tässä vaiheessa voit rakentaa vain ensimmäisen eli Merenkulkijat-tason rakennuksia.
+Laivasi lastina olleet tavarat puretaan siirtokuntaasi automaattisesti. Voit nyt rakentaa joitain perusrakennuksia.
+Aloittakaamme puunhakkaajalla.
+Puunhakkaaja on tärkeä, koska lautoja tarvitaan useimpiin rakennuksiin, mukaan lukien asukkaidesi telttoihin. Esimerkiksi kalastaja tarvitsee lautoja alustensa rakentamiseen.
+Rakenna puunhakkaajan näin: avaa ensin rakennusvalikko joko napsauttamalla pikkukartan alapuolella olevista napeista keskimmäistä tai painamalla pikanäppäintä B.
+Rakennusvalikko on jaettu siirtokunnan tason mukaan välilehtiin (vasen reuna). Tässä vaiheessa voit rakentaa vain ensimmäisen eli Merenkulkijat-tason rakennuksia.
 
-Kun yhteiskuntasi kehittyy, saat käyttöösi monimutkaisempia rakennuksia.\n\nNyt riittää, että valitset puunhakkaajan kohdasta \"Yritykset\" ja rakennat sen alueelle, jolla on riittävästi puita ympärillä.\n\nVoit tarvittaessa istuttaa myöhemmin myös puita - mutta se maksaa rahaa. Käytä ensisijaisesti sitä, mitä luonto on sinulle tarjonnut.\n\nYritys tarvitsee polkuyhteyden varastoon tai sivutoimistoon, muutoin tavarat jäävät yritykselle eikä niitä saada kerättyä.\n\nRakenna siis polku yhdistämään sivutoimistosi (tai varaston) puunhakkaajalle.\n\nTEHTÄVÄ: Rakenna puunhakkaaja metsittyneelle alueelle ja yhdistä se tiellä sivutoimistoon tai varastoon.\n\nKatsele, kun kerääjä hakee ensimmäiset itsevalmistetut lautasi.
+Kun yhteiskuntasi kehittyy, saat käyttöösi monimutkaisempia rakennuksia.
+Nyt riittää, että valitset puunhakkaajan kohdasta \"Yritykset\" ja rakennat sen alueelle, jolla on riittävästi puita ympärillä.
+Voit tarvittaessa istuttaa myöhemmin myös puita - mutta se maksaa rahaa. Käytä ensisijaisesti sitä, mitä luonto on sinulle tarjonnut.
+Yritys tarvitsee polkuyhteyden varastoon tai sivutoimistoon, muutoin tavarat jäävät yritykselle eikä niitä saada kerättyä.
+Rakenna siis polku yhdistämään sivutoimistosi (tai varaston) puunhakkaajalle.
+TEHTÄVÄ: Rakenna puunhakkaaja metsittyneelle alueelle ja yhdistä se tiellä sivutoimistoon tai varastoon.
+Katsele, kun kerääjä hakee ensimmäiset itsevalmistetut lautasi.
 Rakenna puunhakkaaja ja yhdistä se sivutoimistoon polulla.
 
-Tulet tarvitsemaan myös ruokaa tuottavia yrityksiä, sillä asukkaasi tarvitsevat ruokaa.\n\nEnsimmäisellä tasolla voit rakentaa Metsästäjän ja Kalastajan.\n\nMetsästäjä metsästää eläimiä (yllätys yllätys) metsästä. Se kannattaa sijoittaa lähelle puunhakkaajan metsää.\n\nMetsästäjän huonona puolena eläimet eivät välttämättä lisäänny riittävän nopeasti tai osaavat piiloutua liian hyvin.\n\nJohtopäätös: metsästäjä ei ole mahdottoman luotettava, jos tarvitset jatkuvaa tarjontaa.
+Tulet tarvitsemaan myös ruokaa tuottavia yrityksiä, sillä asukkaasi tarvitsevat ruokaa.
+Ensimmäisellä tasolla voit rakentaa Metsästäjän ja Kalastajan.
+Metsästäjä metsästää eläimiä (yllätys yllätys) metsästä. Se kannattaa sijoittaa lähelle puunhakkaajan metsää.
+Metsästäjän huonona puolena eläimet eivät välttämättä lisäänny riittävän nopeasti tai osaavat piiloutua liian hyvin.
+Johtopäätös: metsästäjä ei ole mahdottoman luotettava, jos tarvitset jatkuvaa tarjontaa.
 
-Kalastaja pitää rakentaa rannikolle kuten sivutoimistokin ja tarvitsee kalastuskoulun kantamaansa.\n\nKalastaja rakentaa pienen soutuveneen ja alkaa pyydystämään kaloja.\n\nKalastus on todella pitkäikäinen ruoanlähde, mutta hitaampaa kuin metsästäminen.\n\nPieni asutuskeskus kuten omasi voi käyttää molempia, jolloin pystyt paremmin tasapainottamaan hyvät ja huonot puolet.\n\nTEHTÄVÄ: Rakenna metsästäjä ja kalastaja.\n\nÄlä unohda yhdistää niitä sivutoimistoosi poluilla!
+Kalastaja pitää rakentaa rannikolle kuten sivutoimistokin ja tarvitsee kalastuskoulun kantamaansa.
+Kalastaja rakentaa pienen soutuveneen ja alkaa pyydystämään kaloja.
+Kalastus on todella pitkäikäinen ruoanlähde, mutta hitaampaa kuin metsästäminen.
+Pieni asutuskeskus kuten omasi voi käyttää molempia, jolloin pystyt paremmin tasapainottamaan hyvät ja huonot puolet.
+TEHTÄVÄ: Rakenna metsästäjä ja kalastaja.
+Älä unohda yhdistää niitä sivutoimistoosi poluilla!
 Rakenna metsästäjä ja kalastaja ja yhdistä ne sivutoimistoosi.
 
 
-Asukkaasi tarvitsevat keskustorin, jolta he voivat hankkia elintarvikkeensa.\n\nKeskustorille pitää siis olla kulkuyhteys asukkaiden asunnoilta.\n\nKaikki elintarvikkeet sivutoimistollasi ovat saatavilla tältä \"kauppapaikalta\", joten asukkaidesi ei tarvitse kävellä erikseen kalastajalle ja metsästäjälle saati sitten sivutoimistolle.\n\nTässä vaiheessa kannattaa myös suunnitella varsinaisen taloasutuskeskukseen paikkaa, jota voit helposti laajentaa ja yhdistää muihin palveluihin.\n\nVältä esimerkiksi telttojen sijoittamista puunhakkaajan läheisyyteen, sillä teltan pystyttäminen raivaa paikalla olevat puut (ja et pääse sahaamaan niitä laudoiksi hyötykäyttöön).\n\nTEHTÄVÄ: Rakenna keskustori.
+Asukkaasi tarvitsevat keskustorin, jolta he voivat hankkia elintarvikkeensa.
+Keskustorille pitää siis olla kulkuyhteys asukkaiden asunnoilta.
+Kaikki elintarvikkeet sivutoimistollasi ovat saatavilla tältä \"kauppapaikalta\", joten asukkaidesi ei tarvitse kävellä erikseen kalastajalle ja metsästäjälle saati sitten sivutoimistolle.
+Tässä vaiheessa kannattaa myös suunnitella varsinaisen taloasutuskeskukseen paikkaa, jota voit helposti laajentaa ja yhdistää muihin palveluihin.
+Vältä esimerkiksi telttojen sijoittamista puunhakkaajan läheisyyteen, sillä teltan pystyttäminen raivaa paikalla olevat puut (ja et pääse sahaamaan niitä laudoiksi hyötykäyttöön).
+TEHTÄVÄ: Rakenna keskustori.
 
-Tutustutaan kuitenkin nyt tarkemmin keskustoriin.\n\nBudjetti-välilehdellä näet siirtokuntasi taloudellisen tilan, kuten ansaitsemasi verot ja rakennuksien ylläpitoon kuluvat juoksevat kulut.\n\nOsta- ja Myynti-kohtien perusteella määritellään siirtokuntasi taloudellinen tasapaino, josta puhumme myöhemmin lisää.\n\nJos taloutesi on plussan puolella, siirtokuntasi tekee voittoa.\n\nAsukkaat-välilehdellä näet tietoja asukkaistasi. Voit määritellä myös veroprosenttisi ja sallia tai estää heitä päivittämästä asuntojaan korkeammalle tasolle.
+Tutustutaan kuitenkin nyt tarkemmin keskustoriin.
+Budjetti-välilehdellä näet siirtokuntasi taloudellisen tilan, kuten ansaitsemasi verot ja rakennuksien ylläpitoon kuluvat juoksevat kulut.
+Osta- ja Myynti-kohtien perusteella määritellään siirtokuntasi taloudellinen tasapaino, josta puhumme myöhemmin lisää.
+Jos taloutesi on plussan puolella, siirtokuntasi tekee voittoa.
+Asukkaat-välilehdellä näet tietoja asukkaistasi. Voit määritellä myös veroprosenttisi ja sallia tai estää heitä päivittämästä asuntojaan korkeammalle tasolle.
 Rakenna keskustori. Valitse alue, jolla ei ole liian montaa tuotantorakennusta.
 
 
-Uudisasukkaat haluavat katon päänsä päälle, muuten he eivät tule lähellekään siirtokuntaasi! Sinun pitää siis pystyttää telttoja.\n\nTeltat ovat perusasuinrakennuksia. Asukkaasi haluavat kehittää asumustaan, kun heillä on varaa ja taitoja siihen.\n\nUudisasukkaat eivät välttämättä näytä hyödyllisiltä, sillä he kuluttavat tuottamiasi elintarvikkeita. He sentään kuitenkin maksavat veroja, ja se on tällä hetkellä ainoa tapa, jolla saat rahaa!\n\nTEHTÄVÄ: Rakenna teltta ja yhdistä se polulla keskustoriin.
+Uudisasukkaat haluavat katon päänsä päälle, muuten he eivät tule lähellekään siirtokuntaasi! Sinun pitää siis pystyttää telttoja.
+Teltat ovat perusasuinrakennuksia. Asukkaasi haluavat kehittää asumustaan, kun heillä on varaa ja taitoja siihen.
+Uudisasukkaat eivät välttämättä näytä hyödyllisiltä, sillä he kuluttavat tuottamiasi elintarvikkeita. He sentään kuitenkin maksavat veroja, ja se on tällä hetkellä ainoa tapa, jolla saat rahaa!
+TEHTÄVÄ: Rakenna teltta ja yhdistä se polulla keskustoriin.
 Rakenna teltta ja yhdistä se polulla keskustoriin.
 
-Katsotaanpa telttayleiskatsauksen välilehteä.\nNäet teltan asukkaiden\n* onnellisuuden,\n* maksamat verot ja\n* vaatimat resurssit.\n\nJos täytät heidän vaatimuksensa, onnellisuus lisääntyy ja siten myös verotulosi.\n\nJos et täytä, onnellisuus ja tulot laskevat. Asukkaat saattavat tulla hyvin happamiksi ja yksinkertaisesti kääntää selkänsä kylällesi jättäen taakseen murenevat rauniot.\n\nVoit myös valita veroprosentin talouskohtaisesti telttayleiskatsauksessa.\n\nTEHTÄVÄ: Rakenna vähintään kolme telttaa lisää.\n\nVIHJE: VAIHTO-näppäimen pitäminen pohjassa helpottaa usean samanlaisen rakennuksen rakentamista.
+Katsotaanpa telttayleiskatsauksen välilehteä.
+Näet teltan asukkaiden
+* onnellisuuden,
+* maksamat verot ja
+* vaatimat resurssit.
+Jos täytät heidän vaatimuksensa, onnellisuus lisääntyy ja siten myös verotulosi.
+Jos et täytä, onnellisuus ja tulot laskevat. Asukkaat saattavat tulla hyvin happamiksi ja yksinkertaisesti kääntää selkänsä kylällesi jättäen taakseen murenevat rauniot.
+Voit myös valita veroprosentin talouskohtaisesti telttayleiskatsauksessa.
+TEHTÄVÄ: Rakenna vähintään kolme telttaa lisää.
+VIHJE: VAIHTO-näppäimen pitäminen pohjassa helpottaa usean samanlaisen rakennuksen rakentamista.
 Rakenna vähintään kolme telttaa lisää ja yhdistä ne keskustoriin.
 
-Oletko huomannut laivan ohittavan säännöllisesti siirtokuntasi? Alus on vapaakauppiaan, yksi saariston ensimmäisistä uudisasukkaista.\n\nKauppiaalta voit ostaa hyödyllisiä tarvikkeita, joita et voi tuottaa vielä itse\nTarvittaessa voit myydä myös ylijäämätuotantoasi, mutta tämä kannattaa ennemminkin korvata rakentamalla lisää telttoja (jolloin asukkaita tulee lisää ja resursseja kuluu enemmän).\n\nNormaalisti kauppa-alukset vain kiertelevät ympäriinsä etsien hyviä kauppapaikkoja, mutta voit nopeuttaa tätä prosessia.\n\nTätä varten pitää rakentaa merkkituli rannikolle sivutoimistosi lähelle. Se osoittaa kauppalaivoille tien siirtokuntaasi.\n\nSiirtotulikaan ei näy loputtoman kauaksi, vaan sillä on tietty kantama-alue, jonka sisällä kulkevat laivat huomaavat sen.
+Oletko huomannut laivan ohittavan säännöllisesti siirtokuntasi? Alus on vapaakauppiaan, yksi saariston ensimmäisistä uudisasukkaista.
+Kauppiaalta voit ostaa hyödyllisiä tarvikkeita, joita et voi tuottaa vielä itse
+Tarvittaessa voit myydä myös ylijäämätuotantoasi, mutta tämä kannattaa ennemminkin korvata rakentamalla lisää telttoja (jolloin asukkaita tulee lisää ja resursseja kuluu enemmän).
+Normaalisti kauppa-alukset vain kiertelevät ympäriinsä etsien hyviä kauppapaikkoja, mutta voit nopeuttaa tätä prosessia.
+Tätä varten pitää rakentaa merkkituli rannikolle sivutoimistosi lähelle. Se osoittaa kauppalaivoille tien siirtokuntaasi.
+Siirtotulikaan ei näy loputtoman kauaksi, vaan sillä on tietty kantama-alue, jonka sisällä kulkevat laivat huomaavat sen.
 
-Tämän pikku mainostuksen jälkeen kauppias alkaa etsiä sivutoimistoasi.\n\nVoit ehdottaa kauppiaalle kauppoja sivutoimistosi Kaupankäynti-välilehdellä. (Kaupankäynti on vielä vähän vaikeakäyttöistä. Jos keksit paremman tavan sen toteuttamiseen, jaa se kanssamme! Tarvitsemme apuasi tämän toteuttamisessa!)\n\nMerenkävijät-tasolla sinulla on kolme kauppapaikkaa, eli voit asettaa kolme tarjousta vapaakauppiaalle kerrallaan.\n\nVoit muuttaa myyntitarjouksen ostotarjoukseksi napsauttamalla kauppapaikan vasemman yläkulman pienestä kuvakkeesta.\n\nVoit valita kaupattavan tuotteen napsauttamalla kauppapaikkaa. Kerromme tästä ominaisuudesta myöhemmin, kun olet valmis kaupankäyntiin.\n\nTEHTÄVÄ: Rakenna merkkituli rannikolle sivutoimistosi lähelle.
+Tämän pikku mainostuksen jälkeen kauppias alkaa etsiä sivutoimistoasi.
+Voit ehdottaa kauppiaalle kauppoja sivutoimistosi Kaupankäynti-välilehdellä. (Kaupankäynti on vielä vähän vaikeakäyttöistä. Jos keksit paremman tavan sen toteuttamiseen, jaa se kanssamme! Tarvitsemme apuasi tämän toteuttamisessa!)
+Merenkävijät-tasolla sinulla on kolme kauppapaikkaa, eli voit asettaa kolme tarjousta vapaakauppiaalle kerrallaan.
+Voit muuttaa myyntitarjouksen ostotarjoukseksi napsauttamalla kauppapaikan vasemman yläkulman pienestä kuvakkeesta.
+Voit valita kaupattavan tuotteen napsauttamalla kauppapaikkaa. Kerromme tästä ominaisuudesta myöhemmin, kun olet valmis kaupankäyntiin.
+TEHTÄVÄ: Rakenna merkkituli rannikolle sivutoimistosi lähelle.
 Rakenna merkkituli rannikolle sivutoimistosi lähettyville.
 
-Loistavaa! Vapaakauppias pysähtyy nyt säännöllisesti sivutoimistollasi.\n\nJatketaanpas kaupankäyntiin tutustumisella.\n\nKun olet valinnut kauppapaikkaan resurssin, oikeassa (ala)reunassa oleva vihreä palkki näyttää kuinka paljon tätä resurssia on varastossa. Jos resurssia ei ole yhtään, palkkia ei näy.\n\nLiikuttamalla liukusäädintä tavararuudun (kauppapaikan) oikealla puolella valitaan kuinka paljon tavaraa korkeintaan myydään tai ostetaan.\nOstaessa liukusäätimen luku on se määrä, jonka tavoittelet olevan varastoissasi.\nMyydessä taas luku ilmaisee määrää, jonka haluat pitää itselläsi (jota ei aseteta myyntiin).
+Loistavaa! Vapaakauppias pysähtyy nyt säännöllisesti sivutoimistollasi.
+Jatketaanpas kaupankäyntiin tutustumisella.
+Kun olet valinnut kauppapaikkaan resurssin, oikeassa (ala)reunassa oleva vihreä palkki näyttää kuinka paljon tätä resurssia on varastossa. Jos resurssia ei ole yhtään, palkkia ei näy.
+Liikuttamalla liukusäädintä tavararuudun (kauppapaikan) oikealla puolella valitaan kuinka paljon tavaraa korkeintaan myydään tai ostetaan.
+Ostaessa liukusäätimen luku on se määrä, jonka tavoittelet olevan varastoissasi.
+Myydessä taas luku ilmaisee määrää, jonka haluat pitää itselläsi (jota ei aseteta myyntiin).
 
-Esimerkki:\nTavararuutu on asetettu Osta-asentoon. Sinulla on 5 tonnia lautoja varastossa, ja olet asettanut liukusäätimen yhdeksään tonniin. Tällöin hankit korkeintaan 4 tonnia lautoja lisää.\nMyyminen toimii samalla tavalla. Kun Myy-asennossa oleva tavararuudun liukusäädin on 13 tonnissa ja varastossa on tavaraa 18 tonnia, tavaraa myydään korkeintaan 5 tonnia.\n\nJos vapaakauppias ei kuitenkaan ole valmis myymään/ostamaan toivomaasi määrää, et voi sille mitään, vaan joudut odottamaan kauppiaan seuraavaa käyntiä.\n\nUnknown Horisonzsissa on älykäs hinnoittelujärjestelmä, joten hinnat voivat olla muuttuneet kauppiaan seuraavalla käyntikerralla.\nHintoihin EI VOI vaikuttaa itse.\n\nBudjetti-välilehdellä näet kaupankäynnin tasapainon kohdista \"Ostot\" ja \"Myynti\".\n\nTEHTÄVÄ: Osta niin paljon työkaluja vapaakauppiaalta, että sinulla on 30 työkalua varastossa!
+Esimerkki:
+Tavararuutu on asetettu Osta-asentoon. Sinulla on 5 tonnia lautoja varastossa, ja olet asettanut liukusäätimen yhdeksään tonniin. Tällöin hankit korkeintaan 4 tonnia lautoja lisää.
+Myyminen toimii samalla tavalla. Kun Myy-asennossa oleva tavararuudun liukusäädin on 13 tonnissa ja varastossa on tavaraa 18 tonnia, tavaraa myydään korkeintaan 5 tonnia.
+Jos vapaakauppias ei kuitenkaan ole valmis myymään/ostamaan toivomaasi määrää, et voi sille mitään, vaan joudut odottamaan kauppiaan seuraavaa käyntiä.
+Unknown Horisonzsissa on älykäs hinnoittelujärjestelmä, joten hinnat voivat olla muuttuneet kauppiaan seuraavalla käyntikerralla.
+Hintoihin EI VOI vaikuttaa itse.
+Budjetti-välilehdellä näet kaupankäynnin tasapainon kohdista \"Ostot\" ja \"Myynti\".
+TEHTÄVÄ: Osta niin paljon työkaluja vapaakauppiaalta, että sinulla on 30 työkalua varastossa!
 Varastoi saarellesi vähintään 30 työkalua.
 Huomioi, että tämä voi viedä jonkin aikaa.
 
-Nuo työkalut riittävät hetkeksi. Hyvin tehty!\n\nTarjoat nyt asuintilat, keskustorin ja ruokaa asukkaillesi.\n\nYhä on yksi vaatimus, jota ei olla vielä täytetty, voit tarkistaa sen halutessasi toripaikasta tai teltan välilehdestä - merenkävijäsi haluavat yksinkertaisen rakennuksen, jossa voivat rukoilla.\n\nSiksipä sinun pitää rakentaa kylääsi kirkko, jonka kyläpappi nopeasti rakentaa auringonsuojaksi.\n\nMyös tämänkaltaiset palvelurakennukset pitää yhdistää polulla telttoihin, tai asukkaasi kokevat mahdottomaksi päästä niihin.\n\nMyöhemmillä tasoilla rakennuksista saattaa tulla tarjolle päivitettyjä versioita.
+Nuo työkalut riittävät hetkeksi. Hyvin tehty!
+Tarjoat nyt asuintilat, keskustorin ja ruokaa asukkaillesi.
+Yhä on yksi vaatimus, jota ei olla vielä täytetty, voit tarkistaa sen halutessasi toripaikasta tai teltan välilehdestä - merenkävijäsi haluavat yksinkertaisen rakennuksen, jossa voivat rukoilla.
+Siksipä sinun pitää rakentaa kylääsi kirkko, jonka kyläpappi nopeasti rakentaa auringonsuojaksi.
+Myös tämänkaltaiset palvelurakennukset pitää yhdistää polulla telttoihin, tai asukkaasi kokevat mahdottomaksi päästä niihin.
+Myöhemmillä tasoilla rakennuksista saattaa tulla tarjolle päivitettyjä versioita.
 
-Huomioi, että uskoa on kohdeltava samoin kuin muitakin resursseja!\n\nTämä tarkoittaa että sinun on tarjottava kaikille asukkaille polkuyhteys uskontuottajan (kirkon) luokse.\nHe keräävät uskovarantonsa täyteen, mutta varannotkin kuitenkin tyhjentyvät joskus. Jonkun ajan kuluttua heidän on päästävä kirkolle uudelleen täyttämään uskonnolliset tarpeensa uudelleen.\n\nTärkeää: Ei riitä, että kirkko on asuntojen lähellä, vaan sinne on oltava myös polkuyhteys.\n\nTEHTÄVÄ: Rakenna kokoontumisteltta polkuyhteydellä asukkaidesi luokse.
+Huomioi, että uskoa on kohdeltava samoin kuin muitakin resursseja!
+Tämä tarkoittaa että sinun on tarjottava kaikille asukkaille polkuyhteys uskontuottajan (kirkon) luokse.
+He keräävät uskovarantonsa täyteen, mutta varannotkin kuitenkin tyhjentyvät joskus. Jonkun ajan kuluttua heidän on päästävä kirkolle uudelleen täyttämään uskonnolliset tarpeensa uudelleen.
+Tärkeää: Ei riitä, että kirkko on asuntojen lähellä, vaan sinne on oltava myös polkuyhteys.
+TEHTÄVÄ: Rakenna kokoontumisteltta polkuyhteydellä asukkaidesi luokse.
 Rakenna kirkko yhteydellä telttoihin.
 
-Kaikki vaatimukset on nyt täytetty, kunhan asukkaasi voivat säännöllisesti vierailla keskustorilla ja kirkossa ja ruokavarantosi on riittävä.\n\nJos merenkävijäsi ovat riittävän onnellisia, he haluavat kehittyä seuraavalle tasolle, kansoittajiksi.\n\nVoit tehdä asukkaasi onnellisemmiksi laskemalla veroprosenttiasi. Muuta sinun ei tarvitse tehdä, sillä olet jo täyttänyt asukkaidesi kaikki vaatimukset.\n\nVeroprosenttia ei kannata kuitenkaan koko aikaa pitää alhaalla, sillä tästä todennäköisesti aiheutuu konkurssi ennemmin tai myöhemmin. Voit kuitenkin laskea prosenttia huoletta pieniksi ajoiksi.\n\nJonkin ajan jälkeen ensimmäisen yksikön pitäisi kävellä keskustorille ja etsiä sieltä uusia rakennustarvikkeita rakentaakseen hirsitalon. Tämä talo korvaa vanhan teltan.
+Kaikki vaatimukset on nyt täytetty, kunhan asukkaasi voivat säännöllisesti vierailla keskustorilla ja kirkossa ja ruokavarantosi on riittävä.
+Jos merenkävijäsi ovat riittävän onnellisia, he haluavat kehittyä seuraavalle tasolle, kansoittajiksi.
+Voit tehdä asukkaasi onnellisemmiksi laskemalla veroprosenttiasi. Muuta sinun ei tarvitse tehdä, sillä olet jo täyttänyt asukkaidesi kaikki vaatimukset.
+Veroprosenttia ei kannata kuitenkaan koko aikaa pitää alhaalla, sillä tästä todennäköisesti aiheutuu konkurssi ennemmin tai myöhemmin. Voit kuitenkin laskea prosenttia huoletta pieniksi ajoiksi.
+Jonkin ajan jälkeen ensimmäisen yksikön pitäisi kävellä keskustorille ja etsiä sieltä uusia rakennustarvikkeita rakentaakseen hirsitalon. Tämä talo korvaa vanhan teltan.
 
-Tällaiset asuinrakennusten päivitykset ovat ainoat, jotka maksavat raaka-aineita ilman että voit rajoittaa.\n\nJoihinkin rakennuksiin on itsetehtäviä päivityksiä, joissa käytät raaka-aineita rakentaaksesi paremman version samaan pisteeseen, mutta on myös maksuttomia päivityksiä kuten esimerkiksi tulet näkemään puunhakkaajan tapauksessa (Tällöin vain ulkoasu muuttuu).\n\nPäivitetty asumus kerää enemmän asukkaita, ja pioneerit maksavat myös enemmän veroja kuin merenkävijät.\n\nKuten olet jo saattanut huomata, huono puoli on että pioneerit vaativat myös tavaroita, joita merenkävijät eivät tarvitse - joten sinun tarvitsee käyttää tämän ylimääräisen tuoton myös heidän onnellisena pitämiseensä.\n\nTEHTÄVÄ: Aseta veroprosentti matalaksi (vasemmassa päässä) ja odota merenkävijöiden päivittymistä.
+Tällaiset asuinrakennusten päivitykset ovat ainoat, jotka maksavat raaka-aineita ilman että voit rajoittaa.
+Joihinkin rakennuksiin on itsetehtäviä päivityksiä, joissa käytät raaka-aineita rakentaaksesi paremman version samaan pisteeseen, mutta on myös maksuttomia päivityksiä kuten esimerkiksi tulet näkemään puunhakkaajan tapauksessa (Tällöin vain ulkoasu muuttuu).
+Päivitetty asumus kerää enemmän asukkaita, ja pioneerit maksavat myös enemmän veroja kuin merenkävijät.
+Kuten olet jo saattanut huomata, huono puoli on että pioneerit vaativat myös tavaroita, joita merenkävijät eivät tarvitse - joten sinun tarvitsee käyttää tämän ylimääräisen tuoton myös heidän onnellisena pitämiseensä.
+TEHTÄVÄ: Aseta veroprosentti matalaksi (vasemmassa päässä) ja odota merenkävijöiden päivittymistä.
 Laske verotasosi alas (palkin vasempaan päähän) ja odota merenkävijöidesi päivittyvän seuraavalle tasolle.
 
-Onneksi olkoon! Jotkut asukkaasi ovat saavuttaneet tason II!\n\nNyt kun sinulla on pääsy uusiin rakennuksiin, katsopas Rakennus-valikkoa uudestaan.\n\nSinne on ilmestynyt uusi uutukainen välilehti.\n\nKansoittajat tulevat vaatimaan vaatteita, joten sinun pitää rakentaa tuotantolinja vaatteille aloittaen lampaanvillasta (joka on yksi maatilan tuottamista tarvikkeista).\n\nMaatila on tärkeä tuotantorakennus, sillä se voi tuottaa todella monia (ja erilaisia) resursseja.\n\nMaatilojen tuotanto riippuu siitä, mitä peltoja olet rakentanut sen lähettyville.
+Onneksi olkoon! Jotkut asukkaasi ovat saavuttaneet tason II!
+Nyt kun sinulla on pääsy uusiin rakennuksiin, katsopas Rakennus-valikkoa uudestaan.
+Sinne on ilmestynyt uusi uutukainen välilehti.
+Kansoittajat tulevat vaatimaan vaatteita, joten sinun pitää rakentaa tuotantolinja vaatteille aloittaen lampaanvillasta (joka on yksi maatilan tuottamista tarvikkeista).
+Maatila on tärkeä tuotantorakennus, sillä se voi tuottaa todella monia (ja erilaisia) resursseja.
+Maatilojen tuotanto riippuu siitä, mitä peltoja olet rakentanut sen lähettyville.
 
-Tarkastelemme tätä myöhemmin.\n\nRaaka-aineita valmistavat yritykset eivät välttämättä tarvitse polkuyhteyttä varastoon tai sivutoimistoon. Maatila lukeutuu näihin yrityksiin.\n\nKunhan lopputuotannon yritykset tavoittavat maatilan, ja kerääjät sivutoimistolta tai varastolta pääsevät lopputuottajalle, kaikki on hyvin.\n\nJos kuitenkin aiot valmistaa tuotteita eri saaren osissa (missä saattaa olla järkeä) tai jopa eri saarilla, tulet tarvitsemaan jonkinlaisen kulkuyhteyden sivutoimistoon tai johonkin varastoon.\n\nMaatila kannattaa rakentaa kauaksi rannikosta ja asutuksesta, sillä se tulee tarvitsemaan tilaa toiminnalleen.\n\nTEHTÄVÄ: Rakenna maatila.
+Tarkastelemme tätä myöhemmin.
+Raaka-aineita valmistavat yritykset eivät välttämättä tarvitse polkuyhteyttä varastoon tai sivutoimistoon. Maatila lukeutuu näihin yrityksiin.
+Kunhan lopputuotannon yritykset tavoittavat maatilan, ja kerääjät sivutoimistolta tai varastolta pääsevät lopputuottajalle, kaikki on hyvin.
+Jos kuitenkin aiot valmistaa tuotteita eri saaren osissa (missä saattaa olla järkeä) tai jopa eri saarilla, tulet tarvitsemaan jonkinlaisen kulkuyhteyden sivutoimistoon tai johonkin varastoon.
+Maatila kannattaa rakentaa kauaksi rannikosta ja asutuksesta, sillä se tulee tarvitsemaan tilaa toiminnalleen.
+TEHTÄVÄ: Rakenna maatila.
 Rakenna maatila ja jätä vapaata tilaa sen ympärille.
 
-Maatila ei itse itsessään tuota mitään ilman peltoja.\n\nTällä hetkellä valittavissasi on laitumet sekä peruna- ja sokeripellot.\n\nNäiden ominaisuuksia:\n* Laidun: Lampaat elelevät siellä tuottaen villaa.\n* Perunamaa: Kasvattaa perunoita, jotka ovat mainiota ruokaa kansallesi.\n* Sokeripelto: Kasvattaa sokeria, jota käytetään alkoholijuomien tislaamisessa ja (myöhemmin) tuottamaan makeisia.\n\nTarvitsemme nyt vain laitumia, mutta jos tarvitset lisää ruokaa (esimerkiksi jos sinulla on paljon asukkaita), voit rakentaa myös perunapellon.\n\nHuomaa, että perunoiden tuottamista varten tarvitset tieyhteyden varastolta tai sivutoimistolta maatilalle (ei siis peltoon!).
+Maatila ei itse itsessään tuota mitään ilman peltoja.
+Tällä hetkellä valittavissasi on laitumet sekä peruna- ja sokeripellot.
+Näiden ominaisuuksia:
+* Laidun: Lampaat elelevät siellä tuottaen villaa.
+* Perunamaa: Kasvattaa perunoita, jotka ovat mainiota ruokaa kansallesi.
+* Sokeripelto: Kasvattaa sokeria, jota käytetään alkoholijuomien tislaamisessa ja (myöhemmin) tuottamaan makeisia.
+Tarvitsemme nyt vain laitumia, mutta jos tarvitset lisää ruokaa (esimerkiksi jos sinulla on paljon asukkaita), voit rakentaa myös perunapellon.
+Huomaa, että perunoiden tuottamista varten tarvitset tieyhteyden varastolta tai sivutoimistolta maatilalle (ei siis peltoon!).
 
-Varmista, että kaikki rakentamasi pellot ovat maatilan alueella.\n\nVoit harrastaa sekatuotantoa - yksi laidun ei johda 100 prosentin tehokkuuteen - mutta muista kuitenkin tarkistaa, kuinka montako peltoa yksi maatila kykenee hoitamaan.\n\nEri tyyppiset pellot tarvitsevat maatilayksiköiltä enemmän tai vähemmän aikaa (kylvämiseen, korjuuseen, paimennukseen, jne.) ja sen vuoksi maatila ei välttämättä pysty huolehtimaan kaikista rakentamistasi pelloista.\n\nVielä sinun ei kutenkaan tarvitse huolehtia, sillä et ole vielä rakentanut yhtäkään peltoa. Tehdään siis asialle jotakin!\n\nTEHTÄVÄ: Rakenna vähintään yksi laidun maatilan ulottuville ja lisää halutessasi perunapeltoja.
+Varmista, että kaikki rakentamasi pellot ovat maatilan alueella.
+Voit harrastaa sekatuotantoa - yksi laidun ei johda 100 prosentin tehokkuuteen - mutta muista kuitenkin tarkistaa, kuinka montako peltoa yksi maatila kykenee hoitamaan.
+Eri tyyppiset pellot tarvitsevat maatilayksiköiltä enemmän tai vähemmän aikaa (kylvämiseen, korjuuseen, paimennukseen, jne.) ja sen vuoksi maatila ei välttämättä pysty huolehtimaan kaikista rakentamistasi pelloista.
+Vielä sinun ei kutenkaan tarvitse huolehtia, sillä et ole vielä rakentanut yhtäkään peltoa. Tehdään siis asialle jotakin!
+TEHTÄVÄ: Rakenna vähintään yksi laidun maatilan ulottuville ja lisää halutessasi perunapeltoja.
 Rakenna vähintään yksi laidun maatilan ulottuville ja halutessasi myös perunapeltoja.
 
-Olet vilkaissut puunhakkaajaasi lähiaikoina?\n\nSivutoimistollasi ei ole loputtomasti tilaa tavaroiden varastoimiseen. Kerääjät lakkaavat keräämästä tavaroita yrityksiltä, kun varasto on täynnä.\nJoten jos asukkaasi eivät viime aikoina ole olleet kiinnostuneita päivittelemään asuntojaan ja sinulla on paljon lautoja, puunhakkaajasi saattaa olla toimettomana.\nVoimme parantaa tilannetta kahdella erilaisella lähestymistavalla, ja alla tutustumme molempiin.\n\nKaikkien yritysten toiminta voidaan väliaikaisesti keskeyttää.\nTämä saattaa kuulostaa oudolta, mutta kokeilepa napsauttaa puunhakkaajan yleiskatsauksessa olevaa hammaspyörää.\n\nKun tämä \"taukotila\" on käytössä, rakennuksesta maksamasi juoksevat kustannukset vähenevät. Ne eivät laske nollaan, mutta kuitenkin alemmaksi kuin yrityksen ollessa käytössä.
+Olet vilkaissut puunhakkaajaasi lähiaikoina?
+Sivutoimistollasi ei ole loputtomasti tilaa tavaroiden varastoimiseen. Kerääjät lakkaavat keräämästä tavaroita yrityksiltä, kun varasto on täynnä.
+Joten jos asukkaasi eivät viime aikoina ole olleet kiinnostuneita päivittelemään asuntojaan ja sinulla on paljon lautoja, puunhakkaajasi saattaa olla toimettomana.
+Voimme parantaa tilannetta kahdella erilaisella lähestymistavalla, ja alla tutustumme molempiin.
+Kaikkien yritysten toiminta voidaan väliaikaisesti keskeyttää.
+Tämä saattaa kuulostaa oudolta, mutta kokeilepa napsauttaa puunhakkaajan yleiskatsauksessa olevaa hammaspyörää.
+Kun tämä \"taukotila\" on käytössä, rakennuksesta maksamasi juoksevat kustannukset vähenevät. Ne eivät laske nollaan, mutta kuitenkin alemmaksi kuin yrityksen ollessa käytössä.
 
-Tämä tarkoittaa siis sitä, että voit säästää rahaa kun et väliaikaisesti tarvitse yritystä ja et myöskään halua tuhota sitä maan tasalle.\n\nToinen ratkaisu on rakentaa viimeinen tason I rakennus, jota ei ole vielä mainittu: varastoteltta.\n\nTällä rakennuksella on kaksi tarkoitusta. Se...\n* tarjoaa lisää varastotilaa tavaroillesi\n* lähettää omat kerääjänsä hakemaan tavaroita, samalla tavalla kuin sivutoimistokin\n\nYritykset voidaan siis yhdistää sivutoimiston sijasta varastoon, jolloin niiden tuotteet tulevat myös kerätyiksi. Varasto on hyödyllinen myös silloin kun sivutoimistolla on paljon hommia keräystöissä.\n\nTEHTÄVÄ: Rakenna varastoteltta mieluiten sellaiseen paikkaan, jossa tarvitset kerääjiä.
+Tämä tarkoittaa siis sitä, että voit säästää rahaa kun et väliaikaisesti tarvitse yritystä ja et myöskään halua tuhota sitä maan tasalle.
+Toinen ratkaisu on rakentaa viimeinen tason I rakennus, jota ei ole vielä mainittu: varastoteltta.
+Tällä rakennuksella on kaksi tarkoitusta. Se...
+* tarjoaa lisää varastotilaa tavaroillesi
+* lähettää omat kerääjänsä hakemaan tavaroita, samalla tavalla kuin sivutoimistokin
+Yritykset voidaan siis yhdistää sivutoimiston sijasta varastoon, jolloin niiden tuotteet tulevat myös kerätyiksi. Varasto on hyödyllinen myös silloin kun sivutoimistolla on paljon hommia keräystöissä.
+TEHTÄVÄ: Rakenna varastoteltta mieluiten sellaiseen paikkaan, jossa tarvitset kerääjiä.
 Rakenna varastoteltta (tason I-välilehdellä) järkevään paikkaan.
 
-Nyt kun villan tuotanto on käynnissä, tarvitset vielä kutomon tuottamaan villasta vaatteita.\n\nKutomo voidaan rakentaa kolmeen paikkaan - joko maatilan, varaston tai sivutoimiston lähelle.\n\nKaikissa tapauksissa sinun pitää luonnollisesti varmistaa polkuyhteys..\n\nVoit testimielessä sijoittaa kutomon maatilan lähettyville ja tuhota kaikki polut maatilalle johtavat polut. Näin voit havaita, että kutomo saa silti noudettua villaa ja tuotettua vaatteita.\n\nTEHTÄVÄ: Rakenna kutomo paikkaan, josta se saa villaa.
+Nyt kun villan tuotanto on käynnissä, tarvitset vielä kutomon tuottamaan villasta vaatteita.
+Kutomo voidaan rakentaa kolmeen paikkaan - joko maatilan, varaston tai sivutoimiston lähelle.
+Kaikissa tapauksissa sinun pitää luonnollisesti varmistaa polkuyhteys..
+Voit testimielessä sijoittaa kutomon maatilan lähettyville ja tuhota kaikki polut maatilalle johtavat polut. Näin voit havaita, että kutomo saa silti noudettua villaa ja tuotettua vaatteita.
+TEHTÄVÄ: Rakenna kutomo paikkaan, josta se saa villaa.
 Rakenna kutomo, joka saa jollain tavalla villaa.
 Asuta siirtokuntaasi vähintään 50 asukasta ja läpäise tämä harjoituspeli. Tarvitset myös voittoa tuottavan talouden.
 
-Yritä saada siirtokuntaasi vähintään 50 asukasta rakentamalla lisää asuinrakennuksia.\n\nJos pystyt luomaan tällaisen taloisuuden, joka kestää tällaista asukkaiden määrää, olet valmis lähtemään kohti Tuntematonta Horisonttia!\n\nTEHTÄVÄ: Hanki vähintään 50 asukasta, varmista että taloutesi on tasapainossa ja läpäise tämä harjoituspeli.
+Yritä saada siirtokuntaasi vähintään 50 asukasta rakentamalla lisää asuinrakennuksia.
+Jos pystyt luomaan tällaisen taloisuuden, joka kestää tällaista asukkaiden määrää, olet valmis lähtemään kohti Tuntematonta Horisonttia!
+TEHTÄVÄ: Hanki vähintään 50 asukasta, varmista että taloutesi on tasapainossa ja läpäise tämä harjoituspeli.
 
-Mitään tehtäviä ei ole enää jäljellä.\n\nJos sinulle jäi tästä harjoituspelistä jotain sanottavaa, kuten parannettavaa, moitittavaa, poistettavaa tai kehuttavaa, kerro se meille:\n\nwww.unknown-horizons.org\n\n#unknown-horizons @ irc.freenode.net\n\nteam@unknown-horizons.org\n\nMyös keskustelualueemme ovat aina avoinna sinulle!\n\nParhaat tulokset ovat tulleet IRC-kanaviltamme, joten kokeile niitä ensimmäisenä (-;
+Mitään tehtäviä ei ole enää jäljellä.
+Jos sinulle jäi tästä harjoituspelistä jotain sanottavaa, kuten parannettavaa, moitittavaa, poistettavaa tai kehuttavaa, kerro se meille:
+www.unknown-horizons.org
+#unknown-horizons @ irc.freenode.net
+team@unknown-horizons.org
+Myös keskustelualueemme ovat aina avoinna sinulle!
+Parhaat tulokset ovat tulleet IRC-kanaviltamme, joten kokeile niitä ensimmäisenä (-;
 Suuret kiitokset!
-\n\n\n\n\n\n\nKiitos, että pelasit tätä harjoituspeliä!\n\nTerveisin,\nUnknown Horizonsin kehittäjät
+
+
+
+
+Kiitos, että pelasit tätä harjoituspeliä!
+Terveisin,
+Unknown Horizonsin kehittäjät
 Onneksi olkoon! Olet pelannut tämän harjoituspelin läpi ja olet valmis kohtaamaan uusia haasteita!
 
 

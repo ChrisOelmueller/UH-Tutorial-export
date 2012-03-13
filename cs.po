@@ -1,8 +1,22 @@
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-12-22 13:22+0200\nLast-Translator: naked.in.rain <martin.mezl@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org
+POT-Creation-Date: 2012-03-06 18:02+0100
+PO-Revision-Date: 2011-12-22 13:22+0200
+Last-Translator: naked.in.rain <martin.mezl@gmail.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: cs
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;
+X-Generator: Pootle 2.1.5
+
 Tutorial
 
-Tutorial:\nPostavte svojí první osadu a naučte se hrát!\n
+Tutorial:
+Postavte svojí první osadu a naučte se hrát!
+
 Postavte na pobřeží Obchodní přístav, aby byl snadno dostupný ostatním lodím, jako je třeba volný obchodník.
 Vítej v Unknown Horizons!
 
@@ -21,26 +35,30 @@ A nyní pojďme hrát."
 Once you are near the coast, the anchor-like button you see in the overview tab will become active.
 This indicates that you are able to build a warehouse there by pressing that button (called 'Build Settlement').
 Now a preview of your building is dragged around when you move the cursor.
-You can build on any spot where this preview is not shaded red.\nClick where you want to place your first building.
+You can build on any spot where this preview is not shaded red.
+Click where you want to place your first building.
 TASK: Build a warehouse at the coast."
 msgstr "Pro pohyb lodí, jí vyberte kliknutím na levé tlačítko, a klikněte pravým tlačítkem na místo kam chcete plout.
 Jakmile budete v blízkosti pobřeží, tlačítko kotvy, které vidíte na kartě přehledu, bude aktivní.
 To naznačuje, že zde můžete postavit Obchodní přístav stiskem tohoto tlačítka (nazvané \"Postavit osadu\").
 Nyní se zobrazí náhled budovy při pohybu kurzorem.
-Můžete postavit budovu na jakémkoliv místě, kde náhled není zbarven červeně.\nKlikněte kdekoliv pro umístění vaší první budovy.
+Můžete postavit budovu na jakémkoliv místě, kde náhled není zbarven červeně.
+Klikněte kdekoliv pro umístění vaší první budovy.
 ÚKOL: Postavte Obchodní přístav na pobřeží."
 
 We will start with building a lumberjack.
 This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.
 The fisherman needs some boards to build his vessel as well.
 In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.
-The build menu is sorted by increments.\nYou are currently in the first increment (the Sailors level) so are offered only the basic buildings."
+The build menu is sorted by increments.
+You are currently in the first increment (the Sailors level) so are offered only the basic buildings."
 msgstr "Stavební materiál se z lodi vyloží automaticky. Nyní můžete postavit několik základních budov.
 Začneme se stavbou dřevorubce. 
 V této části hry je to nezbytné, protože prkna jsou to jediné, co můžete poskytnout námořníkům k zakrytí jejich stanů.
 Také rybář potřebuje nějaká prkna, aby si mohl vyrobit svou loďku.
 Aby jste postavili dřevorubce, otevřete stavební menu kliknutím na velkou ikonu pod mini mapou nebo stisknutím klávesy B.
-Stavební menu je rozděleno podle jednotlivých úrovní.\nNyní se nacházíte na první úrovni (námořnická úroveň), proto máte k dispozici pouze základní budovy."
+Stavební menu je rozděleno podle jednotlivých úrovní.
+Nyní se nacházíte na první úrovni (námořnická úroveň), proto máte k dispozici pouze základní budovy."
 
 For now, select the lumberjack under 'Companies' and build it in an area with some trees around.
 You can also plant trees later - but that costs money. Use what nature provided you with!
@@ -121,7 +139,11 @@ If not, happiness and income decrease. At some time your residents may get reall
 Note that you can also change the global tax settings here, too.
 TASK: Build at least three additional tents.
 TIP: Holding down SHIFT eases constructing multiple buildings of the same kind."
-msgstr "Nyní se pojďme podívat na přehledovou záložku pro stan.\nMůžete zde vidět:\n* spokojenost obyvatel\n* daně, které platí\n* zdroje, které požadují.
+msgstr "Nyní se pojďme podívat na přehledovou záložku pro stan.
+Můžete zde vidět:
+* spokojenost obyvatel
+* daně, které platí
+* zdroje, které požadují.
 Pokud budou jejich požadavky splněny, štěstí a také příjem z daní vzrostou.
 Pokud nebudou splněny, štěstí a příjem poklesne. Po určité době se obyvatelé stanou nevrlými, opustí Vaši vesnici a zanechají za sebou rozpadající se trosky.
 Všimněte si, že i zde můžete změnit nastavení celkové daně.
@@ -130,12 +152,14 @@ TIP: Přidržení klávesy SHIFT Vám zjednoduší hromadnou výstavbu budov ste
 Postavte alespoň tři další stany a propojte je s tržištěm.
 NOVÝ ÚKOL: POSTAVTE SIGNÁLNÍ OHEŇ
 
-The trader will supply your settlement with necessary goods which you can't produce yet.\nYou can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.
+The trader will supply your settlement with necessary goods which you can't produce yet.
+You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.
 Normally the trader ships just sail around and look for deals, but you can speed things up a bit.
 For this purpose, build a signal fire at the coast near your warehouse. It will show ships the way to your settlement.
 The signal fire has to cover the area which the ships pass through to catch them."
 msgstr "Vidíte lodě, které čas od času projedou okolo Vašeho ostrova? Tyto lodě patří Svobodnému obchodníkovi, jednomu z prvních osadníků v tomto souostroví.
-Obchodník bude zásobovat Vaši osadu potřebným zbožím, které zatím nemůžete sami produkovat.\nTaké můžete prodávat přebytky z Vaší produkce. Obecně je ale výhodnější tyto přebytky spotřebovat (tak, že postavíte více stanů). Příjem z daní bude vyšší než by byl příjem z prodeje.
+Obchodník bude zásobovat Vaši osadu potřebným zbožím, které zatím nemůžete sami produkovat.
+Také můžete prodávat přebytky z Vaší produkce. Obecně je ale výhodnější tyto přebytky spotřebovat (tak, že postavíte více stanů). Příjem z daní bude vyšší než by byl příjem z prodeje.
 Normálně obchodní lodě pouze proplouvají okolo a hledají obchodní příležitosti, ale my můžeme věci trochu urychlit.
 Pro tento účel postavte signální oheň na pobřeží poblíž Obchodního přístavu. Tak ukážete lodím cestu do Vaší osady.
 Aby mohl signální oheň přilákat lodě, musí pokrývat oblast, kterou lodě projíždějí."
@@ -155,19 +179,27 @@ Postavte signální oheň na pobřeží v blízkosti Obchodního přístavu.
 NOVÝ ÚKOL: VÝUKA OBCHODOVANÍ
 Let's continue our tutorial on how to trade.
 After selecting a particular type of good, the green bar across the bottom of the slot (if visible) shows you how much you have in stock of this good.
-Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. \nWhen buying, you will buy sufficient to hold your 'target value' in stock. \nWhen selling the 'target value' is the number which you hold in reserve to not sell"
+Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. 
+When buying, you will buy sufficient to hold your 'target value' in stock. 
+When selling the 'target value' is the number which you hold in reserve to not sell"
 msgstr "Výborně! Svobodný obchodník nyní čas od času zakotví v Obchodním přístavu.
 Pokračujme v našem návodu, jak obchodovat.
 Po vybrání konkrétního typu zboží, zelený ukazatel napravo od slotu (pokud je viditelný) ukazuje, kolik jednotek zboží máte aktuálně ve skladu.
-Tažením posuvníku na pravé straně každého slotu určíte \"cílovou hodnotu\", která má různé významy pro \"Prodej\" a \"Nákup\".\nPokud nakupujete zboží, bude nakoupeno tolik zboží, aby byla udržena \"cílová hodnota\" ve skladu.\nPokud zboží prodáváte, \"cílová hodnota\" určuje množství zboží, které uchováváte jako rezervu a nebude prodáno."
+Tažením posuvníku na pravé straně každého slotu určíte \"cílovou hodnotu\", která má různé významy pro \"Prodej\" a \"Nákup\".
+Pokud nakupujete zboží, bude nakoupeno tolik zboží, aby byla udržena \"cílová hodnota\" ve skladu.
+Pokud zboží prodáváte, \"cílová hodnota\" určuje množství zboží, které uchováváte jako rezervu a nebude prodáno."
 
 If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.
-Unknown Horizons features smart pricing, so the value of one unit can vary.\nIt is NOT possible to change prices manually!
+Unknown Horizons features smart pricing, so the value of one unit can vary.
+It is NOT possible to change prices manually!
 You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.
 TASK: Buy as many tools as you need to have 30 tools in stock!"
-msgstr "Ukážeme si to na příkladu: \nPokud máme nastavený slot na \"Nákup\" a na skladě máme 5 tun daného zboží, tak nastavení posuvníku na hodnotu 9 tun způsobí nákup maximálně 4 dalších tun zboží. \nProdej funguje obdobně. Slot \"Prodej\" s 18 tunami zboží na skladě a posuvník nastavený na hodnotu 13 tun způsobí, že bude prodáno 5 tun zboží.
+msgstr "Ukážeme si to na příkladu: 
+Pokud máme nastavený slot na \"Nákup\" a na skladě máme 5 tun daného zboží, tak nastavení posuvníku na hodnotu 9 tun způsobí nákup maximálně 4 dalších tun zboží. 
+Prodej funguje obdobně. Slot \"Prodej\" s 18 tunami zboží na skladě a posuvník nastavený na hodnotu 13 tun způsobí, že bude prodáno 5 tun zboží.
 Pokud svobodný obchodník bude chtít nakoupit nebo prodat méně zboží než nastavení vašich slotů dovoluje, nezbývá Vám nic jiného než počkat na jeho příští cestu.
-Unknown Horizons obsahuje chytré nastavení cen, to znamená, že cena za jednotku zboží se může lišit.\nNení možné měnit ceny manuálně!
+Unknown Horizons obsahuje chytré nastavení cen, to znamená, že cena za jednotku zboží se může lišit.
+Není možné měnit ceny manuálně!
 Vaši obchodní bilanci můžete vidět v záložce \"Účet\", kde jsou srovnány \"Nákup\" a \"Prodej\".
 ÚKOL: Nakupte nástroje tak, aby zásoby ve vašem skladu byly 30 jednotek!"
 Dosáhněte zásoby 30 nástrojů ve skladu.
@@ -185,12 +217,18 @@ Stále je zde ještě jeden požadavek, který nebyl doposud uspokojen, jak si m
 Budovy služeb, jako je tato, potřebují být propojeny se stany pomocí cest, jinak je vaši obyvatelé nebudou moci využívat.
 V pozdějších úrovních, budou možná k dispozici vylepšené verze budov."
 
-This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.\nAfter some time, they will have consumed it and then again look for a producer to collect more faith.
-Important:\nIt is NOT enough that the building is merely within a certain range of the tents.\nThe road connection is required as well.
+This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.
+After some time, they will have consumed it and then again look for a producer to collect more faith.
+Important:
+It is NOT enough that the building is merely within a certain range of the tents.
+The road connection is required as well.
 TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith."
 msgstr "Všimněte si, že víra se chová jako fyzický zdroj!
-To znamená, že vaši obyvatelé potřebují stezky k producentovi (pavilónu), aby si mohli přijít vyzvednout víru.\nPo určité době tuto víru zkonzumují a potom znovu vyhledají producenta, aby dostali více víry.
-Důležité:\nNENÍ dostačující, že se budova nachází v dostatečné vzdálenosti od stanů.\nSpojení pomocí stezky je rovněž vyžadováno.
+To znamená, že vaši obyvatelé potřebují stezky k producentovi (pavilónu), aby si mohli přijít vyzvednout víru.
+Po určité době tuto víru zkonzumují a potom znovu vyhledají producenta, aby dostali více víry.
+Důležité:
+NENÍ dostačující, že se budova nachází v dostatečné vzdálenosti od stanů.
+Spojení pomocí stezky je rovněž vyžadováno.
 ÚKOL: Postavte pavilón spojený stezkou se stany, aby se uspokojila potřeba víry vašich námořníků."
 Postav pavilón propojený se stany.
 NOVÝ ÚKOL: DALŠÍ ÚROVEŇ
@@ -241,12 +279,18 @@ Zkuste postavit farmu tak, aby nebyla blízko pobřeží a stávajících budov,
 Postavte farmu a nechte kolem ni volné místo.
 NOVÝ ÚKOL: STAVBA POLÍ
 You currently have the choice between pastures, potato and sugar fields.
-Let's have a short overview:\n* Pasture: Sheep live here, producing lamb wool.\n* Potato field: Grows potatoes which are currently treated as food.\n* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.
+Let's have a short overview:
+* Pasture: Sheep live here, producing lamb wool.
+* Potato field: Grows potatoes which are currently treated as food.
+* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.
 We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.
 Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods."
 msgstr "Samotná farma nebude nic produkovat, pokud nebudou postavena pole.
 Nyní máte možnost výběru mezi pastvinami, bramborovými poli a plantážemi s cukrovou třtinou.
-Proveďme krátké shrnutí:\n* Pastviny - žijí zde ovce, produkují ovčí vlnu.\n* Bramborové pole - pěstují se zde brambory, ty slouží jako potrava.\n* Plantáž cukrové třtiny - pěstuje se zde třtina, která je dále použita k destilaci kořalky a (později) produkci cukrovinek.
+Proveďme krátké shrnutí:
+* Pastviny - žijí zde ovce, produkují ovčí vlnu.
+* Bramborové pole - pěstují se zde brambory, ty slouží jako potrava.
+* Plantáž cukrové třtiny - pěstuje se zde třtina, která je dále použita k destilaci kořalky a (později) produkci cukrovinek.
 Nyní potřebujeme pouze pastviny, ale v případě, že Vaše zásobení jídlem je příliš malé (díky mnoha obytným budovám), můžete také postavit bramborové pole.
 Všimněte si, že brambory potřebujete propojit s farmou (nikoli s poli!), což je jediná budova, která pracuje se zbožím."
 
@@ -261,21 +305,31 @@ Nyní se tím nemusíte příliš zabývat, protože jste nevybudovali žádné 
 ÚKOL: Vybudujte alespoň jednu pastvinu v okolí farmy a přidejte bramborové pole, pokud chcete."
 Vybudujte alespoň jednu pastvinu a přidejte bramborové pole, pokud chcete.
 NOVÝ ÚKOL: POSTAVTE SKLADIŠTĚ
-Since your warehouse does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.\nSo if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.\nWe can improve this situation with two different approaches, and below we will have a look at both of them.
-All companies offer the possibility of doing no work at all.\nThis may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.
+Since your warehouse does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.
+So if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.
+We can improve this situation with two different approaches, and below we will have a look at both of them.
+All companies offer the possibility of doing no work at all.
+This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.
 If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing."
 msgstr "Dívali jste se nedávno na dřevorubce?
-Vzhledem k tomu že Obchodní přístav nemá neomezený prostor pro uložení zboží, dělníci přestanou odebírat zboží od dodavatelů, když je plný zásob.\nTakže pokud námořník nechtěl nedávno provést vylepšení svého stanu, pravděpodobně máte spoustu prken, a v takovém případě nemusí dřevorubec pracovat.\nTuto situaci můžete zlepšit dvěma různými způsoby, dále se podíváme na oba.
-Všichni dodavatelé nabízejí možnost nepracovat.\nMůže to znít divně, ale zkuste kliknout na ozubené kolo, které vidíte například v přehledu dřevorubce.
+Vzhledem k tomu že Obchodní přístav nemá neomezený prostor pro uložení zboží, dělníci přestanou odebírat zboží od dodavatelů, když je plný zásob.
+Takže pokud námořník nechtěl nedávno provést vylepšení svého stanu, pravděpodobně máte spoustu prken, a v takovém případě nemusí dřevorubec pracovat.
+Tuto situaci můžete zlepšit dvěma různými způsoby, dále se podíváme na oba.
+Všichni dodavatelé nabízejí možnost nepracovat.
+Může to znít divně, ale zkuste kliknout na ozubené kolo, které vidíte například v přehledu dřevorubce.
 Pokud je povolen režim \"rozbít\" (říkáme tomu \"Vyřazení z provozu\"), budou provozní náklady, které zaplatíte za budovu nižší. Nebudou nula, ale stále nižší, než pokud budete dodavatel pracovat."
 
 Another solution is to build the last increment-I building which has not been mentioned so far: the storage tent.
-This building has two purposes. It:\n* Offers more storage for your goods, and \n* sends its own collectors to fetch goods, just like the warehouse does.
+This building has two purposes. It:
+* Offers more storage for your goods, and 
+* sends its own collectors to fetch goods, just like the warehouse does.
 Note that companies can also be connected to a storage in order to get their products collected, and if the warehouse is overwhelmed with collector tasks, you can place a storage tent to help out there.
 TASK: Build a storage tent, preferably where you need collectors."
 msgstr "Můžetě ušetřit peníze pokud dočasně zastavíte společnost kterou zrovna nepotřebujete a nechcete jí zbourat.
 Dalším řešením je vybudování poslední budovy, která zatím nebyla zmíněna: skladovacího stanu..
-tato budova má dva učely a to:\n* Nabízí více prostoru pro vaše zboží, a\n* vysílá své sběrače vyzvednout zboží, stejně jako Obchodní přístav.
+tato budova má dva učely a to:
+* Nabízí více prostoru pro vaše zboží, a
+* vysílá své sběrače vyzvednout zboží, stejně jako Obchodní přístav.
 Pamatujte že všechny společnosti potřebují být spojeny s Obchodním přístavem pro svoz zboží. Pokud má Obchodní přístav moc úkolů postavte skladovací stan ktery Obchodnímu přístavu pomůže při svážení výrobků..
 ÚKOL: Vybudujte skladovací stan, přednostně tam kde potřebujete sběrače."
 Vybudujte skladovací stan (v záložce úrovně I) tam, kde to má smysl.
@@ -312,10 +366,12 @@ team@unknown-horizons.org
 Naše fórum je pro vás otevřené!
 Nejlepších výsledků bylo dosaženo pomocí našeho IRC kanálu, takže to byste mohli zkusit jako první (-;"
 Díky!
-\nThanks for playing the tutorial!
+
+Thanks for playing the tutorial!
 Your UH-Team"
 msgstr "
-\nDěkujeme za hraní tutorialu!
+
+Děkujeme za hraní tutorialu!
 Tvůj UH-Team"
 Gratulujeme! Dostali jste se na konec tutorialu a jste připraveni na další výzvy!
 

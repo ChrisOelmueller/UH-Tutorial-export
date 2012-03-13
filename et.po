@@ -1,16 +1,47 @@
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2012-02-05 11:32+0200\nLast-Translator: Christopher Oelmueller <chris.oelmueller+uh@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: et\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org
+POT-Creation-Date: 2012-03-06 18:02+0100
+PO-Revision-Date: 2012-02-05 11:32+0200
+Last-Translator: Christopher Oelmueller <chris.oelmueller+uh@gmail.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: et
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+X-Generator: Pootle 2.1.5
+
 Õpetus
 UH meeskond
-Õpetus:\nEhita oma esimene koloonia ja õpi kuidas mängida!\n
+Õpetus:
+Ehita oma esimene koloonia ja õpi kuidas mängida!
+
 Ehita rannikule harukontor nii et see oleks lihtsalt ligipääsetav teistele laevadele ja vaba kauplejale.
 Tere tulemast mängima Unknown Horizons!
 
-See siin on sinu Kapteni logiraamat kuhu kõik vajalik info salvestatakse.Vasakule ekraani serva kuvatakse lühiteade iga tegevuse kohta.\n\nKui sind huvitab pikem kirjeldus tegevusest siis loodetavasti su logiraamat seda ka kuvab.\n\nLogiraamatu sulgemise puhul on võimalik seda taasavada vajutades Kapteni logiraamat nuppu üleval paremal nurgas (mini kaardist allpool,suletud dokument ja sulg)\n\nEttepanekud,parem õigekirj ja teemad mis vajavad täpsemat seletust või isegi vead mis ilmnevad: Palun anna nendest meile teada ja me proovime täiendada õpetust.\n\nKülasta lehekülge www.unknown-horizons.org abi saamiseks kuidas mängu loojatega ühendust saada!\n\nJa nüüd alustame mängimisega.
+See siin on sinu Kapteni logiraamat kuhu kõik vajalik info salvestatakse.Vasakule ekraani serva kuvatakse lühiteade iga tegevuse kohta.
+Kui sind huvitab pikem kirjeldus tegevusest siis loodetavasti su logiraamat seda ka kuvab.
+Logiraamatu sulgemise puhul on võimalik seda taasavada vajutades Kapteni logiraamat nuppu üleval paremal nurgas (mini kaardist allpool,suletud dokument ja sulg)
+Ettepanekud,parem õigekirj ja teemad mis vajavad täpsemat seletust või isegi vead mis ilmnevad: Palun anna nendest meile teada ja me proovime täiendada õpetust.
+Külasta lehekülge www.unknown-horizons.org abi saamiseks kuidas mängu loojatega ühendust saada!
+Ja nüüd alustame mängimisega.
 
-Laeva liigutamiseks vali laev vasakpoolse nupuga ja seejärel vali parempoolse nupuga uus asukoht.\n\nRannikule piisaval lähedale jõudes aktiveerub ankru kujutisega nupp.\n\nNupule vajutades saad rannikule ehitada harukontori (nupu nimi Ehita Koloonia)\n\nVajutus järgselt saad ehitist liigutada kasutades hiire kursorit.\n\nEhitada saab igale kohale mis ei ole märgitud punasega.\nEhitamiseks vajuta hiire nuppu.\n\nÜLESANNE: ehita harukontor rannikule.
+Laeva liigutamiseks vali laev vasakpoolse nupuga ja seejärel vali parempoolse nupuga uus asukoht.
+Rannikule piisaval lähedale jõudes aktiveerub ankru kujutisega nupp.
+Nupule vajutades saad rannikule ehitada harukontori (nupu nimi Ehita Koloonia)
+Vajutus järgselt saad ehitist liigutada kasutades hiire kursorit.
+Ehitada saab igale kohale mis ei ole märgitud punasega.
+Ehitamiseks vajuta hiire nuppu.
+ÜLESANNE: ehita harukontor rannikule.
 
-Sinu laeval olevad materjalid laaditakse maha automaatselt. Nüüd saad ehitada mõned algelised ehitised.\n\nAlustame puuraidurist.\n\nSee on vajalik kuna puidust lauad on ainsad vahendid momendil mida saab kasutada telkide püstitamiseks.\n\nLisaks vajab ka kalamees oma laeva ehitamiseks laudu.\n\nEt ehitada puuraidur ava ehitiste menüü vajutades suurele ikoonile mini kaardi all või vajutades nuppu B.\n\nEhitiste menüü on jagatud gruppideks.\nSinu kasutada on momendil ainult esimene grupp (Meremehe tase) seega saad ehitada ainult  algelisi ehitisi.
+Sinu laeval olevad materjalid laaditakse maha automaatselt. Nüüd saad ehitada mõned algelised ehitised.
+Alustame puuraidurist.
+See on vajalik kuna puidust lauad on ainsad vahendid momendil mida saab kasutada telkide püstitamiseks.
+Lisaks vajab ka kalamees oma laeva ehitamiseks laudu.
+Et ehitada puuraidur ava ehitiste menüü vajutades suurele ikoonile mini kaardi all või vajutades nuppu B.
+Ehitiste menüü on jagatud gruppideks.
+Sinu kasutada on momendil ainult esimene grupp (Meremehe tase) seega saad ehitada ainult  algelisi ehitisi.
 
 
 

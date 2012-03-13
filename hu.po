@@ -1,39 +1,117 @@
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2012-03-01 11:03+0200\nLast-Translator: matyi <molnarmatyas@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org
+POT-Creation-Date: 2012-03-06 18:02+0100
+PO-Revision-Date: 2012-03-01 11:03+0200
+Last-Translator: matyi <molnarmatyas@gmail.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: hu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+X-Generator: Pootle 2.1.5
+
 Bemutató
 Az UH csapat
-Gyakorlás:\népítsd fel az első telepedet, és tanuld meg hogyan kell játszani!\n
+Gyakorlás:
+építsd fel az első telepedet, és tanuld meg hogyan kell játszani!
+
 Építs egy raktárat a tengerparthoz, így könnyen megközelíthető a többi szabadkereskedő hajó számára
 Üdvözli az Unknown Horizons!
 
-Ez a kapitány naplója, amin minden fontos információt tárol. Az egyes feladatok rövid értesítést fognak nyújtani a képernyő bal oldalán.\n\nHa érdekelnek a hosszabb leírásokat, a napló remélhetőleg segít mindenben amire szükséged van.\n\nHa bezárod a naplót, akkor úgy lehet újra megnyitni hogyha a \"Hajónapló\" ikonra kattintasz a jobb felső sarokban (mini-térkép egy lepecsételt dokumentummal és egy toll.)\n\nHa hibát találsz, vagy nem értelmes valami: Kérjük, jelezd nekünk, és mi megpróbáljuk javítani a tutorialt!\n\nLátogass el www.unknown-horizons.org oldalra, itt lehet lehet kapcsolatba lépni a csapattal!\n\nÉs most kezdjük a játék.
+Ez a kapitány naplója, amin minden fontos információt tárol. Az egyes feladatok rövid értesítést fognak nyújtani a képernyő bal oldalán.
+Ha érdekelnek a hosszabb leírásokat, a napló remélhetőleg segít mindenben amire szükséged van.
+Ha bezárod a naplót, akkor úgy lehet újra megnyitni hogyha a \"Hajónapló\" ikonra kattintasz a jobb felső sarokban (mini-térkép egy lepecsételt dokumentummal és egy toll.)
+Ha hibát találsz, vagy nem értelmes valami: Kérjük, jelezd nekünk, és mi megpróbáljuk javítani a tutorialt!
+Látogass el www.unknown-horizons.org oldalra, itt lehet lehet kapcsolatba lépni a csapattal!
+És most kezdjük a játék.
 Új feladat: Rendezkedj be egy szigetre!
-A hajó mozgatásához kattints a bal egérgombbal a hajón, és kattintson jobb gombbal a kívánt helyre, hogy odamenjen.\n\nMiután a part közelébe értél, egy horgony-szerű gomb lesz aktív áttekintés fülön.\n\nEz azt jelzi, hogy meg tudod építeni a raktárat a gomb megnyomásával (az úgynevezett \"Build Settlement\").\n\nMost az épület előnézetét az egérrel tudod mozgatni.\n\nMeg lehet építeni bármilyen helyen, ahol a kép nem árnyalt vörös.\nKattintson oda, ahová szeretnéd helyezni az első épüled.\n\nFeladat: Készítsen egy raktárat a parton.
+A hajó mozgatásához kattints a bal egérgombbal a hajón, és kattintson jobb gombbal a kívánt helyre, hogy odamenjen.
+Miután a part közelébe értél, egy horgony-szerű gomb lesz aktív áttekintés fülön.
+Ez azt jelzi, hogy meg tudod építeni a raktárat a gomb megnyomásával (az úgynevezett \"Build Settlement\").
+Most az épület előnézetét az egérrel tudod mozgatni.
+Meg lehet építeni bármilyen helyen, ahol a kép nem árnyalt vörös.
+Kattintson oda, ahová szeretnéd helyezni az első épüled.
+Feladat: Készítsen egy raktárat a parton.
 Új feladat: Építs egy favágóházat
-Az építőanyag a hajó kirakodását követően kapod. Akkor most építs néhány alapvető épületet.\n \nEgy favágóházzal kezdd!\n \nEz azért fontos, mert ebben a fázisban, csak a fedélzeten vannak deszkák.\n \nA halásznak szüksége deszkákra hajója építéséhez.\n \nA favágóház építéséhet, nyissa meg a build menüt vagy kattintson az alábbi ikonra nagy a mini térképen, vagy nyomja meg a B gombot.\n \nA build menü sorrendje lépésekben.\nJelenleg az első vagy (matróz szint), így csak az alapvető épületek érhetők el.
+Az építőanyag a hajó kirakodását követően kapod. Akkor most építs néhány alapvető épületet.
+ 
+Egy favágóházzal kezdd!
+ 
+Ez azért fontos, mert ebben a fázisban, csak a fedélzeten vannak deszkák.
+ 
+A halásznak szüksége deszkákra hajója építéséhez.
+ 
+A favágóház építéséhet, nyissa meg a build menüt vagy kattintson az alábbi ikonra nagy a mini térképen, vagy nyomja meg a B gombot.
+ 
+A build menü sorrendje lépésekben.
+Jelenleg az első vagy (matróz szint), így csak az alapvető épületek érhetők el.
 
-A civilizáció úgy fejlődik, hogy minél több és bonyolultabb épületeket építesz.\n\nMost válassza ki a favágóházat a \"cégek\" alatt és olyan területen építs, ahol van néhány fa.\n\nFákat is ültetnek majd - de ez pénzbe kerül. Használd, amit a természet ad feltéve, hogy elég!\n\nA cégen mindig szüksége van egy útra ami össze kapcsolja egy tárolóval vagy raktárral, különben áru a cégnél marad, és nem lehet beszedni.\n\nEz azt jelenti, hogy meg kell építened egy összekötő utat a raktárhoz (vagy tárolóhoz) és a favágóhoz.\n\nFeladat: Készíts egy favágóházat egy erdős területen, és csatlakoztasd az utat.\n\nNézd meg, hogy a gyűjtők idehozzák az első saját készítésű deszkákat.
+A civilizáció úgy fejlődik, hogy minél több és bonyolultabb épületeket építesz.
+Most válassza ki a favágóházat a \"cégek\" alatt és olyan területen építs, ahol van néhány fa.
+Fákat is ültetnek majd - de ez pénzbe kerül. Használd, amit a természet ad feltéve, hogy elég!
+A cégen mindig szüksége van egy útra ami össze kapcsolja egy tárolóval vagy raktárral, különben áru a cégnél marad, és nem lehet beszedni.
+Ez azt jelenti, hogy meg kell építened egy összekötő utat a raktárhoz (vagy tárolóhoz) és a favágóhoz.
+Feladat: Készíts egy favágóházat egy erdős területen, és csatlakoztasd az utat.
+Nézd meg, hogy a gyűjtők idehozzák az első saját készítésű deszkákat.
 Építs egy favágóházat és csatlakoztass hozzá a raktárból egy utat.
 Új feladat: Élelmiszer ellátás
-Szükséged lesz néhány élelmiszer-termelő cégre is, mert az emberek általában (és különösen a hajósok) nagyon éhesek.\n\nRendelkezésre álló cégek közül az első a Vadász és a Halász.\n\nA Vadász meglepő módon vadászik az állatokra az erdőben, ezért kell, hogy fák vegyék körül.\n\nNe helyezd el a Vadászt a közeli favágó erdejében.\n\nElőfordulhat, hogy az állatok nem szaporodnak elég gyorsan, vagy egyszerűen csak eltűnnek.\n\nKövetkeztetés: a vadász nem túl megbízható, ha szükséged van a folyamatos ellátásra.
+Szükséged lesz néhány élelmiszer-termelő cégre is, mert az emberek általában (és különösen a hajósok) nagyon éhesek.
+Rendelkezésre álló cégek közül az első a Vadász és a Halász.
+A Vadász meglepő módon vadászik az állatokra az erdőben, ezért kell, hogy fák vegyék körül.
+Ne helyezd el a Vadászt a közeli favágó erdejében.
+Előfordulhat, hogy az állatok nem szaporodnak elég gyorsan, vagy egyszerűen csak eltűnnek.
+Következtetés: a vadász nem túl megbízható, ha szükséged van a folyamatos ellátásra.
 
-A Halásznak szüksége van egy tengerparti építési telekre a raktár és egy halraj közelében.\n\nÉpít egy kis evezős hajót, és a fog néhány halat.\n\nEz folyamatos utánpótlást biztosít azon az áron egy kicsit hosszabb a termelési idő élelmiszer egységenként.\n\nEgy kis településen, mint a tiéd ki lehet próbálni mindkettőt, és akkor meglátod látni az előnyeit és hátrányait.\n\nFeladat: Készítsen egy Vadászt és egy Halászt.\n\nNe felejtsd el csatlakoztatni a raktárba!
+A Halásznak szüksége van egy tengerparti építési telekre a raktár és egy halraj közelében.
+Épít egy kis evezős hajót, és a fog néhány halat.
+Ez folyamatos utánpótlást biztosít azon az áron egy kicsit hosszabb a termelési idő élelmiszer egységenként.
+Egy kis településen, mint a tiéd ki lehet próbálni mindkettőt, és akkor meglátod látni az előnyeit és hátrányait.
+Feladat: Készítsen egy Vadászt és egy Halászt.
+Ne felejtsd el csatlakoztatni a raktárba!
 Építs egy Vadászt és egy Halászt. Csatlakoztasd őket a raktárba.
 Új feladat: Fő tér
 
-A lakosoknak szüksége van főtérre, ahol meg tudják venni az árukat.\n\nEz azt jelenti, hogy szükség van egy útra ami összeköt saját főtereddel a raktáradat.\n\nMinden áru a raktárban rendelkezésre áll a \"piacon\", így a lakosok nem kell elmenni a Halászhoz vagy a raktárba.\n\nÉrdemes figyelembe venni az aktuális ház építésénél, hogy könnyű lehessen bővíteni, és utakat építeni is is.\n\nNe tegye túl közel a sátrat a favágóhoz mert, mert a sátor építésénél eltakarítják a fákat.\n\nFeladat: Készíts egy főteret.
+A lakosoknak szüksége van főtérre, ahol meg tudják venni az árukat.
+Ez azt jelenti, hogy szükség van egy útra ami összeköt saját főtereddel a raktáradat.
+Minden áru a raktárban rendelkezésre áll a \"piacon\", így a lakosok nem kell elmenni a Halászhoz vagy a raktárba.
+Érdemes figyelembe venni az aktuális ház építésénél, hogy könnyű lehessen bővíteni, és utakat építeni is is.
+Ne tegye túl közel a sátrat a favágóhoz mert, mert a sátor építésénél eltakarítják a fákat.
+Feladat: Készíts egy főteret.
 
-Most vessünk egy közelebbi pillantást a főtérre.\n\nAz \"Account\" fül mutatja a sziget mérlegét, az összes költséget, és az összes adót.\n\nA tételek \"Eladás\" és a \"Vétel\" kifejezés a kereskedelmi egyensúlyod ezt látni fogjuk a későbbiekben.\n\nHa a mérleg pozitív, akkor minden mindenben nyereséget hoz.\n\nA különböző fülek növekményénél láthatóak a lakosok statisztikája. Azt is beállíthatod, hogy a növekmény-specifikus globális adót engedélyezed vagy tiltod lakosoknak, ezt a növekményt frissíteni fogja és magasabb lesz.
+Most vessünk egy közelebbi pillantást a főtérre.
+Az \"Account\" fül mutatja a sziget mérlegét, az összes költséget, és az összes adót.
+A tételek \"Eladás\" és a \"Vétel\" kifejezés a kereskedelmi egyensúlyod ezt látni fogjuk a későbbiekben.
+Ha a mérleg pozitív, akkor minden mindenben nyereséget hoz.
+A különböző fülek növekményénél láthatóak a lakosok statisztikája. Azt is beállíthatod, hogy a növekmény-specifikus globális adót engedélyezed vagy tiltod lakosoknak, ezt a növekményt frissíteni fogja és magasabb lesz.
 Készítsen egy főteret. Válassz ki egy helyet anélkül, hogy sok gazdasági épület lenne a környéken.
 Új feladat: Lakóépületek
 
-A telepesek szeretnék, hogy tető legyen a fejük fölött, egyébként nem is tudják milyen az élet a városban! Ezért jó neki a sátor is.\n\nSátrak alapvető lakóépületek. A telepesek akarják majd, hogy fejleszd, amikor elérnek egy nagyobb szintre.\n\nA telepesek nem tűnnek nagyon hasznosnak, mert megpróbálják elfogyasztani az összes árut amit termelsz - de legalább fizetnek adót, és ez az egyetlen módja, hogy most pénzt szerezz!\n\nFeladat: Készíts egy sátrat, és csatlakoztasd a főtérre.
+A telepesek szeretnék, hogy tető legyen a fejük fölött, egyébként nem is tudják milyen az élet a városban! Ezért jó neki a sátor is.
+Sátrak alapvető lakóépületek. A telepesek akarják majd, hogy fejleszd, amikor elérnek egy nagyobb szintre.
+A telepesek nem tűnnek nagyon hasznosnak, mert megpróbálják elfogyasztani az összes árut amit termelsz - de legalább fizetnek adót, és ez az egyetlen módja, hogy most pénzt szerezz!
+Feladat: Készíts egy sátrat, és csatlakoztasd a főtérre.
 Készíts egy sátrat, és csatlakoztasd a főtérre.
 
-Vessünk egy pillantást a sátor áttekintés fülre.\nLáthatjuk\n* A lakosok boldogságát,\n* Az általuk befizetett adókat és\n* A forrásokat amiket igényelnek.\n\nHa ezek a követelmények teljesülnek, a boldogság és így a adóbevétel növekedni fog.\n\nHa nem, a boldogság és a jövedelmek csökkennek. Néha a lakosok amikor sorsuk sanyarú, egyszerűen otthagyják a falut, és mindenüket.\n\nNe feledd, hogy megváltoztathatod a globális adó beállításokat itt is.\n\nFeladat: Készíts legalább további három sátrat.\n\nTIPP: Tartsd lenyomva a SHIFT-et több hasonló épület építésekor.
+Vessünk egy pillantást a sátor áttekintés fülre.
+Láthatjuk
+* A lakosok boldogságát,
+* Az általuk befizetett adókat és
+* A forrásokat amiket igényelnek.
+Ha ezek a követelmények teljesülnek, a boldogság és így a adóbevétel növekedni fog.
+Ha nem, a boldogság és a jövedelmek csökkennek. Néha a lakosok amikor sorsuk sanyarú, egyszerűen otthagyják a falut, és mindenüket.
+Ne feledd, hogy megváltoztathatod a globális adó beállításokat itt is.
+Feladat: Készíts legalább további három sátrat.
+TIPP: Tartsd lenyomva a SHIFT-et több hasonló épület építésekor.
 Építs legalább három további sátrat és kösd be a főtérre.
 Új feladat: Építs kereskedelmi tűzjelet
-Látod, hogy hajó halad el a szigetednél időről időre? Ez a hajó a Szabad Kereskedőkhöz tartozik, az egyik első telepesek ebben a szigetvilágban.\n\nA kereskedő ellátja a települést szükséges árukkal, amelyeket nem tudsz előállítani még.\nAz eladni kívánt többletet a termelés határozza meg, de általában időigényes eladni őket (az több épület több sátorral), ahelyett, hogy eladná helyben idehozza a nagyobb nyereség reményében.\n\nNormális esetben a kereskedő hajók csak vitorláznak körbe körbe és keresik az ajánlatokat, de lehet gyorsítani a dolgokat egy kicsit.\n\nErre a célra lehet építeni egy Tüzjelet a parton a raktár közelében. Meg fogja mutatni az utat a hajóknak a településre.\n\nA tűzjel azért van, hogy mutassa a területet, és elkapja a hajósokat akik áthaladnak.
+Látod, hogy hajó halad el a szigetednél időről időre? Ez a hajó a Szabad Kereskedőkhöz tartozik, az egyik első telepesek ebben a szigetvilágban.
+A kereskedő ellátja a települést szükséges árukkal, amelyeket nem tudsz előállítani még.
+Az eladni kívánt többletet a termelés határozza meg, de általában időigényes eladni őket (az több épület több sátorral), ahelyett, hogy eladná helyben idehozza a nagyobb nyereség reményében.
+Normális esetben a kereskedő hajók csak vitorláznak körbe körbe és keresik az ajánlatokat, de lehet gyorsítani a dolgokat egy kicsit.
+Erre a célra lehet építeni egy Tüzjelet a parton a raktár közelében. Meg fogja mutatni az utat a hajóknak a településre.
+A tűzjel azért van, hogy mutassa a területet, és elkapja a hajósokat akik áthaladnak.
 
 Építs egy Tűzjelet a parton közel a raktárhoz.
 
@@ -70,6 +148,11 @@ Legalább 50 lakosnodnak kell lennie és pozitív egyenlegednek, hogy befejezd a
 Nincs feladat hátra
 
 Köszönöm!
-\n\n\n\n\n\n\nKöszönöm hogy végigjátszottad a gyakorlást!\n\nA te UH-Csapatod
+
+
+
+
+Köszönöm hogy végigjátszottad a gyakorlást!
+A te UH-Csapatod
 Gratulálok! Elértél a gyakorlás végéhez, most már megfelesz az új kihívásoknak!
 

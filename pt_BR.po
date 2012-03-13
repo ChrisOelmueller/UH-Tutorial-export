@@ -1,12 +1,31 @@
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-09-04 17:01+0200\nLast-Translator: Christopher <eoc.eoc.eoc@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: pt_BR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n > 1);\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org
+POT-Creation-Date: 2012-03-06 18:02+0100
+PO-Revision-Date: 2011-09-04 17:01+0200
+Last-Translator: Christopher <eoc.eoc.eoc@gmail.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: pt_BR
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n > 1);
+X-Generator: Pootle 2.1.5
+
 Roteiro
 
-Roteiro:\nFirma seu primeiro acordo e aprende como jogar!\n
+Roteiro:
+Firma seu primeiro acordo e aprende como jogar!
+
 
 Bem-vindo a Unknown Horizons!
 
-Este é seu diário de bordo onde as informações mais importantes serão armazenadas. Uma pequena notificação de cada tarefa será fornecida na canto esquerdo da tela.\n\nSe você estiver interessado em mais detalhes, seu diário de bordo fornecerá toda a ajuda que você precisa.\n\nApós você fechar o diário, ele pode ser reaberto através do ícone 'Diário de bordo do Capitão' localizado no canto superior direito (abaixo o mini-mapa, com um  documento fechado e uma pena).\n\nSugestões de palavras, assuntos que você não entendeu ou tenha tido situações de conflito: Favor nos avisar e nós tentaremos melhorar o roteiro.\n\nVisite o site www.unknown-horizons.org para obter ajuda e como entrar em contato com a equipe!\n\nAgora, vamos começar o jogo.
+Este é seu diário de bordo onde as informações mais importantes serão armazenadas. Uma pequena notificação de cada tarefa será fornecida na canto esquerdo da tela.
+Se você estiver interessado em mais detalhes, seu diário de bordo fornecerá toda a ajuda que você precisa.
+Após você fechar o diário, ele pode ser reaberto através do ícone 'Diário de bordo do Capitão' localizado no canto superior direito (abaixo o mini-mapa, com um  documento fechado e uma pena).
+Sugestões de palavras, assuntos que você não entendeu ou tenha tido situações de conflito: Favor nos avisar e nós tentaremos melhorar o roteiro.
+Visite o site www.unknown-horizons.org para obter ajuda e como entrar em contato com a equipe!
+Agora, vamos começar o jogo.
 NOVA TAREFA: Atracado em uma ilha
 
 

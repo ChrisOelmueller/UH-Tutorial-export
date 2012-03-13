@@ -1,5 +1,17 @@
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-11-21 01:25+0200\nLast-Translator: hellwing <jacob.kage@hotmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: da\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org
+POT-Creation-Date: 2012-03-06 18:02+0100
+PO-Revision-Date: 2011-11-21 01:25+0200
+Last-Translator: hellwing <jacob.kage@hotmail.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: da
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+X-Generator: Pootle 2.1.5
+
 Tutorial
 
 

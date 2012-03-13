@@ -1,46 +1,122 @@
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2012-01-17 18:56+0200\nLast-Translator: janczarny <janczarny@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: pl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org
+POT-Creation-Date: 2012-03-06 18:02+0100
+PO-Revision-Date: 2012-01-17 18:56+0200
+Last-Translator: janczarny <janczarny@gmail.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: pl
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);
+X-Generator: Pootle 2.1.5
+
 Samouczek
 Zespół UH
-Samouczek:\nZbuduj swoją pierwszą osadę i naucz się jak grać!\n
+Samouczek:
+Zbuduj swoją pierwszą osadę i naucz się jak grać!
+
 
 Wybuduj port na wybrzeżu, tak aby inne statki miały do niego dostęp, np. Kupcy.
 Witaj w Unknown Horizons!
 
-To twój Dziennik Pokładowy, gdzie przechowywane są wszystkie ważne informacje. Informacja o każdym nowym zadaniu będzie pojawiać się po lewej stronie ekranu.\n\nJeśli jesteś zainteresowany dłuższymi opisami, twój Dziennik Pokładowy Ci w tym pomoże.\n\nPo zamknięciu Dziennika Pokładowego, można go ponownie otworzyć przy pomocy ikony 'Dziennik Pokładowy' w prawym górnym rogu (pod mini-mapą, z zapieczętowanym dokumentem i piórem).\n\nJeśli masz jakieś sugestie na temat lepszych sformułowań, niewyjaśnionych kwestii lub nawet problemów z grą: Prosimy, powiedz nam o tym, a my postaramy się ulepszyć Samouczek!\n\nOdwiedź www.unknown-horizons.org by uzyskać pomoc oraz by skontaktować się z zespołem!\n\nTeraz przejdźmy do właściwej gry.
+To twój Dziennik Pokładowy, gdzie przechowywane są wszystkie ważne informacje. Informacja o każdym nowym zadaniu będzie pojawiać się po lewej stronie ekranu.
+Jeśli jesteś zainteresowany dłuższymi opisami, twój Dziennik Pokładowy Ci w tym pomoże.
+Po zamknięciu Dziennika Pokładowego, można go ponownie otworzyć przy pomocy ikony 'Dziennik Pokładowy' w prawym górnym rogu (pod mini-mapą, z zapieczętowanym dokumentem i piórem).
+Jeśli masz jakieś sugestie na temat lepszych sformułowań, niewyjaśnionych kwestii lub nawet problemów z grą: Prosimy, powiedz nam o tym, a my postaramy się ulepszyć Samouczek!
+Odwiedź www.unknown-horizons.org by uzyskać pomoc oraz by skontaktować się z zespołem!
+Teraz przejdźmy do właściwej gry.
 Nowe zadanie: Osiedl się na wyspie
 
-Aby poruszyć się swoim statkiem, kliknij na niego lewym przyciskiem myszy a następnie prawym przyciskiem myszy wybierz miejsce docelowe.\n\nJak tylko zbliżysz się do wybrzeża, przycisk 'Buduj port' zostanie automatycznie aktywowany.\n\nZa pomocą niego będziesz mógł wybudować swój port.na danej wyspie.\n\nAby wybrać miejsce dla portu kliknij przycisk 'Buduj port' z zakładki poglądu statku a następnie wybierz miejsce gdzie chciałbyś go zlokalizowąć.\n\nMożesz wybrać dowolne miejsce na którym podgląd budynku nie jest podświetlony na czerwono.Kliknij aby go postawić.\n\nZadanie: Wybuduj port na wybrzeżu.
+Aby poruszyć się swoim statkiem, kliknij na niego lewym przyciskiem myszy a następnie prawym przyciskiem myszy wybierz miejsce docelowe.
+Jak tylko zbliżysz się do wybrzeża, przycisk 'Buduj port' zostanie automatycznie aktywowany.
+Za pomocą niego będziesz mógł wybudować swój port.na danej wyspie.
+Aby wybrać miejsce dla portu kliknij przycisk 'Buduj port' z zakładki poglądu statku a następnie wybierz miejsce gdzie chciałbyś go zlokalizowąć.
+Możesz wybrać dowolne miejsce na którym podgląd budynku nie jest podświetlony na czerwono.Kliknij aby go postawić.
+Zadanie: Wybuduj port na wybrzeżu.
 Nowe zadanie: Wybuduj chatę drwala
-Materiały budowlane z pokładu twojego statku zostały automatycznie rozładowane. Możesz teraz wybudować podstawowe budynki.\n\nRozpoczenimy budowę od chaty drwala.\n\nNa tym etapie gry jest to bardzo ważne z racji tego iż deski produkowane przez drwala są niezbędne twoim żeglarzą do postawienia namiotów.\n\nTakże rybacy potrzebują deski aby wybudować łodzie rybackie i pozyskać żywność dla osadników.\n\nAby wybudować chatę drwala: otwórz menu budowania, poprzez kliknięcie dużej ikony pod mini mapą lub wciśnij klawisz 'B'.\n\nWszystkie konstrukcje są posortowane według etapów rozwoju twoich osadników.\nW tym momencie jesteś na pierwszy z etapów (poziom Żeglarzy) dlatego masz dostęp tylko do podstawowych budynków.
+Materiały budowlane z pokładu twojego statku zostały automatycznie rozładowane. Możesz teraz wybudować podstawowe budynki.
+Rozpoczenimy budowę od chaty drwala.
+Na tym etapie gry jest to bardzo ważne z racji tego iż deski produkowane przez drwala są niezbędne twoim żeglarzą do postawienia namiotów.
+Także rybacy potrzebują deski aby wybudować łodzie rybackie i pozyskać żywność dla osadników.
+Aby wybudować chatę drwala: otwórz menu budowania, poprzez kliknięcie dużej ikony pod mini mapą lub wciśnij klawisz 'B'.
+Wszystkie konstrukcje są posortowane według etapów rozwoju twoich osadników.
+W tym momencie jesteś na pierwszy z etapów (poziom Żeglarzy) dlatego masz dostęp tylko do podstawowych budynków.
 
-Wraz z rozwojem cywilizacji, zdobędziesz dostęp do coraz to bardziej zaawansowanych budowli.\n\nNarazie zaznacz chatę drwala z kategori 'Przemysł i rolnictwo' i wybuduj ją w rejonie drzew.\n\nMasz możliwość także sadzenia drzew - ale to kosztuje, narazie skorzystać z tego co nautra daje!\n\nAby wykorzystać wszystkie dobra które zostały zebrane/wyprodukowane w danym miejscu musisz połączyć je drogą z reszta infrastruktury w twoiej osadzie. Inaczej nie będą brane pod uwagę.\nOznacza to iż musisz postawić drogę pomiędzy portem (lub magazynem) i chatą drwala.\n\nZadanie: Wybuduj chatę drwala w lesie i połącz ją z drogą.\n\nObserwuj jak pomocnik odbiera od drwala Twoje pierwsze wyprodukowane deski.
+Wraz z rozwojem cywilizacji, zdobędziesz dostęp do coraz to bardziej zaawansowanych budowli.
+Narazie zaznacz chatę drwala z kategori 'Przemysł i rolnictwo' i wybuduj ją w rejonie drzew.
+Masz możliwość także sadzenia drzew - ale to kosztuje, narazie skorzystać z tego co nautra daje!
+Aby wykorzystać wszystkie dobra które zostały zebrane/wyprodukowane w danym miejscu musisz połączyć je drogą z reszta infrastruktury w twoiej osadzie. Inaczej nie będą brane pod uwagę.
+Oznacza to iż musisz postawić drogę pomiędzy portem (lub magazynem) i chatą drwala.
+Zadanie: Wybuduj chatę drwala w lesie i połącz ją z drogą.
+Obserwuj jak pomocnik odbiera od drwala Twoje pierwsze wyprodukowane deski.
 
 Wybuduj chatę drwala i połącz ją drogą z portem.
 Nowe Zadanie: Zaopatrzenie w żywność
-Przyszła kolej na żywność, aby ludzie (a wszczególności żeglarze) nie chodzili głodni.\n\nNa pierwszym etapie rozwoju dostępnę są dwa rodzaje budynków które produkują żywność: Rybak i Myśliwy.\n\nMyśliwy, poluje na leśne zwierzęta dlatego najlepiej zlokalizować go w pobliżu lasu.\n\nZauważ że możesz myśliwego zlokalizować blisko chaty drwala gdzie będziesz miał pewność że oboje będą mieli dostęp do lasu.\n\nMoże się tak zdażyć że leśne zwierzęta nie będą się tak szybko rozmnażać albo będą bardzo dobrze się chowały.\n\nWniosek: Aby zapewnić stały dostęp do żywności nie możesz oprzeć się tylko na myśliwym.
+Przyszła kolej na żywność, aby ludzie (a wszczególności żeglarze) nie chodzili głodni.
+Na pierwszym etapie rozwoju dostępnę są dwa rodzaje budynków które produkują żywność: Rybak i Myśliwy.
+Myśliwy, poluje na leśne zwierzęta dlatego najlepiej zlokalizować go w pobliżu lasu.
+Zauważ że możesz myśliwego zlokalizować blisko chaty drwala gdzie będziesz miał pewność że oboje będą mieli dostęp do lasu.
+Może się tak zdażyć że leśne zwierzęta nie będą się tak szybko rozmnażać albo będą bardzo dobrze się chowały.
+Wniosek: Aby zapewnić stały dostęp do żywności nie możesz oprzeć się tylko na myśliwym.
 
-Rybak wymaga dostępu do otwartych wód oraz do ławicy ryb w zasięgu.\n\nPo usytuowaniu chatki rybaka na wybrzeżu wybuduje on sobie łódź rybacką i zacznie łowić ryby.\n\nJest to bardzo wydajne źródło żywności.\n\nTaka mała osada jak twoja może wykorzystać oba sposoby pozyskiwania żywności i zbalansować je odpowiednio zgodnie z ich wadami i zaletami.\n\nNie zapomnij połączyć ich drogą ze swoim portem!
+Rybak wymaga dostępu do otwartych wód oraz do ławicy ryb w zasięgu.
+Po usytuowaniu chatki rybaka na wybrzeżu wybuduje on sobie łódź rybacką i zacznie łowić ryby.
+Jest to bardzo wydajne źródło żywności.
+Taka mała osada jak twoja może wykorzystać oba sposoby pozyskiwania żywności i zbalansować je odpowiednio zgodnie z ich wadami i zaletami.
+Nie zapomnij połączyć ich drogą ze swoim portem!
 
 Wybuduj chatę myśliwego i rybaka. Połącz je drogą z portem.
 Now Zadanie: Rynek główny
 
-Twoi osadnicy potrzebują rynku głównego na którym będą mogli dostać wszystkie niezbędne im towary.\n\nOznacza to iż potrzebują oni bezpośredniego połączenia z domu na rynek główny.\n\nWszystkie dobra które posiadasz będą dostępne na rynku, dzięki temu twoi osadnicy nie są zmuszeni chodzić bezpośrednio do rybaka czy do portu.\n\nMusisz odpowiednio rozplanować rozlożenie poszczególnych domów osadników na terenie który w późniejszym czasie będziesz mógł rozbudowywać i zapewnić odpowiednie dojście drogą.\n\nPowinieneś przestrzec się od stawiania budynków w pobliżu chaty drwala i myśliwego z racji tego iż stawiając budynek niszczysz las co za tym idzie odbierasz schornienie zwierzętą i materiał dla drwala.\n\nZadanie: Wybuduj rynek główny.
+Twoi osadnicy potrzebują rynku głównego na którym będą mogli dostać wszystkie niezbędne im towary.
+Oznacza to iż potrzebują oni bezpośredniego połączenia z domu na rynek główny.
+Wszystkie dobra które posiadasz będą dostępne na rynku, dzięki temu twoi osadnicy nie są zmuszeni chodzić bezpośrednio do rybaka czy do portu.
+Musisz odpowiednio rozplanować rozlożenie poszczególnych domów osadników na terenie który w późniejszym czasie będziesz mógł rozbudowywać i zapewnić odpowiednie dojście drogą.
+Powinieneś przestrzec się od stawiania budynków w pobliżu chaty drwala i myśliwego z racji tego iż stawiając budynek niszczysz las co za tym idzie odbierasz schornienie zwierzętą i materiał dla drwala.
+Zadanie: Wybuduj rynek główny.
 
-Spójrzmy bliżej na rynek główny.\n\nW podglądzie masz możliwość szybkiego regulowania wysokości podatków.\n\nW drugie zakładce 'Finanse' możesz sprawdzić stan finansowy twojej wyspy, wszystkie wydatki oraz wpływy.\n\nPozycje Sprzedaż i Kupno odnoszą się do Twoiego handlu i zostaną wytłumaczone później.\n\nJeżeli Twoje saldo jest dodatnie, odnosisz zyski.\n
+Spójrzmy bliżej na rynek główny.
+W podglądzie masz możliwość szybkiego regulowania wysokości podatków.
+W drugie zakładce 'Finanse' możesz sprawdzić stan finansowy twojej wyspy, wszystkie wydatki oraz wpływy.
+Pozycje Sprzedaż i Kupno odnoszą się do Twoiego handlu i zostaną wytłumaczone później.
+Jeżeli Twoje saldo jest dodatnie, odnosisz zyski.
+
 Wybuduj rynek glówny. Wybierz obszar bez dużej ilości budynków produkcyjnych.
 Nowe Zadanie: Budynki mieszkalne
 
-Osadnicy potrzebują dachu nad głową, w przeciwnym razie nie będą nawet myśleć o tym aby się osiedlić w twoim mieście. Musisz im je dostarczyć.\n\nNamioty są podstawową wersję budynku mieszkalnego. Mieszkańcy unowocześnią je jak tylko osiągną wyższy poziom rozwoju.\n\nOsadnicy mogą nie być zbytnio pomocni w tym momencie ponieważ większośc swojego czasu poświęcają na konsumpcji dóbr które wyprodukujesz, jednocześnie płacą podatki a to narazie jedyny sposób aby zarobić pieniądze.\n\nZadanie: Postaw namioty i połącz je drogami z rynkiem.
+Osadnicy potrzebują dachu nad głową, w przeciwnym razie nie będą nawet myśleć o tym aby się osiedlić w twoim mieście. Musisz im je dostarczyć.
+Namioty są podstawową wersję budynku mieszkalnego. Mieszkańcy unowocześnią je jak tylko osiągną wyższy poziom rozwoju.
+Osadnicy mogą nie być zbytnio pomocni w tym momencie ponieważ większośc swojego czasu poświęcają na konsumpcji dóbr które wyprodukujesz, jednocześnie płacą podatki a to narazie jedyny sposób aby zarobić pieniądze.
+Zadanie: Postaw namioty i połącz je drogami z rynkiem.
 Postaw namioty i połącz je drogą z rynkiem głównym.
 
-Spójrzmy teraz na zakładkę podglądu namiotu.\nDostępne są:\n* zadowolenie mieszkańców\n* wysokość płaconych podatków* potrzebne zasoby\n\nJeżeli ich potrzeby są zaspokojone, poziom zadowolenia oraz wpływy z podatków rosną.\n\nJeżeli nie, poziom zadowolenia oraz wpływy z podatków spadają. Jeżeli poziom zadowolenia spadnie zbyt nisko, mieszkańcy mogą naprawdę się wkurzyć i poprostu opóścić twoją osadę, zabierająć ze sobą cały swój dorobek i pozostawiając na miejscu mieszkania ruiny.\n\nZauważ że możesz na tym widoku zmieniać wysokość globalnej stawki podatku.\n\nZadanie: Postaw conajmniej trzy dodatkowe namioty.\n\nWskazówka: Przytrzymując klawisz SHIFT łatwiej postawić kilka kontrukcji tego samego typu.
+Spójrzmy teraz na zakładkę podglądu namiotu.
+Dostępne są:
+* zadowolenie mieszkańców
+* wysokość płaconych podatków* potrzebne zasoby
+Jeżeli ich potrzeby są zaspokojone, poziom zadowolenia oraz wpływy z podatków rosną.
+Jeżeli nie, poziom zadowolenia oraz wpływy z podatków spadają. Jeżeli poziom zadowolenia spadnie zbyt nisko, mieszkańcy mogą naprawdę się wkurzyć i poprostu opóścić twoją osadę, zabierająć ze sobą cały swój dorobek i pozostawiając na miejscu mieszkania ruiny.
+Zauważ że możesz na tym widoku zmieniać wysokość globalnej stawki podatku.
+Zadanie: Postaw conajmniej trzy dodatkowe namioty.
+Wskazówka: Przytrzymując klawisz SHIFT łatwiej postawić kilka kontrukcji tego samego typu.
 Postaw conajmniej trzy dodatkowe namioty i połącz je drogą z rynkiem głównyn.
 Nowe Zadanie: Wybuduj sygnał świetlny
 
-Jak pewnie zauważyłeś, od czasu do czasu Twoją koło Twojego portu przepływają różne statki. Te statki to kupcy, Jedni z pierwszych żeglarzy na tym archipelagu.\n\nKupcy są wstanie dostarczyć różnego rodzaju dobra których nie jesteś w stanie wyprodukować.\nMożesz także sprzedać im nadmiar swoich zasobów w celu zarobkowym, jednak nadmiarowe dobra lepiej skonsumować ( poprzez postawienie większej ilości namiotów ) i czerpać większe korzyści z podatków.\n\nNormalnie kupcy pływają i poszukuję możliwości handlu, jednak możesz sprawić aby szybciej do Ciebie trafili.\n\nW tym celu postaw sygnał świetlny w postaci dużego ogniaska przy swoim porcie. Pozwoli to wskazać przepływającym drogę do Twojej osady.\n\nSygnał świetlny musi pokryć obszar którym przepływają statki aby nakierować ich na Twoją osadę.
+Jak pewnie zauważyłeś, od czasu do czasu Twoją koło Twojego portu przepływają różne statki. Te statki to kupcy, Jedni z pierwszych żeglarzy na tym archipelagu.
+Kupcy są wstanie dostarczyć różnego rodzaju dobra których nie jesteś w stanie wyprodukować.
+Możesz także sprzedać im nadmiar swoich zasobów w celu zarobkowym, jednak nadmiarowe dobra lepiej skonsumować ( poprzez postawienie większej ilości namiotów ) i czerpać większe korzyści z podatków.
+Normalnie kupcy pływają i poszukuję możliwości handlu, jednak możesz sprawić aby szybciej do Ciebie trafili.
+W tym celu postaw sygnał świetlny w postaci dużego ogniaska przy swoim porcie. Pozwoli to wskazać przepływającym drogę do Twojej osady.
+Sygnał świetlny musi pokryć obszar którym przepływają statki aby nakierować ich na Twoją osadę.
 
-Po stworzeniu zalążka latarni morskiej, statki kupców z łatwością odnajdą drogę do twojej osady i z chęcią pohandlują jeżeli będą przepływać w okolicy.\n\nMożesz zaproponować wymiany towaru w swoim porcie w zakładce 'Handel',\n\nNa pierszym poziome ( Żeglarz ) masz do dyspozycji tylko trzy sloty.\n\nW lewym górnym rogu znajduje się mała ikonka która definiuje czy towar chcesz sprzedać czy kupić. Klikająć możesz odpowiednio to zmienić.\nKliknij w jeden ze slotów aby dodać lub zmienić towar. W późniejszym etapie wyjaśnimy to bardziej szczegółowo jak tylko będziesz gotowy do handlowania.\n\nZadanie: Wybuduj sygnał świetlny na wybrzeżu nieopodal twojego portu.
+Po stworzeniu zalążka latarni morskiej, statki kupców z łatwością odnajdą drogę do twojej osady i z chęcią pohandlują jeżeli będą przepływać w okolicy.
+Możesz zaproponować wymiany towaru w swoim porcie w zakładce 'Handel',
+Na pierszym poziome ( Żeglarz ) masz do dyspozycji tylko trzy sloty.
+W lewym górnym rogu znajduje się mała ikonka która definiuje czy towar chcesz sprzedać czy kupić. Klikająć możesz odpowiednio to zmienić.
+Kliknij w jeden ze slotów aby dodać lub zmienić towar. W późniejszym etapie wyjaśnimy to bardziej szczegółowo jak tylko będziesz gotowy do handlowania.
+Zadanie: Wybuduj sygnał świetlny na wybrzeżu nieopodal twojego portu.
 
 Wybuduj latarnie na wybrzeżu w pobliżu swojego portu.
 Nowe Zadanie: Naucz się handlować
@@ -49,9 +125,19 @@ Nowe Zadanie: Naucz się handlować
 Zdobądź co najmniej 30 sztuk narzędzi.
 
 Nowe Zadanie: Wybuduj kaplicę
-Obecna ilość narzędzi będzie wystarczająca na tą chwilę. Bardzo dobrze!\n\nObecnie dostarczyłeś dach nad głową, rynek główny, a także wyżywienie dla swoich mieszkańców.\n\nJednak wszystkie te rzeczy nie wypełniają w pełni potrzeb mieszkańców, możesz sprawdzić czego jeszcze potrzebują w zakładce 'Podgląd Osadnika' lub bezpośredni poprzez podejrzenie jakiegoś namiotu - Twoi żeglarze chcą budynku w którym mogli by się modlić.\n\nRozwiązaniem tego problemu jest postawienie kaplicy w której osadnicy mogli by się schronić i pomodlić. \n\nJak każdy budynek musi zostać on połączony drogą z namiotami osadników tak aby mieli oni do niego bezproblemowy dostęp.\n\nNa następnych poziomach rozwoju będziesz miał możliwość postawienia większych i lepszych bydnków spełniających te same funkcję.
+Obecna ilość narzędzi będzie wystarczająca na tą chwilę. Bardzo dobrze!
+Obecnie dostarczyłeś dach nad głową, rynek główny, a także wyżywienie dla swoich mieszkańców.
+Jednak wszystkie te rzeczy nie wypełniają w pełni potrzeb mieszkańców, możesz sprawdzić czego jeszcze potrzebują w zakładce 'Podgląd Osadnika' lub bezpośredni poprzez podejrzenie jakiegoś namiotu - Twoi żeglarze chcą budynku w którym mogli by się modlić.
+Rozwiązaniem tego problemu jest postawienie kaplicy w której osadnicy mogli by się schronić i pomodlić. 
+Jak każdy budynek musi zostać on połączony drogą z namiotami osadników tak aby mieli oni do niego bezproblemowy dostęp.
+Na następnych poziomach rozwoju będziesz miał możliwość postawienia większych i lepszych bydnków spełniających te same funkcję.
 
-W takim przypadku te starsze budynki już nie będą potrzebne i zostaną zastąpione tymi nowocześniejszymi które w pełni zaspokoją potrzeby mieszkańców.\n\nZadbaj o to aby podczas rozbudowy Twojego miasta nie zabrakło miejsca na większe nowoczesniejsze budynki.\n\nZauważ że wiara jest traktowana jako fizyczny zasób, dlatego mieszkańcy będą co jakiś czas korzystać z tych zasobów.\n\nWażne:\nNie wystarczy aby budynek był zlokalizowany w pobliżu wszystkich namiotów. Każdy budynek może obsłużć pewną ograniczoną liczbę mieszkańców  .\n\nZadanie: Wybuduj kaplice z drogą do wszystkich namiotów aby zapewnić dostęp wiernym do kaplicy.
+W takim przypadku te starsze budynki już nie będą potrzebne i zostaną zastąpione tymi nowocześniejszymi które w pełni zaspokoją potrzeby mieszkańców.
+Zadbaj o to aby podczas rozbudowy Twojego miasta nie zabrakło miejsca na większe nowoczesniejsze budynki.
+Zauważ że wiara jest traktowana jako fizyczny zasób, dlatego mieszkańcy będą co jakiś czas korzystać z tych zasobów.
+Ważne:
+Nie wystarczy aby budynek był zlokalizowany w pobliżu wszystkich namiotów. Każdy budynek może obsłużć pewną ograniczoną liczbę mieszkańców  .
+Zadanie: Wybuduj kaplice z drogą do wszystkich namiotów aby zapewnić dostęp wiernym do kaplicy.
 Wybuduj kaplicę i połącz ją drogą z namiotami.
 Nowe Zadanie: Następny poziom
 Wszystkie potrzeby mieszkańców zostały zaspokojone. Obecnie mają oni możliwość odwiedzania rynku głównego, kaplicy a także zapas żywności jest wystarczający.

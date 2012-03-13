@@ -1,83 +1,242 @@
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-10-05 14:05+0200\nLast-Translator: Christopher <eoc.eoc.eoc@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: it\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org
+POT-Creation-Date: 2012-03-06 18:02+0100
+PO-Revision-Date: 2011-10-05 14:05+0200
+Last-Translator: Christopher <eoc.eoc.eoc@gmail.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: it
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+X-Generator: Pootle 2.1.5
+
 Tutorial
 La squadra di UH
-Tutorial:\nCostruisci un insediamento ed impara a giocare!\n
+Tutorial:
+Costruisci un insediamento ed impara a giocare!
+
 Costruire una filiale della costa, quindi è facilmente accessibile per le altre navi per il commercio libero
 Benvenuti a Unknown Horizons!
 
-Questo è il tuo diario del Capitano dove sono conservate tutte le informazioni importanti. Una breve notifica di ogni attività sarà mostrata a sinistra dello schermo.\n\nSe sei interessato a descrizioni più lunghe, il diario fornirà tutto l'aiuto di cui hai bisogno.\n\nQuando il diario è chiuso può essere riaperto con l'icona 'Diario del Capitano' nell'angolo in alto a destra (sotto la mini-mappa, con il documento sigillato e la penna).\n\nPer qualsiasi suggerimento su una migliore formulazione, su argomenti che vorresti fossero meglio spiegati o anche per segnalare problemi: per favore diccelo e cercheremo di migliorare il tutorial!\n\nVisita www.unknown-horizons.org per un aiuto su come contattare il team!\n\nE ora, iniziamo il gioco vero e proprio.
+Questo è il tuo diario del Capitano dove sono conservate tutte le informazioni importanti. Una breve notifica di ogni attività sarà mostrata a sinistra dello schermo.
+Se sei interessato a descrizioni più lunghe, il diario fornirà tutto l'aiuto di cui hai bisogno.
+Quando il diario è chiuso può essere riaperto con l'icona 'Diario del Capitano' nell'angolo in alto a destra (sotto la mini-mappa, con il documento sigillato e la penna).
+Per qualsiasi suggerimento su una migliore formulazione, su argomenti che vorresti fossero meglio spiegati o anche per segnalare problemi: per favore diccelo e cercheremo di migliorare il tutorial!
+Visita www.unknown-horizons.org per un aiuto su come contattare il team!
+E ora, iniziamo il gioco vero e proprio.
 
-Per spostare la nave, selezionarla con un clic sinistro e fare un clic destro sulla posizione cui si desidera andare.\n\nUna volta vicino alla costa, il pulsante con l'ancora visibile nella scheda panoramica si attiverà.\n\nCiò significa che è ora in grado di costruirvi qui una filiale premendo il pulsante (chiamato 'Costruisci Insediamento').\n\nUn'anteprima dell'edificio verrà visualizzata quando si sposta il cursore.\n\nÈ possibile costruire in ogni luogo dove l'anteprima non diventa rossa.\nFare clic dove si desidera posizionare il primo edificio.\n\nOBIETTIVO: Costruire una filiale presso la costa.
+Per spostare la nave, selezionarla con un clic sinistro e fare un clic destro sulla posizione cui si desidera andare.
+Una volta vicino alla costa, il pulsante con l'ancora visibile nella scheda panoramica si attiverà.
+Ciò significa che è ora in grado di costruirvi qui una filiale premendo il pulsante (chiamato 'Costruisci Insediamento').
+Un'anteprima dell'edificio verrà visualizzata quando si sposta il cursore.
+È possibile costruire in ogni luogo dove l'anteprima non diventa rossa.
+Fare clic dove si desidera posizionare il primo edificio.
+OBIETTIVO: Costruire una filiale presso la costa.
 
-Il materiale di costruzione sulla vostra nave ha scaricato automaticamente. Ora è possibile costruire alcuni edifici di base.\n\nInizieremo con la costruzione di un boscaiolo.\n\nCiò è essenziale perché, in questa fase, le tavole sono i poli e solo i naviganti possono permettersi di appendere le tende oltre.\n\nIl pescatore ha bisogno di tavole per costruire la nave.\n\nPer costruire un boscaiolo, aprire il menu costruire facendo clic sull'icona del grande sotto la mini mappa o premendo il tasto B.\n\nIl menu di costruire è ordinato per incrementi.\nStai nel primo livello (il livello Marinai) in modo tale sono offerti solo gli edifici di base.
+Il materiale di costruzione sulla vostra nave ha scaricato automaticamente. Ora è possibile costruire alcuni edifici di base.
+Inizieremo con la costruzione di un boscaiolo.
+Ciò è essenziale perché, in questa fase, le tavole sono i poli e solo i naviganti possono permettersi di appendere le tende oltre.
+Il pescatore ha bisogno di tavole per costruire la nave.
+Per costruire un boscaiolo, aprire il menu costruire facendo clic sull'icona del grande sotto la mini mappa o premendo il tasto B.
+Il menu di costruire è ordinato per incrementi.
+Stai nel primo livello (il livello Marinai) in modo tale sono offerti solo gli edifici di base.
 
-Quando la civilizzazione avanza, guadagnerai altri edifici più complessi.\n\nPer adesso, seleziona il tagliaboschi sotto 'Compagnie' e costruiscilo in una zona con presenza di alberi.\n\nPotrai anche piantare alberi successivamente - ma questo costa denaro. Usa quello che la natura ti fornisce!\n\nUna compagnia necessita sempre di un sentiero verso un magazzino od una filiale, altrimenti i beni rimarranno alla compagnia e non verranno immagazzinati.\n\nQuesto comporta che dovrai costruire un sentiero tra la filiale (o magazzino) ed il tagliaboschi.\n\nOBIETTIVO: Costruisci un tagliaboschi in una zona alberata e connettilo ad una strada.\n\nGuarda come un trasportatore prenderà le tue prime assi autoprodotte.
+Quando la civilizzazione avanza, guadagnerai altri edifici più complessi.
+Per adesso, seleziona il tagliaboschi sotto 'Compagnie' e costruiscilo in una zona con presenza di alberi.
+Potrai anche piantare alberi successivamente - ma questo costa denaro. Usa quello che la natura ti fornisce!
+Una compagnia necessita sempre di un sentiero verso un magazzino od una filiale, altrimenti i beni rimarranno alla compagnia e non verranno immagazzinati.
+Questo comporta che dovrai costruire un sentiero tra la filiale (o magazzino) ed il tagliaboschi.
+OBIETTIVO: Costruisci un tagliaboschi in una zona alberata e connettilo ad una strada.
+Guarda come un trasportatore prenderà le tue prime assi autoprodotte.
 Costruisci un tagliaboschi e collegalo alla filiale con un sentiero.
 
-Avrai bisogno anche di compagnie per la produzione di cibo perché le persone in generale (e specialmente i marinai) sono molto affamati.\n\nLe compagnie disponibili nel primo livello sono il Cacciatore ed il Pescatore.\n\nIl Cacciatore, sorprendentemente, caccia animali nella foresta, quindi ha bisogno di alberi intorno.\n\nNota che puoi mettere il Cacciatore vicino alla foresta del tagliaboschi.\n\nPotrà accadere che gli animali non si riproducano abbastanza velocemente o semplicemente si nascondano bene.\n\nConclusione: il cacciatore non è molto affidabile se desideri un rifornimento continuo.
+Avrai bisogno anche di compagnie per la produzione di cibo perché le persone in generale (e specialmente i marinai) sono molto affamati.
+Le compagnie disponibili nel primo livello sono il Cacciatore ed il Pescatore.
+Il Cacciatore, sorprendentemente, caccia animali nella foresta, quindi ha bisogno di alberi intorno.
+Nota che puoi mettere il Cacciatore vicino alla foresta del tagliaboschi.
+Potrà accadere che gli animali non si riproducano abbastanza velocemente o semplicemente si nascondano bene.
+Conclusione: il cacciatore non è molto affidabile se desideri un rifornimento continuo.
 
-Il Pescatore necessita di un sito di costruzione vicino alla riva, come la filiale, ed un branco di pesci nelle vicinanze.\n\nCostruirà un piccola imbarcazione a remi e pescherà dei pesci.\n\nQuesto è un rifornimento costante al prezzo di un tempo di produzione di unità di cibo leggermente maggiore.\n\nUn piccolo insediamento come il tuo potrà usare entrambe le compagnie, e potrai bilanciare i pro ed i contro se vedrai un confronto diretto.\n\nOBIETTIVO: Costruisci un cacciatore ed un pescatore.\n\nNon dimenticarti di connetterli alla filiale con i sentieri!
+Il Pescatore necessita di un sito di costruzione vicino alla riva, come la filiale, ed un branco di pesci nelle vicinanze.
+Costruirà un piccola imbarcazione a remi e pescherà dei pesci.
+Questo è un rifornimento costante al prezzo di un tempo di produzione di unità di cibo leggermente maggiore.
+Un piccolo insediamento come il tuo potrà usare entrambe le compagnie, e potrai bilanciare i pro ed i contro se vedrai un confronto diretto.
+OBIETTIVO: Costruisci un cacciatore ed un pescatore.
+Non dimenticarti di connetterli alla filiale con i sentieri!
 Costruisci un cacciatore ed un pescatore. Connettili alla filiale.
 
 
-I tuoi abitanti necessitano una piazza principale da cui possano prelevare i propri beni.\n\nQuesto significa che necessitano di un sentiero tra la loro casa e la piazza principale.\n\nTutti i beni nella tua filiale sono disponibili in questa 'piazza del mercato', quindi gli abitanti non dovranno andare dal pescatore o alla filiale.\n\nDovrai considerare costruire le abitazioni in una zona che potrai espandere facilmente e costruire anche dei sentieri.\n\nDovrai evitare di piazzare le tende troppo vicine al taglialegna, per esempio, perché la costruzione di tende rimuoverà gli alberi di cui il taglialegna necessita per costruire le assi.\n\nOBIETTIVO: Costruisci una piazza principale.
+I tuoi abitanti necessitano una piazza principale da cui possano prelevare i propri beni.
+Questo significa che necessitano di un sentiero tra la loro casa e la piazza principale.
+Tutti i beni nella tua filiale sono disponibili in questa 'piazza del mercato', quindi gli abitanti non dovranno andare dal pescatore o alla filiale.
+Dovrai considerare costruire le abitazioni in una zona che potrai espandere facilmente e costruire anche dei sentieri.
+Dovrai evitare di piazzare le tende troppo vicine al taglialegna, per esempio, perché la costruzione di tende rimuoverà gli alberi di cui il taglialegna necessita per costruire le assi.
+OBIETTIVO: Costruisci una piazza principale.
 
-Diamo ora uno sguardo più da vicino la piazza principale.\n\nNella scheda 'Account' si ottiene un bilancio di questa isola, con tutte le spese pagate e tutte le tasse che guadagni.\n\ngli elementi 'vendità' e 'Compra' consulta il saldo commerciale e sarà spiegato più avanti.\n\nSe il saldo è positivo, è tutti-in-tutti di realizzare un profitto.\n\nIn diverse schede  panoramica d'incremento è possibile visualizzare le statistiche sulla tua abitanti. È inoltre possibile impostare l'incremento di una specificha tassa globale e consentire o negare abitanti di questo incremento di passare a quella immediatamente superiore.
+Diamo ora uno sguardo più da vicino la piazza principale.
+Nella scheda 'Account' si ottiene un bilancio di questa isola, con tutte le spese pagate e tutte le tasse che guadagni.
+gli elementi 'vendità' e 'Compra' consulta il saldo commerciale e sarà spiegato più avanti.
+Se il saldo è positivo, è tutti-in-tutti di realizzare un profitto.
+In diverse schede  panoramica d'incremento è possibile visualizzare le statistiche sulla tua abitanti. È inoltre possibile impostare l'incremento di una specificha tassa globale e consentire o negare abitanti di questo incremento di passare a quella immediatamente superiore.
 Costruisci una piazza principale. Scegli un'area senza troppi edifici commerciali.
 
 
-I coloni vogliono dei tetti sulle loro teste, altrimenti non penseranno neppure di venire nella tua città! Devi fornirgli delle tende.\n\nLe tende sono edifici residenziali di base. I tuoi abitanti vorranno aggiornarle quando raggiungono livelli più elevati.\n\nI coloni potrebbero non sembrare molto utili dati che tenteranno di consumare tutti i beni che producono - ma almeno pagheranno le tasse, e questo è l'unico modo con cui potrai fare soldi per ora!\n\nOBIETTIVO: Costruisci una tenda e connettila alla piazza principale.
+I coloni vogliono dei tetti sulle loro teste, altrimenti non penseranno neppure di venire nella tua città! Devi fornirgli delle tende.
+Le tende sono edifici residenziali di base. I tuoi abitanti vorranno aggiornarle quando raggiungono livelli più elevati.
+I coloni potrebbero non sembrare molto utili dati che tenteranno di consumare tutti i beni che producono - ma almeno pagheranno le tasse, e questo è l'unico modo con cui potrai fare soldi per ora!
+OBIETTIVO: Costruisci una tenda e connettila alla piazza principale.
 Costruisci una tenda e collegala alla piazza principale.
 
-Diamo un'occhiata alla scheda panoramica tenda.\nPuoi vedere\n* la felicità dei residenti,\n* le tasse che pagano e\n* le risorse che richiedono.\n\nSe le loro richieste sono soddisfatte, la felicità e quindi le entrate delle tasse aumenteranno.\n\nAltrimenti la felicità e le tasse diminuiranno. Ad un certo punto i residenti potranno inacidirsi e semplicemente lasceranno il villaggio, lasciando una rovina decadente.\n\nNota che puoi cambiare le impostazione di tassazione anche da qui.\n\nOBIETTIVO: Costruisci almeno tre tende aggiuntive.\n\nSUGGERIMENTO: Premendo il tasto SHIFT faciliterai la costruzione di molti edifici dello stesso tipo.
+Diamo un'occhiata alla scheda panoramica tenda.
+Puoi vedere
+* la felicità dei residenti,
+* le tasse che pagano e
+* le risorse che richiedono.
+Se le loro richieste sono soddisfatte, la felicità e quindi le entrate delle tasse aumenteranno.
+Altrimenti la felicità e le tasse diminuiranno. Ad un certo punto i residenti potranno inacidirsi e semplicemente lasceranno il villaggio, lasciando una rovina decadente.
+Nota che puoi cambiare le impostazione di tassazione anche da qui.
+OBIETTIVO: Costruisci almeno tre tende aggiuntive.
+SUGGERIMENTO: Premendo il tasto SHIFT faciliterai la costruzione di molti edifici dello stesso tipo.
 Costruisci almeno tre tende aggiuntive e collegale alla piazza principale.
 
-Riesci a vedere la nave di passaggio la tua isola di tanto in tanto? Quella nave appartiene alla Trader Libera, uno dei primi coloni in questo arcipelago.\n\nL'operatore fornirà il vostro accordo con beni di prima necessità che non si riesce a produrre ancora.\nÈ possibile anche vendere le eccedenze della vostra produzione, ma in generale consumano più loro (con la costruzione di più tende) anziché che venderle e produrrè profitto.\n\nNormalmente le navi commerciante solo navigare intorno e cercare occasioni, ma è possibile accelerare le cose un po '.\n\nA tale scopo, creare un incendio segnale sulla costa vicino alla tua filiale. Mostrerà le navi la strada per il vostro insediamento.\n\nIl fuoco segnale deve coprire l'area che le navi passano per catturarli.
+Riesci a vedere la nave di passaggio la tua isola di tanto in tanto? Quella nave appartiene alla Trader Libera, uno dei primi coloni in questo arcipelago.
+L'operatore fornirà il vostro accordo con beni di prima necessità che non si riesce a produrre ancora.
+È possibile anche vendere le eccedenze della vostra produzione, ma in generale consumano più loro (con la costruzione di più tende) anziché che venderle e produrrè profitto.
+Normalmente le navi commerciante solo navigare intorno e cercare occasioni, ma è possibile accelerare le cose un po '.
+A tale scopo, creare un incendio segnale sulla costa vicino alla tua filiale. Mostrerà le navi la strada per il vostro insediamento.
+Il fuoco segnale deve coprire l'area che le navi passano per catturarli.
 
-Dopo questo annuncio poco, il commerciante sarà fermato a guardare la tua filiale se si prevede di navigare di passaggio.\n\nSi può proporre occasioni tramite 'Acquisto / Vendita' la scheda filiale. (Questa funzione è attualmente poco pratica da usare. Se si arriva con una bella soluzione di migliorarlo, vi preghiamo di condividere i tuoi pensieri! Abbiamo bisogno del vostro aiuto qui!)\n\nA incrementare il 'marinai', si sono dotate di tre slot trading.\n\nCliccare sulla piccola icona per cambiare la modalità di slot da 'Buy' a 'Sell' e viceversa.\n\nClicca nello slot di scegliere il bene che vogliono commerciare con. Ci illustrerà più dettagliatamente questa volta si è pronti al commercio.\n\nTASK: Costruire un incendio segnale sulla costa vicino al vostro filiale.
+Dopo questo annuncio poco, il commerciante sarà fermato a guardare la tua filiale se si prevede di navigare di passaggio.
+Si può proporre occasioni tramite 'Acquisto / Vendita' la scheda filiale. (Questa funzione è attualmente poco pratica da usare. Se si arriva con una bella soluzione di migliorarlo, vi preghiamo di condividere i tuoi pensieri! Abbiamo bisogno del vostro aiuto qui!)
+A incrementare il 'marinai', si sono dotate di tre slot trading.
+Cliccare sulla piccola icona per cambiare la modalità di slot da 'Buy' a 'Sell' e viceversa.
+Clicca nello slot di scegliere il bene che vogliono commerciare con. Ci illustrerà più dettagliatamente questa volta si è pronti al commercio.
+TASK: Costruire un incendio segnale sulla costa vicino al vostro filiale.
 Costruisci un segnale di fuoco sulla costa vicino alla tua filiale.
 
-Eccellente! Il Libero Commerciante ora si fermerà alla tua filiale di tanto in tanto.\n\nContinuiamo il tutorial su come commerciare.\n\nDopo aver selezionato un tipo specifico di bene, la barra verde nel basso dello spazio (se visibile) mostrerà la quantità di questo bene nei tuoi magazzini.\n\nSpostando il selettore a destra di ogni spazio determina la 'quantità obiettivo' che ha un diverso significato nei casi 'Compra' e 'Vendi'.\nQuando compri ne comprerai a sufficienza per tenere la 'quantità obiettivo' in magazzino.\nQuando vendi la 'quantità obiettivo' è il numero che mantieni in riserva da non vendere.
+Eccellente! Il Libero Commerciante ora si fermerà alla tua filiale di tanto in tanto.
+Continuiamo il tutorial su come commerciare.
+Dopo aver selezionato un tipo specifico di bene, la barra verde nel basso dello spazio (se visibile) mostrerà la quantità di questo bene nei tuoi magazzini.
+Spostando il selettore a destra di ogni spazio determina la 'quantità obiettivo' che ha un diverso significato nei casi 'Compra' e 'Vendi'.
+Quando compri ne comprerai a sufficienza per tenere la 'quantità obiettivo' in magazzino.
+Quando vendi la 'quantità obiettivo' è il numero che mantieni in riserva da non vendere.
 
-Ad esempio:\nChe presenta una fessura 'Buy' e 5 tonnellate in magazzino, uno slider posizionato a 9 tonnellate ti farà acquistare ulteriori 4 tonnellate al massimo.\nLa vendita funziona in modo simile. Uno slot 'Vendi' con 18 tonnellate in magazzino e lo slider posizionato a 13 venderà fino a 5 tonnellate.\n\nSe l'operatore libero ma vuole solo acquistare o vendere a meno di impostazioni lo permettono, si deve vivere con quello e aspettare il suo ritorno.\n\nUnknown Horizons ha caratteristiche determinazione intelligente del prezzo, in modo che il valore di una unità può variare.\nNON è possibile cambiare manualmente i prezzi!\n\nPotete vedere il saldo commerciale nella scheda 'Account' a confronto la 'Vendi' e 'Compra' valori lì.\n\nTASK: Buy come strumenti di cui hai bisogno di avere 30 utensili in magazzino!
+Ad esempio:
+Che presenta una fessura 'Buy' e 5 tonnellate in magazzino, uno slider posizionato a 9 tonnellate ti farà acquistare ulteriori 4 tonnellate al massimo.
+La vendita funziona in modo simile. Uno slot 'Vendi' con 18 tonnellate in magazzino e lo slider posizionato a 13 venderà fino a 5 tonnellate.
+Se l'operatore libero ma vuole solo acquistare o vendere a meno di impostazioni lo permettono, si deve vivere con quello e aspettare il suo ritorno.
+Unknown Horizons ha caratteristiche determinazione intelligente del prezzo, in modo che il valore di una unità può variare.
+NON è possibile cambiare manualmente i prezzi!
+Potete vedere il saldo commerciale nella scheda 'Account' a confronto la 'Vendi' e 'Compra' valori lì.
+TASK: Buy come strumenti di cui hai bisogno di avere 30 utensili in magazzino!
 Raggiungi una scorta per l'isola di almeno 30 attrezzi.
 
 
-Questi attrezzi sono sufficienti per il momento. Ben fatto!\n\nOra fornisci alloggi, una piazza principale e cibo per i tuoi abitanti.\n\nPerò c'è ancora un bisogno che non abbiamo soddisfatto, che puoi verificare nella piazza del mercato o nella scheda della tenda - i tuoi marinai vogliono un edificio di base dove possano pregare.\n\nLa soluzione è un padiglione sotto cui il parroco del villaggio troverà rapidamente riparo dal sole.\n\nEdifici di servizio come questo devono anch'essi essere connessi alle tende con un sentiero, altrimenti i residenti non potranno raggiungerli.\n\nNei livelli successivi verranno resi disponibili aggiornamenti agli edifici.
+Questi attrezzi sono sufficienti per il momento. Ben fatto!
+Ora fornisci alloggi, una piazza principale e cibo per i tuoi abitanti.
+Però c'è ancora un bisogno che non abbiamo soddisfatto, che puoi verificare nella piazza del mercato o nella scheda della tenda - i tuoi marinai vogliono un edificio di base dove possano pregare.
+La soluzione è un padiglione sotto cui il parroco del villaggio troverà rapidamente riparo dal sole.
+Edifici di servizio come questo devono anch'essi essere connessi alle tende con un sentiero, altrimenti i residenti non potranno raggiungerli.
+Nei livelli successivi verranno resi disponibili aggiornamenti agli edifici.
 
-Si noti che la fede è trattato come una risorsa fisica! \n\nQuesto significa che i tuoi abitanti hanno bisogno di un collegamento stradale al produttore (padiglione) per prendere la fede là. \nDopo qualche tempo, essi hanno consumato e poi ancora cercare un produttore per raccogliere più fede. \n\nImportante: \nNon è sufficiente che l'edificio è solo all'interno di una determinata gamma di tende. \nIl collegamento stradale è inoltre richiesta. \n\nTASK: costruire un padiglione con un sentiero per le tende in modo da soddisfare la domanda tuoi marinai 'per fede.
+Si noti che la fede è trattato come una risorsa fisica! 
+Questo significa che i tuoi abitanti hanno bisogno di un collegamento stradale al produttore (padiglione) per prendere la fede là. 
+Dopo qualche tempo, essi hanno consumato e poi ancora cercare un produttore per raccogliere più fede. 
+Importante: 
+Non è sufficiente che l'edificio è solo all'interno di una determinata gamma di tende. 
+Il collegamento stradale è inoltre richiesta. 
+TASK: costruire un padiglione con un sentiero per le tende in modo da soddisfare la domanda tuoi marinai 'per fede.
 Costruisci un padiglione con connessioni alle tende.
 
-Tutte le richieste sono ora soddisfatte se i tuoi abitanti possono regolarmente visitare la piazza principale ed il padiglione e se i rifornimenti di cibo sono adeguati.\n\nSe i marinai sono sufficientemente felici, vorranno avanzare al livello successivo chiamato Pionieri.\n\nPer farli contenti non c'è nulla di meglio da fare che abbassare le tasse dato che hai soddisfatto le loro richieste.\n\nDovrai cercare di non stare troppo con bassi livelli di tassazione altrimenti prima o poi finirai in bancarotta. Se è solo per un breve periodo e sai ciò che fai, tuttavia va bene.\n\nDopo qualche tempo la prima unità andrà alla piazza principale e cercherà del materiale da costruzione per costruire una casa di legno. Questa casa rimpiazzerà la vecchia tenda.
+Tutte le richieste sono ora soddisfatte se i tuoi abitanti possono regolarmente visitare la piazza principale ed il padiglione e se i rifornimenti di cibo sono adeguati.
+Se i marinai sono sufficientemente felici, vorranno avanzare al livello successivo chiamato Pionieri.
+Per farli contenti non c'è nulla di meglio da fare che abbassare le tasse dato che hai soddisfatto le loro richieste.
+Dovrai cercare di non stare troppo con bassi livelli di tassazione altrimenti prima o poi finirai in bancarotta. Se è solo per un breve periodo e sai ciò che fai, tuttavia va bene.
+Dopo qualche tempo la prima unità andrà alla piazza principale e cercherà del materiale da costruzione per costruire una casa di legno. Questa casa rimpiazzerà la vecchia tenda.
 
-Questi aggiornamenti residenziali sono i soli che costano risorse e non possono essere limitati da te.\n\nCi sono aggiornamenti manuali per alcuni edifici dove userai risorse per costruire una versione migliore nello stesso posto, ed aggiornamenti senza spese, per esempio, come potrai vedere, con il tagliaboschi (in questo caso solo l'aspetto cambierà).\n\nLe abitazioni aggiornate ospiteranno più abitanti, ed i pionieri pagheranno anche più tasse dei marinai.\n\nCome avrai già notato, lo svantaggio e che i pionieri richiedono beni aggiuntivi che i marinai non richiedono - quindi dovrai spendere altri soldi per farli comunque felici.\n\nOBIETTIVO: Imposta il livello di tassazione a Basso (a sinistra) ed aspetta l'aggiornamento dei marinai.
+Questi aggiornamenti residenziali sono i soli che costano risorse e non possono essere limitati da te.
+Ci sono aggiornamenti manuali per alcuni edifici dove userai risorse per costruire una versione migliore nello stesso posto, ed aggiornamenti senza spese, per esempio, come potrai vedere, con il tagliaboschi (in questo caso solo l'aspetto cambierà).
+Le abitazioni aggiornate ospiteranno più abitanti, ed i pionieri pagheranno anche più tasse dei marinai.
+Come avrai già notato, lo svantaggio e che i pionieri richiedono beni aggiuntivi che i marinai non richiedono - quindi dovrai spendere altri soldi per farli comunque felici.
+OBIETTIVO: Imposta il livello di tassazione a Basso (a sinistra) ed aspetta l'aggiornamento dei marinai.
 Imposta il livello delle tasse su Basso (a sinistra) ed attendi l'aggiornamento dei marinai.
 
-Congratulazioni! Alcuni dei tuoi abitanti hanno raggiunto il livello II!\n\nOra hai accesso a nuovi edifici, dai una nuova occhiata al menù di costruzione.\n\nUna nuova scheda è apparsa.\n\nI pionieri richiedono abiti, quindi dovrai realizzare una linea di produzione di abiti con lana di agnello (uno dei beni prodotto dalla fattoria).\n\nLa fattoria è un edifico molto speciale dato che può produrre non solo uno, ma ma molti (e differenti) beni a tua scelta.\n\nLa produzione della fattoria dipende dal tipo di campi che vi costruisci attorno.
+Congratulazioni! Alcuni dei tuoi abitanti hanno raggiunto il livello II!
+Ora hai accesso a nuovi edifici, dai una nuova occhiata al menù di costruzione.
+Una nuova scheda è apparsa.
+I pionieri richiedono abiti, quindi dovrai realizzare una linea di produzione di abiti con lana di agnello (uno dei beni prodotto dalla fattoria).
+La fattoria è un edifico molto speciale dato che può produrre non solo uno, ma ma molti (e differenti) beni a tua scelta.
+La produzione della fattoria dipende dal tipo di campi che vi costruisci attorno.
 
-Gli daremo un'occhiata più tardi.\n\nLe fattorie, come tutte le compagnie che producono materiali grezzi, non devono essere necessariamente connesse a magazzini o Filiali.\n\nFintanto che unità della compagnia di produzione finale potranno raggiungere la fattoria, ed i trasportatori dalla filiale o dalla tenda magazzino possono raggiungere la compagnia finale va tutto bene.\n\nSe, comunque, pensi di fare delle lavorazioni in parti differenti dell'isola (che può avere senso) o addirittura su isole diverse, ti servirà una connessione ai collettori.\n\nProva a costruire la fattoria non troppo vicino alla costa od ai tuoi edifici già esistenti, dato che vi sarà necessario dello spazio vicino per funzionare bene.\n\nOBIETTIVO: Costruisci una fattoria.
+Gli daremo un'occhiata più tardi.
+Le fattorie, come tutte le compagnie che producono materiali grezzi, non devono essere necessariamente connesse a magazzini o Filiali.
+Fintanto che unità della compagnia di produzione finale potranno raggiungere la fattoria, ed i trasportatori dalla filiale o dalla tenda magazzino possono raggiungere la compagnia finale va tutto bene.
+Se, comunque, pensi di fare delle lavorazioni in parti differenti dell'isola (che può avere senso) o addirittura su isole diverse, ti servirà una connessione ai collettori.
+Prova a costruire la fattoria non troppo vicino alla costa od ai tuoi edifici già esistenti, dato che vi sarà necessario dello spazio vicino per funzionare bene.
+OBIETTIVO: Costruisci una fattoria.
 Costruisci una fattoria mantenendo dello spazio disponibile intorno.
 
-La fattoria stessa non produrrà nulla senza alcuni campi.\n\nAl momento puoi scegliere tra pascoli, patate e campi di zucchero.\n\nDiamo una breve descrizione:\n* Pascoli: le pecore vivono qui, producendo lana d'agnello.\n* Campi di patate: vi crescono patate  che sono al momento considerate cibo.\n* Campi da zucchero: vi cresce zucchero che è usato per distillare liquori e (successivamente) produrre dolciumi.\n\nAl momento ci servono solo i pascoli, ma nel caso la tua catena alimentare sia troppo piccola (forse in presenza di molti edifici residenziali) puoi anche produrvi patate.\n\nNota che per le patate ti servirà una connessione alla fattoria (non al campo!) dato che sarà l'unica compagnia che lavora sui beni.
+La fattoria stessa non produrrà nulla senza alcuni campi.
+Al momento puoi scegliere tra pascoli, patate e campi di zucchero.
+Diamo una breve descrizione:
+* Pascoli: le pecore vivono qui, producendo lana d'agnello.
+* Campi di patate: vi crescono patate  che sono al momento considerate cibo.
+* Campi da zucchero: vi cresce zucchero che è usato per distillare liquori e (successivamente) produrre dolciumi.
+Al momento ci servono solo i pascoli, ma nel caso la tua catena alimentare sia troppo piccola (forse in presenza di molti edifici residenziali) puoi anche produrvi patate.
+Nota che per le patate ti servirà una connessione alla fattoria (non al campo!) dato che sarà l'unica compagnia che lavora sui beni.
 
-Assicurati che tutti i campi costruiti siano nell'area coperta dalla fattoria.\n\nPuoi avere delle produzioni combinate - un pascolo non sfrutterà tutta la fattoria - ma dovrai controllare quanti campi può servire una fattoria.\n\nDiverse classi di campi richiedono alle unità della fattoria di impiegare più o meno tempo qui (per seminare, raccogliere, radunare, ecc...) e, quindi, la fattoria potrebbe non riuscire a servire tutti i campi gestiti in tempo.\n\nPer adesso non preoccuparti troppo di questi problemi dato che non hai ancora costruito campi. Procediamo quindi!\n\nOBIETTIVO: Costruisci almeno un pascolo nel raggio della fattoria ed aggiungi campi di patate se lo desideri.
+Assicurati che tutti i campi costruiti siano nell'area coperta dalla fattoria.
+Puoi avere delle produzioni combinate - un pascolo non sfrutterà tutta la fattoria - ma dovrai controllare quanti campi può servire una fattoria.
+Diverse classi di campi richiedono alle unità della fattoria di impiegare più o meno tempo qui (per seminare, raccogliere, radunare, ecc...) e, quindi, la fattoria potrebbe non riuscire a servire tutti i campi gestiti in tempo.
+Per adesso non preoccuparti troppo di questi problemi dato che non hai ancora costruito campi. Procediamo quindi!
+OBIETTIVO: Costruisci almeno un pascolo nel raggio della fattoria ed aggiungi campi di patate se lo desideri.
 Costruisci almeno un pascolo ed aggiungi campi di patate se lo desideri.
 
-Hai controllato il tagliaboschi recentemente?\n\nDato che la filiale non dispone di spazio illimitato per immagazzinare beni, i trasportatori si fermeranno a raccogliere beni dalle compagnie quando la scorta è piena.\nQuindi se nessun marinaio ha recentemente aggiornato la tenda, avrai probabilmente molte assi ed in quel caso il taglialegna potrebbe oziare.\nPossiamo migliorare questa situazione con due approcci differenti, e sotto discuteremo entrambi.\n\nTutte le compagnie hanno la possibilità di non fare alcun lavoro.\nQuesto potrà sembrare strano, ma prova a cliccare sulla ruota dentata che vedi, ad esempio, nella panoramica del tagliaboschi.\n\nSe questo modo 'pausa' è abilitato (lo chiamiamo 'Decommissione'), i costi ricorrenti che paghi per l'edificio diminuiranno. Non saranno zero, ma comunque più bassi del caso con la compagnia attiva.
+Hai controllato il tagliaboschi recentemente?
+Dato che la filiale non dispone di spazio illimitato per immagazzinare beni, i trasportatori si fermeranno a raccogliere beni dalle compagnie quando la scorta è piena.
+Quindi se nessun marinaio ha recentemente aggiornato la tenda, avrai probabilmente molte assi ed in quel caso il taglialegna potrebbe oziare.
+Possiamo migliorare questa situazione con due approcci differenti, e sotto discuteremo entrambi.
+Tutte le compagnie hanno la possibilità di non fare alcun lavoro.
+Questo potrà sembrare strano, ma prova a cliccare sulla ruota dentata che vedi, ad esempio, nella panoramica del tagliaboschi.
+Se questo modo 'pausa' è abilitato (lo chiamiamo 'Decommissione'), i costi ricorrenti che paghi per l'edificio diminuiranno. Non saranno zero, ma comunque più bassi del caso con la compagnia attiva.
 
-Questo significa che puoi risparmiare denaro quando non hai temporaneamente bisogno di una compagnia e comunque non vuoi distruggerla.\n\nUn'altra soluzione è di costruire l'ultimo edificio di livello I che non abbiamo ancora discusso: la tenda magazzino.\n\nQuesto edificio ha due scopi:\n* offre più spazio per i tuoi beni, e \n* invia i propri trasportatori per raccogliere beni, proprio come fa la filiale.\n\nNota che le compagnie possono anche essere connesse ad un magazzino in modo da avere i propri prodotti raccolti, e se la filiale è sovraccarica per i lavori di raccolta, puoi costruire un magazzino tenda per aiutarla.\n\nOBIETTIVO: Costruisci un magazzino tenda, preferibilmente dove necessiti di trasportatori.
+Questo significa che puoi risparmiare denaro quando non hai temporaneamente bisogno di una compagnia e comunque non vuoi distruggerla.
+Un'altra soluzione è di costruire l'ultimo edificio di livello I che non abbiamo ancora discusso: la tenda magazzino.
+Questo edificio ha due scopi:
+* offre più spazio per i tuoi beni, e 
+* invia i propri trasportatori per raccogliere beni, proprio come fa la filiale.
+Nota che le compagnie possono anche essere connesse ad un magazzino in modo da avere i propri prodotti raccolti, e se la filiale è sovraccarica per i lavori di raccolta, puoi costruire un magazzino tenda per aiutarla.
+OBIETTIVO: Costruisci un magazzino tenda, preferibilmente dove necessiti di trasportatori.
 Costruisci una tenda magazzino (scheda livello I) dove può essere utile.
 
-Ora che la produzione di lana è avviata hai ancora bisogno di un tessitore per produrre abiti da questa lana.\n\nCi sono due zone dove costruirlo - o vicino alla fattoria o vicino ad un Magazzino Tenda (o Filiale).\n\nIn entrambi i casi devi anche provvedere ad una connessione con un sentiero.\n\nPuoi costruire il tessitore vicino alla fattoria e demolire ogni sentiero verso la fattoria per vedere che comunque raccoglierà la lana e produrrà.\n\nOBIETTIVO: Costruisci un tessitore posizionandolo in modo che possa raccogliere lana.
+Ora che la produzione di lana è avviata hai ancora bisogno di un tessitore per produrre abiti da questa lana.
+Ci sono due zone dove costruirlo - o vicino alla fattoria o vicino ad un Magazzino Tenda (o Filiale).
+In entrambi i casi devi anche provvedere ad una connessione con un sentiero.
+Puoi costruire il tessitore vicino alla fattoria e demolire ogni sentiero verso la fattoria per vedere che comunque raccoglierà la lana e produrrà.
+OBIETTIVO: Costruisci un tessitore posizionandolo in modo che possa raccogliere lana.
 Costruisci un tessitore che possa raggiungere la lana della fattoria.
 Alloggia almeno 50 abitanti nella tua città per completare il tutorial. Hai bisogno di un bilancio positivo.
 
-Prova ad alloggiare 50 abitanti o più nella tua città fornendo più edifici residenziali.\n\nUna volta che sarai in grado di mantenere un'economia che può soddisfare questo valore di cittadini, sarai pronto per scoprire Unknown Horizons!\n\nOBIETTIVO: Raggiungi un totale di 50 abitanti ed un bilancio positivo per completare questo tutorial.
+Prova ad alloggiare 50 abitanti o più nella tua città fornendo più edifici residenziali.
+Una volta che sarai in grado di mantenere un'economia che può soddisfare questo valore di cittadini, sarai pronto per scoprire Unknown Horizons!
+OBIETTIVO: Raggiungi un totale di 50 abitanti ed un bilancio positivo per completare questo tutorial.
 
-Non c'è più nulla da fare, ora.\n\nSe hai suggerimenti su cosa potremmo o dovremmo migliorare, aggiungili oppure esci:\n\nwww.unknown-horizons.org\n\n#unknown-horizons @ irc.freenode.net\n\nteam@unknown-horizons.org\n\nI nostri forum sono anche aperti per te!\n\nI migliori risultati fino ad ora sono stati raggiunti unendosi al canale IRC, quindi potresti provare questo come primo passo (-;
+Non c'è più nulla da fare, ora.
+Se hai suggerimenti su cosa potremmo o dovremmo migliorare, aggiungili oppure esci:
+www.unknown-horizons.org
+#unknown-horizons @ irc.freenode.net
+team@unknown-horizons.org
+I nostri forum sono anche aperti per te!
+I migliori risultati fino ad ora sono stati raggiunti unendosi al canale IRC, quindi potresti provare questo come primo passo (-;
 Grazie!
-\n\n\n\n\n\n\nGrazie per aver giocato il tutorial!\n\nLa squadra di UH
+
+
+
+
+Grazie per aver giocato il tutorial!
+La squadra di UH
 Congratulazioni! Hai completato il tutorial e sei pronto per nuove sfide!
 
 

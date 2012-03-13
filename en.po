@@ -1,6 +1,18 @@
 
 
-Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: team@unknown-horizons.org\nPOT-Creation-Date: 2011-09-05 22:38+0200\nPO-Revision-Date: 2011-09-26 22:35+0200\nLast-Translator: Christopher <eoc.eoc.eoc@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: en\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Pootle 2.1.5\n
+Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: team@unknown-horizons.org
+POT-Creation-Date: 2011-09-05 22:38+0200
+PO-Revision-Date: 2011-09-26 22:35+0200
+Last-Translator: Christopher <eoc.eoc.eoc@gmail.com>
+Language-Team: LANGUAGE <LL@li.org>
+Language: en
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+X-Generator: Pootle 2.1.5
+
 
 Hello! This language project does not require you to translate strings. In fact, it will be considered bad to have translated strings in here.Please use this project as a way to suggest how our source code strings could be improved. Remember to leave your name somewhere in that translation, too, so that we might contact you.We will try to review things that happen in this project on a regular basis. If you think there is an urgent need for improvement, please contact us on IRC, our forums or per mail!
 
