@@ -1,25 +1,11 @@
 
+Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-12-22 13:22+0200\nLast-Translator: naked.in.rain <martin.mezl@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Pootle 2.1.5\n
+Tutorial
+Tým UH
+Tutorial:\nPostavte svojí první osadu a naučte se hrát!\n
+Postavte na pobřeží Obchodní přístav, aby byl snadno dostupný ostatním lodím, jako je třeba volný obchodník.
+Vítej v Unknown Horizons!
 
-msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\nPOT-Creation-Date: 2012-03-06 18:02+0100\nPO-Revision-Date: 2011-12-22 13:22+0200\nLast-Translator: naked.in.rain <martin.mezl@gmail.com>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Pootle 2.1.5\n"
-
-msgid "Tutorial"
-msgstr "Tutorial"
-
-msgid "The UH team"
-msgstr "Tým UH"
-
-msgid "The tutorial:\nBuild your first settlement and learn how to play!\n"
-msgstr "Tutorial:\nPostavte svojí první osadu a naučte se hrát!\n"
-
-msgid "Build a warehouse at the coast, so it is easy accessible for other ships like the Free Trader."
-msgstr "Postavte na pobřeží Obchodní přístav, aby byl snadno dostupný ostatním lodím, jako je třeba volný obchodník."
-
-msgid "Welcome to Unknown Horizons!"
-msgstr "Vítej v Unknown Horizons!"
-
-
-msgid "This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
 If you are interested in longer descriptions, your log will hopefully provide all the help you need.
 After you close this log, it can be re-opened with the \"Captain's Log\" icon in the top-right corner (below the mini-map, with a sealed document and a feather).
 For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!
@@ -31,11 +17,7 @@ Po zavření deníku, může být tento znovu otevřen ikonou 'Lodní deník' v 
 Pro jakékoliv návrhy na lepší formulace, témata, které byste chtěil mít vysvětlené nebo je někde chyba napište nám a my se pokusíme o nápravu.
 Na www.unknown-horizons.org nás můžete kontaktovat.
 A nyní pojďme hrát."
-
-msgid "NEW TASK: SETTLE ON AN ISLAND"
-msgstr "NOVÝ ÚKOL: OSÍDLIT OSTROV"
-
-msgid "To move your ship, select it with a left click and right click on the location you want it to go to.
+NOVÝ ÚKOL: OSÍDLIT OSTROV
 Once you are near the coast, the anchor-like button you see in the overview tab will become active.
 This indicates that you are able to build a warehouse there by pressing that button (called 'Build Settlement').
 Now a preview of your building is dragged around when you move the cursor.
@@ -47,11 +29,7 @@ To naznačuje, že zde můžete postavit Obchodní přístav stiskem tohoto tla�
 Nyní se zobrazí náhled budovy při pohybu kurzorem.
 Můžete postavit budovu na jakémkoliv místě, kde náhled není zbarven červeně.\nKlikněte kdekoliv pro umístění vaší první budovy.
 ÚKOL: Postavte Obchodní přístav na pobřeží."
-
-msgid "NEW TASK: BUILD A LUMBERJACK"
-msgstr "NOVÝ ÚKOL: POSTAVTE DŘEVORUBCE"
-
-msgid "The construction material on your ship got unloaded automatically. You can now construct some basic buildings.
+NOVÝ ÚKOL: POSTAVTE DŘEVORUBCE
 We will start with building a lumberjack.
 This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.
 The fisherman needs some boards to build his vessel as well.
@@ -64,8 +42,6 @@ Také rybář potřebuje nějaká prkna, aby si mohl vyrobit svou loďku.
 Aby jste postavili dřevorubce, otevřete stavební menu kliknutím na velkou ikonu pod mini mapou nebo stisknutím klávesy B.
 Stavební menu je rozděleno podle jednotlivých úrovní.\nNyní se nacházíte na první úrovni (námořnická úroveň), proto máte k dispozici pouze základní budovy."
 
-
-msgid "\nAs your civilization advances, you also gain more and more complex buildings.
 For now, select the lumberjack under 'Companies' and build it in an area with some trees around.
 You can also plant trees later - but that costs money. Use what nature provided you with!
 A company always needs a trail connection to a storage or warehouse, otherwise goods will remain at the company and not be collected.
@@ -79,14 +55,8 @@ Podnik vždy potřebuje spojení stezkou ke skladišti nebo Obchodnímu přísta
 To znamená, že musíte vybudovat stezku spojující váš Obchodní přístav (nebo skladiště) a dřevorubce.
 ÚKOL: Postavte dřevorubce v lesnaté oblasti a propojte ho cestou.
 Sledujte jak výběrčí vybere vaše první vyprodukované prkna."
-
-msgid "Build a lumberjack and connect it to the warehouse using a trail."
-msgstr "Postavte dřevorubce a spojte ho s Obchodním přístavem pomocí stezky."
-
-msgid "NEW TASK: FOOD SUPPLY"
-msgstr "NOVÝ ÚKOL: PRODUKCE JÍDLA"
-
-msgid "You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
+Postavte dřevorubce a spojte ho s Obchodním přístavem pomocí stezky.
+NOVÝ ÚKOL: PRODUKCE JÍDLA
 Available companies in the first increment are the Hunter and Fisher.
 The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.
 Note that you can place your Hunter close to the lumberjack's forest.
@@ -99,8 +69,6 @@ Všimněte si, že lovce můžete umístit blízko dřevorubcova lesa.
 Stává se, že zvířata se nemnoží dostatečně rychle nebo se umí dobře schovat.
 Závěrem: Lovec není příliš spolehlivý zdroj potravy, pokud potřebujete nepřerušované zásobování."
 
-
-msgid "\nThe Fisher needs a coastal building site like the warehouse and a fish school in range.
 He will build a small rowing vessel and catch some fish.
 This is a very constant supply at the cost of a slightly longer production time per unit of food.
 A small settlement like yours can use both companies, and you can better balance pros and cons if you see the direct comparison.
@@ -112,15 +80,9 @@ Jedná se o nepřetržitý zdroj potravy, cenou za to je trochu delší produkč
 Malá osada, jakou je ta Vaše, může využít obě společnosti. Pokud je uvidíte v přímém srovnání, můžete lépe porovnat jejich výhody a nevýhody.
 ÚKOL: Postavte lovce a rybáře.
 Nezapomeňte je připojit k Vašemu Obchodnímu přístavu pomocí stezek!"
+Postavte lovce a rybáře. Spojte je s budovou Obchodního přístavu.
+NOVÝ ÚKOL: TRŽIŠTĚ
 
-msgid "Build a hunter and a fisher. Connect them to the warehouse."
-msgstr "Postavte lovce a rybáře. Spojte je s budovou Obchodního přístavu."
-
-msgid "NEW TASK: MAIN SQUARE"
-msgstr "NOVÝ ÚKOL: TRŽIŠTĚ"
-
-
-msgid "Your residents need a main square where they can fetch their goods from.
 This means that they need a trail connection from their home to the main square.
 All goods in your warehouse are available at this 'market place', so your residents do not need to walk to the fisher or even to the warehouse.
 You should consider founding your actual house settlement in an area where you can easily expand it and build some trails, too.
@@ -133,8 +95,6 @@ Měli byste zvážit založení Vaší obytné osady v oblasti, kterou můžete 
 Měli byste se vyvarovat výstavby stanů příliš blízko Vašemu dřevorubci,protože postavením stanů budou zničeny stromy, které dřevorubec potřebuje k produkci prken.
 ÚKOL: Postavte tržiště."
 
-
-msgid "\nNow let's have a closer look at the main square.
 In the 'Account' tab you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.
 The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.
 If your balance is positive, you all-in-all make a profit.
@@ -144,15 +104,9 @@ V záložce \"Účet\" můžete vidět přehled financí  Vašeho ostrova, kter�
 Položky \"Nákup\" a \"Prodej\" ukazují Vaši obchodní bilanci a budou vysvětleny později.
 Pokud je Vaše bilance kladná, vykazujete zisk.
 Dále jsou zde záložky odpovídající jednotlivým úrovním. Zde můžete sledovat statistiky o Vašich obyvatelích. Zde můžete nastavit celkovou daň a povolit nebo zakázat obyvatelům na dané úrovni postoupit do vyšší úrovně."
+Postavte tržiště. Vyberte oblast, kde se nenachází mnoho produkčních budov.
+NOVÝ ÚKOL: OBYTNÉ BUDOVY
 
-msgid "Build a main square. Choose an area without many economy buildings."
-msgstr "Postavte tržiště. Vyberte oblast, kde se nenachází mnoho produkčních budov."
-
-msgid "NEW TASK: RESIDENTIAL BUILDINGS"
-msgstr "NOVÝ ÚKOL: OBYTNÉ BUDOVY"
-
-
-msgid "Settlers want to have a roof over their heads, else they won't even think of living in your city! You need to provide tents.
 Tents are the basic residential buildings. Your inhabitants will want to upgrade it when they reach higher increments.
 Settlers may not look very useful since they will try to consume all goods you produce - but they at least pay taxes, and that's the only way you can make money for now!
 TASK: Build a tent and connect it to the main square. Tents dont need to be connected to any of the companies"
@@ -160,12 +114,8 @@ msgstr "Osadníci chtějí mít střechu nad hlavou, jinak je ani nenapadne usad
 Stany jsou základními obytnými budovami. Vaši obyvatelé je budou vylepšovat až dosáhnou vyšší úrovně.
 Osadníci se nezdají být příliš užiteční, snaží se spotřebovat všechno zboží, které produkujete, ale na druhou stranu platí daně, které jsou prozatím Vaším jediným zdrojem peněz!
 ÚKOL: Postavte stan a propojte jej s tržištěm."
+Postavte stan a propojte jej s tržištěm.
 
-msgid "Build a tent and connect it to the main square."
-msgstr "Postavte stan a propojte jej s tržištěm."
-
-
-msgid "\nLet's have a look at the tent overview tab.\nYou can see\n* the happiness of these residents,\n* the taxes they pay and\n* the resources they demand.
 If their demands are fulfilled, happiness and thus your tax income increase.
 If not, happiness and income decrease. At some time your residents may get really sour and simply turn their back on your village, leaving behind a decaying ruin.
 Note that you can also change the global tax settings here, too.
@@ -177,15 +127,9 @@ Pokud nebudou splněny, štěstí a příjem poklesne. Po určité době se obyv
 Všimněte si, že i zde můžete změnit nastavení celkové daně.
 ÚKOL: Postavte alespoň tři další stany.
 TIP: Přidržení klávesy SHIFT Vám zjednoduší hromadnou výstavbu budov stejného druhu."
+Postavte alespoň tři další stany a propojte je s tržištěm.
+NOVÝ ÚKOL: POSTAVTE SIGNÁLNÍ OHEŇ
 
-msgid "Build at least three additional tents and connect them to the main square."
-msgstr "Postavte alespoň tři další stany a propojte je s tržištěm."
-
-msgid "NEW TASK: BUILD SIGNAL FIRE"
-msgstr "NOVÝ ÚKOL: POSTAVTE SIGNÁLNÍ OHEŇ"
-
-
-msgid "Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.
 The trader will supply your settlement with necessary goods which you can't produce yet.\nYou can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.
 Normally the trader ships just sail around and look for deals, but you can speed things up a bit.
 For this purpose, build a signal fire at the coast near your warehouse. It will show ships the way to your settlement.
@@ -196,8 +140,6 @@ Normálně obchodní lodě pouze proplouvají okolo a hledají obchodní příle
 Pro tento účel postavte signální oheň na pobřeží poblíž Obchodního přístavu. Tak ukážete lodím cestu do Vaší osady.
 Aby mohl signální oheň přilákat lodě, musí pokrývat oblast, kterou lodě projíždějí."
 
-
-msgid "\nAfter this little advertisment, the trader will also stop by and look into your warehouse if it planned to sail past it.
 You can propose deals via the warehouse tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)
 At the 'sailors' increment, you are equipped with three trading slots.
 Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.
@@ -209,14 +151,8 @@ V úrovni \"námořníci\" máte k dispozici tři obchodní sloty.
 Klikněte na malou ikonu, abyste změnili režim slotu z \"Nákupu\" na \"Prodej\" a naopak.
 Klikněte do slotu a vyberte zboží, se kterým chcete obchodovat. Více tuto část vysvětlíme později, až budete připraveni obchodovat.
 ÚKOL: Postavte signální oheň na pobřeží v blízkosti Obchodního přístavu."
-
-msgid "Build a signal fire at the coast close to your warehouse."
-msgstr "Postavte signální oheň na pobřeží v blízkosti Obchodního přístavu."
-
-msgid "NEW TASK: LEARN TO TRADE"
-msgstr "NOVÝ ÚKOL: VÝUKA OBCHODOVANÍ"
-
-msgid "Excellent! The Free Trader will now stop by at your warehouse from time to time.
+Postavte signální oheň na pobřeží v blízkosti Obchodního přístavu.
+NOVÝ ÚKOL: VÝUKA OBCHODOVANÍ
 Let's continue our tutorial on how to trade.
 After selecting a particular type of good, the green bar across the bottom of the slot (if visible) shows you how much you have in stock of this good.
 Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. \nWhen buying, you will buy sufficient to hold your 'target value' in stock. \nWhen selling the 'target value' is the number which you hold in reserve to not sell"
@@ -225,8 +161,6 @@ Pokračujme v našem návodu, jak obchodovat.
 Po vybrání konkrétního typu zboží, zelený ukazatel napravo od slotu (pokud je viditelný) ukazuje, kolik jednotek zboží máte aktuálně ve skladu.
 Tažením posuvníku na pravé straně každého slotu určíte \"cílovou hodnotu\", která má různé významy pro \"Prodej\" a \"Nákup\".\nPokud nakupujete zboží, bude nakoupeno tolik zboží, aby byla udržena \"cílová hodnota\" ve skladu.\nPokud zboží prodáváte, \"cílová hodnota\" určuje množství zboží, které uchováváte jako rezervu a nebude prodáno."
 
-
-msgid "\nFor example:\nHaving a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.\nSelling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.
 If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.
 Unknown Horizons features smart pricing, so the value of one unit can vary.\nIt is NOT possible to change prices manually!
 You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.
@@ -236,17 +170,9 @@ Pokud svobodný obchodník bude chtít nakoupit nebo prodat méně zboží než 
 Unknown Horizons obsahuje chytré nastavení cen, to znamená, že cena za jednotku zboží se může lišit.\nNení možné měnit ceny manuálně!
 Vaši obchodní bilanci můžete vidět v záložce \"Účet\", kde jsou srovnány \"Nákup\" a \"Prodej\".
 ÚKOL: Nakupte nástroje tak, aby zásoby ve vašem skladu byly 30 jednotek!"
-
-msgid "Reach an island stock of at least 30 tools."
-msgstr "Dosáhněte zásoby 30 nástrojů ve skladu."
-
-msgid "Note that this might take a while."
-msgstr "Všimněte si, že to může chvíli trvat."
-
-msgid "NEW TASK: BUILD A PAVILION"
-msgstr "NOVÝ ÚKOL: POSTAVTE PAVILÓN"
-
-msgid "Those tools will be enough for the moment. Well done!
+Dosáhněte zásoby 30 nástrojů ve skladu.
+Všimněte si, že to může chvíli trvat.
+NOVÝ ÚKOL: POSTAVTE PAVILÓN
 You now provide housing, a main square and food to your inhabitants.
 Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.
 The solution is a pavilion which the village parson quickly puts up as shelter from the sun.
@@ -259,8 +185,6 @@ Stále je zde ještě jeden požadavek, který nebyl doposud uspokojen, jak si m
 Budovy služeb, jako je tato, potřebují být propojeny se stany pomocí cest, jinak je vaši obyvatelé nebudou moci využívat.
 V pozdějších úrovních, budou možná k dispozici vylepšené verze budov."
 
-
-msgid "\nNote that faith is treated like a physical resource!
 This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.\nAfter some time, they will have consumed it and then again look for a producer to collect more faith.
 Important:\nIt is NOT enough that the building is merely within a certain range of the tents.\nThe road connection is required as well.
 TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith."
@@ -268,14 +192,8 @@ msgstr "Všimněte si, že víra se chová jako fyzický zdroj!
 To znamená, že vaši obyvatelé potřebují stezky k producentovi (pavilónu), aby si mohli přijít vyzvednout víru.\nPo určité době tuto víru zkonzumují a potom znovu vyhledají producenta, aby dostali více víry.
 Důležité:\nNENÍ dostačující, že se budova nachází v dostatečné vzdálenosti od stanů.\nSpojení pomocí stezky je rovněž vyžadováno.
 ÚKOL: Postavte pavilón spojený stezkou se stany, aby se uspokojila potřeba víry vašich námořníků."
-
-msgid "Build a pavilion with connection to the tents."
-msgstr "Postav pavilón propojený se stany."
-
-msgid "NEW TASK: NEXT INCREMENT"
-msgstr "NOVÝ ÚKOL: DALŠÍ ÚROVEŇ"
-
-msgid "All demands are fulfilled now if your inhabitants can regularly visit the main square & pavilion and your food supply is adequate.
+Postav pavilón propojený se stany.
+NOVÝ ÚKOL: DALŠÍ ÚROVEŇ
 If the sailors are happy enough, they want to advance to the next increment called Pioneers.
 To make them happy, there is nothing else for you to do but setting taxes to a lower level since you have fulfilled all the demands of your inhabitants.
 You should try to not always run on low taxes since this will probably lead to bankruptcy sooner or later. For a period of time and if you know what you are doing, it is fine though.
@@ -286,8 +204,6 @@ Abyste je učinili šťastnými, není nic jednoduššího než nastavit daně n
 Nízké daně je potřeba využívat obezřetně. Pokud je necháte na nízké úrovni, přivedete svůj ostrov, dříve nebo později, k bankrotu. Pokud ale víte, co děláte, fungují skvěle.
 Po určité době se první obyvatelé vypraví na náměstí, aby získali nový stavební materiál, který potřebují ke stavbě srubu. Tímto domem nahradí své dosavadní stany."
 
-
-msgid "\nSuch residential upgrades are the only ones which cost resources and can not be restricted by you.
 There are manual upgrades to some buildings where you use resources to construct a better version on the same spot, and there are upgrades without costs for example as you will see with the lumberjack (In this case, only the graphics change).
 Upgraded housing accomodates more inhabitants, and pioneers pay more taxes than sailors, too.
 As you may have figured out already, the downside is that pioneers demand additional goods which sailors do not need - so you will need to spend this extra money to make them happy as well.
@@ -297,14 +213,8 @@ Jsou zde také manuální vylepšení některých budov, kdy jsou prostředky vy
 Vylepšené domy pojmou více obyvatel a průkopníci také platí vyšší daně než námořníci.
 Jak už jste si možná všimli, nevýhodou je, že průkopníci požadují dodatečné zboží, které námořníci nepotřebovali - takže budete muset utratit peníze, abyste je učinili šťastnými.
 ÚKOL: Nastavte výši daní na nízkou hodnotu (levý okraj posuvníku) a počkejte na vylepšení."
-
-msgid "Set the tax level to Low (left end) and wait for your sailors to upgrade."
-msgstr "Nastavte výši daní na nízkou hodnotu (levý okraj) a počkejte na vylepšení."
-
-msgid "NEW TASK: BUILD A FARM"
-msgstr "NOVÝ ÚKOL: POSTAVTE FARMU"
-
-msgid "Congratulations! Some of your inhabitants have reached increment II!
+Nastavte výši daní na nízkou hodnotu (levý okraj) a počkejte na vylepšení.
+NOVÝ ÚKOL: POSTAVTE FARMU
 Now you have access to new buildings, take a look at the Build menu again.
 A shiny new tab appeared there.
 Pioneers will demand cloth, so you need to set up a production line for cloth starting with lambs wool (which is one of the goods produced at the farm).
@@ -317,8 +227,6 @@ Průkopníci budou požadovat látku, to znamená, že budete muset vytvořit v�
 Farma je vyjímečná produkční budova, která neprodukuje pouze jednu, ale velmi mnoho (a rozličných) druhů zboží, které si zvolíte.
 Výstupní produkt závisí na typu polí, které jsou vystavěny okolo ní."
 
-
-msgid "\nWe will have a closer look at this later.
 Farms, like all companies producing raw materials, do not necessarily need to be connected to storage or a warehouse.
 As long as units of the final production company can reach the farm, and collectors from the warehouse or storage tent can reach the final company everything's fine.
 If you, however, plan to do some processing on different parts of the island (which can make sense) or even on different islands, you will need a connection to collectors.
@@ -330,14 +238,8 @@ Jednotky výrobní společnosti musí dosáhnout na výstupy z farmy a výběrč
 Nicméně, pokud plánujete provádět některou část z výrobního řetězce v jiných částech ostrova (což může dávat smysl) nebo na různých ostrovech, budete potřebovat propojení k výběrčím.
 Zkuste postavit farmu tak, aby nebyla blízko pobřeží a stávajících budov, protože bude pro správnou činnost potřebovat místo okolo sebe.
 ÚKOL: Postavte farmu."
-
-msgid "Build a farm and keep some empty space around it."
-msgstr "Postavte farmu a nechte kolem ni volné místo."
-
-msgid "NEW TASK: BUILD FIELDS"
-msgstr "NOVÝ ÚKOL: STAVBA POLÍ"
-
-msgid "The farm itself is not going to produce anything without some fields.
+Postavte farmu a nechte kolem ni volné místo.
+NOVÝ ÚKOL: STAVBA POLÍ
 You currently have the choice between pastures, potato and sugar fields.
 Let's have a short overview:\n* Pasture: Sheep live here, producing lamb wool.\n* Potato field: Grows potatoes which are currently treated as food.\n* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.
 We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.
@@ -348,8 +250,6 @@ Proveďme krátké shrnutí:\n* Pastviny - žijí zde ovce, produkují ovčí vl
 Nyní potřebujeme pouze pastviny, ale v případě, že Vaše zásobení jídlem je příliš malé (díky mnoha obytným budovám), můžete také postavit bramborové pole.
 Všimněte si, že brambory potřebujete propojit s farmou (nikoli s poli!), což je jediná budova, která pracuje se zbožím."
 
-
-msgid "\nMake sure that all fields you build are in the area covered by the farm.
 You can have combined production - one pasture will not lead to 100 percent efficiency of the farm - but you need to check how many fields one farm can serve.
 Different classes of fields require the farm units to spend more or less time there (to seed, harvest, herd, etc…) and because of that, the farm may be unable to serve all of the fields you built for it in time.
 For now, you do not need to care about these issues a lot since you haven't built any fields. Let's change that!
@@ -359,14 +259,8 @@ Můžete mít kombinovanou produkci - jedna jednotka pastvin nepovede ke stoproc
 Různé druhy polí mají různé časové požadavky (k vysetí, sklizni, pastvě, atd.) a kvůli tomu nemusí být farma schopna obsloužit všechna pole včas.
 Nyní se tím nemusíte příliš zabývat, protože jste nevybudovali žádné pole. Pojďme to změnit!
 ÚKOL: Vybudujte alespoň jednu pastvinu v okolí farmy a přidejte bramborové pole, pokud chcete."
-
-msgid "Build at least one pasture and add potato fields if you like."
-msgstr "Vybudujte alespoň jednu pastvinu a přidejte bramborové pole, pokud chcete."
-
-msgid "NEW TASK: BUILD STORAGE"
-msgstr "NOVÝ ÚKOL: POSTAVTE SKLADIŠTĚ"
-
-msgid "Did you watch your lumberjack recently?
+Vybudujte alespoň jednu pastvinu a přidejte bramborové pole, pokud chcete.
+NOVÝ ÚKOL: POSTAVTE SKLADIŠTĚ
 Since your warehouse does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.\nSo if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.\nWe can improve this situation with two different approaches, and below we will have a look at both of them.
 All companies offer the possibility of doing no work at all.\nThis may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.
 If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing."
@@ -375,8 +269,6 @@ Vzhledem k tomu že Obchodní přístav nemá neomezený prostor pro uložení z
 Všichni dodavatelé nabízejí možnost nepracovat.\nMůže to znít divně, ale zkuste kliknout na ozubené kolo, které vidíte například v přehledu dřevorubce.
 Pokud je povolen režim \"rozbít\" (říkáme tomu \"Vyřazení z provozu\"), budou provozní náklady, které zaplatíte za budovu nižší. Nebudou nula, ale stále nižší, než pokud budete dodavatel pracovat."
 
-
-msgid "\nThis means that you can save money when you temporarily do not need a company and do not want to tear it down, either.
 Another solution is to build the last increment-I building which has not been mentioned so far: the storage tent.
 This building has two purposes. It:\n* Offers more storage for your goods, and \n* sends its own collectors to fetch goods, just like the warehouse does.
 Note that companies can also be connected to a storage in order to get their products collected, and if the warehouse is overwhelmed with collector tasks, you can place a storage tent to help out there.
@@ -386,14 +278,8 @@ Dalším řešením je vybudování poslední budovy, která zatím nebyla zmín
 tato budova má dva učely a to:\n* Nabízí více prostoru pro vaše zboží, a\n* vysílá své sběrače vyzvednout zboží, stejně jako Obchodní přístav.
 Pamatujte že všechny společnosti potřebují být spojeny s Obchodním přístavem pro svoz zboží. Pokud má Obchodní přístav moc úkolů postavte skladovací stan ktery Obchodnímu přístavu pomůže při svážení výrobků..
 ÚKOL: Vybudujte skladovací stan, přednostně tam kde potřebujete sběrače."
-
-msgid "Build a storage tent (increment I tab) where it makes sense."
-msgstr "Vybudujte skladovací stan (v záložce úrovně I) tam, kde to má smysl."
-
-msgid "NEW TASK: BUILD A WEAVER"
-msgstr "NOVÝ ÚKOL: POSTAVTE TKALCOVNU"
-
-msgid "Now the wool production is set up, you still need a weaver to produce cloth out of this wool.
+Vybudujte skladovací stan (v záložce úrovně I) tam, kde to má smysl.
+NOVÝ ÚKOL: POSTAVTE TKALCOVNU
 There are two spots where you can build it - either close to the farm or close to a Storage Tent (or the warehouse).
 In both cases you should ensure the connection to a trail as well.
 You can place the weaver close to the farm and tear down any trail to the farm to see that it will still fetch the wool and produce.
@@ -403,27 +289,15 @@ Jsou zde dvě místa, kde je můžete postavit - buď v blízkosti farmy nebo v 
 V obou případech se ujistěte jestli je propojená stezkou.
 Pokud bude tkadlec v dosahu farmy nemusíte je propojit stezkou a přece to bude fungovat.
 ÚKOL: Postavte tkalcovnu tak, aby byla v dosahu vlny."
-
-msgid "Build a weaver that can somehow reach the wool of your farm."
-msgstr "Postavte tkalcovnu, která bude v dosahu vlny z Vaší farmy."
-
-msgid "House a total of 50 or more inhabitants in your city to complete the tutorial. You need a positive balance."
-msgstr "Dosáhnětě 50 a více obyvatel ve vašem městě k dokončení tutorialu. Musíte mít pozitivní bilanci."
-
-msgid "NEW TASK: COMPLETE TUTORIAL"
-msgstr "NOVÝ ÚKOL: DOKONČETE TUTORIAL"
-
-msgid "Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.
+Postavte tkalcovnu, která bude v dosahu vlny z Vaší farmy.
+Dosáhnětě 50 a více obyvatel ve vašem městě k dokončení tutorialu. Musíte mít pozitivní bilanci.
+NOVÝ ÚKOL: DOKONČETE TUTORIAL
 Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!
 TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial."
 msgstr "Dosáhnětě 50 a více obyvatel tím, že jim postavíte více domů.
 Jakmile uspokojíte obyvatele, jste připraveni objevovat nové neznámé obzory!
 ÚKOL: Dosáhněte počtu 50 obyvatel a udrže kladnou bilanci pro dokončení tutorialu."
-
-msgid "NO TASKS LEFT"
-msgstr "ŽÁDNÉ DALŠÍ ÚKOLY"
-
-msgid "There is nothing left to do now.
+ŽÁDNÉ DALŠÍ ÚKOLY
 If you have any suggestions on what we could or should improve, add or leave out:
 www.unknown-horizons.org
 
@@ -437,43 +311,13 @@ www.unknown-horizons.org
 team@unknown-horizons.org
 Naše fórum je pro vás otevřené!
 Nejlepších výsledků bylo dosaženo pomocí našeho IRC kanálu, takže to byste mohli zkusit jako první (-;"
-
-msgid "Thanks!"
-msgstr "Díky!"
-
-msgid "
+Díky!
 \nThanks for playing the tutorial!
 Your UH-Team"
 msgstr "
 \nDěkujeme za hraní tutorialu!
 Tvůj UH-Team"
-
-msgid "Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!"
-msgstr "Gratulujeme! Dostali jste se na konec tutorialu a jste připraveni na další výzvy!"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Gratulujeme! Dostali jste se na konec tutorialu a jste připraveni na další výzvy!
 
 
 
